@@ -1,0 +1,256 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 1.41 (9/9/13), modified by David Rector
+%
+% This template was originally downloaded from:
+% http://www.latextemplates.com
+% before modification.
+% 
+% Original authors:
+% Steven Gunn 
+% http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/
+% and
+% Sunil Patel
+% http://www.sunilpatel.co.uk/thesis-template/
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%       PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt, a4paper, oneside]{Thesis} % Paper size, default font size and one-sided paper
+
+\graphicspath{{Figures/}} % Specifies the directory where pictures are stored
+\usepackage{enumerate}% http://ctan.org/pkg/enumerate
+\usepackage[square, numbers, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage{listings}
+\usepackage{times}
+\ifpaper
+	\hypersetup{urlcolor=black, colorlinks=false, pdfborder={0 0 0}} % Makes links black, for better printing.
+\else
+	\hypersetup{urlcolor=blue, colorlinks=true} % Makes hyperlinks blue
+\fi
+	
+
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+\usepackage{setspace}
+\usepackage{lipsum}% just to generate filler text
+
+\iffinal
+	% Do nothing
+\else
+	% DWR: watermark package
+	%\usepackage{draftwatermark} %use this and not next line if you want watermark on every page
+	\usepackage[firstpage]{draftwatermark} % if watermark only desired on first page
+\fi
+
+
+
+\begin{document}
+
+%DWR: Draft watermark
+\iffinal
+	\clearpage
+	% Do nothing here
+\else
+	\SetWatermarkText{DRAFT}
+	\SetWatermarkLightness{0.9}
+	\SetWatermarkScale{2}
+\fi
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+%\setstretch{1.1} % Line spacing of 1.3
+
+
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+%\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+
+% TITLE PAGE (to edit format, see titlePage.tex; to edit names/values, see docVars.tex)
+
+\input{titlePage}
+\clearpage
+\newpage\null\thispagestyle{empty}\newpage
+
+%----------------------------------------------------------------------------------------
+%       ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+
+\singlespacing
+\clearpage
+\thispagestyle{plain}
+\pagestyle{plain}
+\pagenumbering{roman}
+\setcounter{page}{2}
+
+\addtotoc{Abstract} % Add the "Abstract" page entry to the Contents
+
+\abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\thispagestyle{plain}
+\pagestyle{plain}
+\pagenumbering{roman}
+\setcounter{page}{2}
+\abstracttextfull
+}
+
+\clearpage % Start a new page
+
+
+
+%----------------------------------------------------------------------------------------
+%       QUOTATION PAGE
+%----------------------------------------------------------------------------------------
+
+%\pagestyle{empty} % No headers or footers for the following pages
+
+\null\vfill % Add some space to move the quote down the page a bit
+\null\vfill
+
+\textit{\quotetextfull}
+
+\begin{flushright}
+\quoteattrname
+\end{flushright}
+
+\vfill\vfill\vfill\vfill\vfill\vfill\null % Add some space at the bottom to position the quote just right
+
+\clearpage % Start a new page
+
+
+%----------------------------------------------------------------------------------------
+%       ACKNOWLEDGMENTS
+%----------------------------------------------------------------------------------------
+
+\setstretch{1.3} % Reset the line-spacing to 1.3 for body text (if it has changed)
+
+\acknowledgments{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
+\acknowtextfull
+}
+\clearpage % Start a new page
+
+%----------------------------------------------------------------------------------------
+%       LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\hypertarget{contents}{}
+\tableofcontents % Write out the Table of Contents
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+%\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+%\listoftables % Write out the List of Tables
+
+%----------------------------------------------------------------------------------------
+%       ABBREVIATIONS
+%----------------------------------------------------------------------------------------
+
+%\clearpage % Start a new page
+
+%\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+%\lhead{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
+%\listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
+%{
+%\textbf{LAH} & \textbf{L}ist \textbf{A}bbreviations \textbf{H}ere \\
+%\textbf{Acronym} & \textbf{W}hat (it) \textbf{S}tands \textbf{F}or \\
+%}
+
+%----------------------------------------------------------------------------------------
+%       PHYSICAL CONSTANTS/OTHER DEFINITIONS
+%----------------------------------------------------------------------------------------
+
+%\clearpage % Start a new page
+
+%\lhead{\emph{Physical Constants}} % Set the left side page header to "Physical Constants"
+
+%\listofconstants{lrcl} % Include a list of Physical Constants (a four column table)
+%{
+%Speed of Light & $c$ & $=$ & $2.997\ 924\ 58\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
+% Constant Name & Symbol & = & Constant Value (with units) \\
+%}
+
+%----------------------------------------------------------------------------------------
+%       SYMBOLS
+%----------------------------------------------------------------------------------------
+
+%\clearpage % Start a new page
+
+%\lhead{\emph{Symbols}} % Set the left side page header to "Symbols"
+
+%\listofnomenclature{lll} % Include a list of Symbols (a three column table)
+%{
+%$a$ & distance & m \\
+%$P$ & power & W (Js$^{-1}$) \\
+% Symbol & Name & Unit \\
+
+%& & \\ % Gap to separate the Roman symbols from the Greek
+
+%$\omega$ & angular frequency & rads$^{-1}$ \\
+% Symbol & Name & Unit \\
+%}
+
+%----------------------------------------------------------------------------------------
+%       DEDICATION
+%----------------------------------------------------------------------------------------
+
+\setstretch{1.1} % Return the line spacing back to 1.3
+
+\pagestyle{empty} % Page style needs to be empty for this page
+
+\dedicatory{\large{\dedicationtext}} % Dedication text
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+%----------------------------------------------------------------------------------------
+%       THESIS CONTENT - CHAPTERS & APPENDICES
+%----------------------------------------------------------------------------------------
+
+\doublespacing % if you want a copy that is single spaced, use \singlespacing.  If you want 1.5 spacing, use \onehalfspacing
+\mainmatter % Begin numeric (1,2,3...) page numbering
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+
+\input{chapterOrdering}
+
+\backmatter
+
+%----------------------------------------------------------------------------------------
+%       BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\label{Bibliography}
+
+% useless commets 
+\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+
+\bibliographystyle{unsrtnat} % Use the "unsrtnat" BibTeX style for formatting the Bibliography
+\setstretch{1}
+%\onehalfspacing
+\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+
+\end{document}  

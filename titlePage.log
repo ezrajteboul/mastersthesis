@@ -1,0 +1,577 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  22 FEB 2015 18:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**titlePage.tex
+(./titlePage.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+
+./titlePage.tex:5: LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./titlePage.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--6
+[] 
+ []
+
+./titlePage.tex:8: Undefined control sequence.
+l.8 \HRule
+           \\[0.5cm] % Horizontal line
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:8: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \HRule \\
+             [0.5cm] % Horizontal line
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./titlePage.tex:10: Undefined control sequence.
+l.10 {\large
+             \bfseries \ttitle} % Thesis title
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:10: Undefined control sequence.
+l.10 {\large \bfseries \ttitle
+                              } % Thesis title
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:11: Undefined control sequence.
+l.11 \HRule
+            % Horizontal line
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:12: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \linespread{1.1} \\
+                        ~\\[0.2cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (7.43329pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/it/10 A 
+ []
+
+
+Overfull \hbox (20.44429pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 The- 
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 sis 
+ []
+
+
+Overfull \hbox (42.67747pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/it/10 Submitted 
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 to 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (19.04985pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 Fac- 
+ []
+
+
+Overfull \hbox (16.09988pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 ulty 
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/it/10 in 
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 par- 
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 tial 
+ []
+
+
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 ful- 
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 fill- 
+ []
+
+
+Overfull \hbox (21.72208pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 ment 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 re- 
+ []
+
+
+Overfull \hbox (24.91646pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 quire- 
+ []
+
+
+Overfull \hbox (25.81094pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 ments 
+ []
+
+
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 for 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (26.19418pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/it/10 degree 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/it/10 of 
+ []
+
+./titlePage.tex:13: Undefined control sequence.
+<recently read> \degreename 
+                            
+l.13 ...rements for the\\ degree of\\ \degreename}
+                                                  \\[0.2cm] % University req...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:13: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...ments for the\\ degree of\\ \degreename}\\
+                                                  [0.2cm] % University requi...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (9.45598pt too wide) in paragraph at lines 14--14
+ []\OT1/cmr/m/it/10 in 
+ []
+
+./titlePage.tex:15: Undefined control sequence.
+l.15 \fieldname
+               \\[0.3cm] % Research group name and department name
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:15: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \fieldname\\
+                 [0.3cm] % Research group name and department name
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./titlePage.tex:19: Undefined control sequence.
+l.19 \large
+           \emph{by}\\\Large
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (10.3402pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/m/it/10 by 
+ []
+
+./titlePage.tex:19: Undefined control sequence.
+<recently read> \Large 
+                       
+l.19 \large\emph{by}\\\Large
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:20: Undefined control sequence.
+<recently read> \authornames 
+                             
+l.20 \textsc{\authornames}
+                          \\ % Author name - remove the \href bracket to rem...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:23: Undefined control sequence.
+<recently read> \large 
+                       
+l.23  \textsc{\large \univname}
+                               \\ % University name
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:23: Undefined control sequence.
+<argument> \large \univname 
+                            
+l.23  \textsc{\large \univname}
+                               \\ % University name
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:24: LaTeX Error: The font size command \normalsize is not defin
+ed:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24  \normalsize
+                  \citystatenames\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./titlePage.tex:24: Undefined control sequence.
+l.24  \normalsize \citystatenames
+                                 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:24: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24  \normalsize \citystatenames\\
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./titlePage.tex:25: Undefined control sequence.
+l.25  { \today
+              }\\[2.0 cm] % Date
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:25: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25  { \today}\\
+                 [2.0 cm] % Date
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./titlePage.tex:30: Undefined control sequence.
+l.30 \begin{flushright} \large
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./titlePage.tex:31: LaTeX Error: The font size command \normalsize is not defin
+ed:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \normalsize
+                 \emph{Examining Committee:} \\~\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \small 
+                       
+l.32 \underline{\hspace{6cm}}\\\small
+                                      (chair) \textsc{\commchairname} \\~\\~...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ) in font nullfont!
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \commchairname 
+                               
+l.32 ...}}\\\small (chair) \textsc{\commchairname}
+                                                   \\~\\~ \underline{\hspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \small 
+                       
+l.32 ...} \\~\\~ \underline{\hspace{6cm}}\\ \small
+                                                  \textsc{\commadvtwoname} \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \commadvtwoname 
+                                
+l.32 ...ace{6cm}}\\ \small\textsc{\commadvtwoname}
+                                                   \\~\\~ \underline{\hspace...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \small 
+                       
+l.32 ...} \\~\\~ \underline{\hspace{6cm}}\\ \small
+                                                  \textsc{\commadvthreename}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:32: Undefined control sequence.
+<recently read> \commadvthreename 
+                                  
+l.32 ...e{6cm}}\\ \small\textsc{\commadvthreename}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 29--35
+ []$[]$ 
+ []
+
+./titlePage.tex:38: Undefined control sequence.
+l.38 \begin{flushleft} \large
+                             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:39: Undefined control sequence.
+<recently read> \small 
+                       
+l.39 \underline{\hspace{6cm}}\\ \small
+                                      \textsc{\deangradstudiesname}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./titlePage.tex:39: Undefined control sequence.
+<recently read> \deangradstudiesname 
+                                     
+l.39 ...cm}}\\ \small\textsc{\deangradstudiesname}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (8191.99998pt too wide) in paragraph at lines 37--43
+ []$[]$ 
+ []
+
+
+./titlePage.tex:48: LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titlePage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 26 strings out of 493117
+ 358 string characters out of 6135433
+ 54909 words of memory out of 5000000
+ 3586 multiletter control sequences out of 15000+600000
+ 4595 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,5n,13p,228b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

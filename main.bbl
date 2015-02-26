@@ -1,0 +1,328 @@
+\begin{thebibliography}{57}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kettelkamp(1984)]{kettelkamp1984}
+Larry Kettelkamp.
+\newblock \emph{Electronic Musical Instruments: What They Do, how They Work}.
+\newblock W. Morrow, 1984.
+
+\bibitem[Barbour(1998)]{barbour1998}
+Eric Barbour.
+\newblock The cool sound of tubes [vacuum tube musical applications].
+\newblock \emph{Spectrum, IEEE}, 35\penalty0 (8):\penalty0 24--35, 1998.
+
+\bibitem[Hamm(1973)]{hamm1973}
+Russell Hamm.
+\newblock Tubes versus transistors-is there an audible difference.
+\newblock \emph{Journal of the audio engineering society}, 21\penalty0
+  (4):\penalty0 267--273, 1973.
+
+\bibitem[Dunne(2005)]{dunne2005}
+Anthony Dunne.
+\newblock \emph{Hertzian tales: Electronic products, aesthetic experience, and
+  critical design}.
+\newblock MIT press Cambridge, 2005.
+
+\bibitem[Evens(2005)]{evens2005}
+Aden Evens.
+\newblock \emph{Sound ideas: Music, machines, and experience}, volume~27.
+\newblock U of Minnesota Press, 2005.
+
+\bibitem[Rovan(2009)]{rovan2009}
+Joseph~"Butch" Rovan.
+\newblock Living on the edge: Alternate controllers and the obstinate
+  interface, 2009.
+
+\bibitem[Pinch(2001)]{pinch2001}
+Trevor Pinch.
+\newblock Why do you go to a music store to buy a synthesizer: path dependence
+  and the social construction of technology.
+\newblock \emph{Path Dependence and Creation}, pages 381--400, 2001.
+
+\bibitem[Collins(2008)]{collins2008}
+Nicolas Collins.
+\newblock A solder's tale: Putting the" lead" back in" lead users".
+\newblock \emph{IEEE Pervasive Computing}, 7\penalty0 (3):\penalty0 32--38,
+  2008.
+
+\bibitem[Braun(2000)]{braun2000}
+Hans-Joachim Braun.
+\newblock \emph{Music and technology in the twentieth century}.
+\newblock JHU Press, 2000.
+
+\bibitem[Armstrong(2006)]{armstrong2006}
+Newton Armstrong.
+\newblock \emph{An enactive approach to digital musical instrument design}.
+\newblock PhD thesis, Princeton University, 2006.
+
+\bibitem[Haslett(2005)]{haslett2005}
+William Haslett.
+\newblock Triangle combs\# 1: Music for a new electro-acoustic instrument.
+\newblock Master's thesis, Dartmouth College, 2005.
+
+\bibitem[Mellis and Buechley(2014)]{mellis2014}
+David~A Mellis and Leah Buechley.
+\newblock Do-it-yourself cellphones: an investigation into the possibilities
+  and limits of high-tech diy.
+\newblock In \emph{Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems}, pages 1723--1732. ACM, 2014.
+
+\bibitem[Perner-Wilson(2011)]{perner2011}
+Hannah Hannah~Rosamonde Perner-Wilson.
+\newblock A kit-of-no-parts.
+\newblock Master's thesis, Massachusetts Institute of Technology, 2011.
+
+\bibitem[Mellis(2011)]{mellis2011}
+David~A Mellis.
+\newblock Case studies in the digital fabrication of open-source consumer
+  electronic products.
+\newblock Master's thesis, Massachusetts Institute of Technology, 2011.
+
+\bibitem[Hermans(2014)]{hermans2014}
+Phillip Hermans.
+\newblock Convergent technologies, custom aesthetics.
+\newblock \emph{Leonardo Music Journal}, 24, 2014.
+
+\bibitem[Cluett(2013)]{cluett2013}
+Seth~Allen Cluett.
+\newblock \emph{Loud speaker: Towards a component theory of media sound}.
+\newblock PhD thesis, PRINCETON UNIVERSITY, 2013.
+
+\bibitem[Rylan(2005)]{rylan2015}
+Jessica Rylan.
+\newblock artist's talk at mit, 2005.
+
+\bibitem[Ghazala(2004)]{ghazala2004}
+Qubais~Reed Ghazala.
+\newblock The folk music of chance electronics: Circuit-bending the modern
+  coconut.
+\newblock \emph{Leonardo Music Journal}, 14:\penalty0 97--104, 2004.
+
+\bibitem[Christensen et~al.(2005)Christensen, Olesen, and
+  Kj{\ae}r]{christensen2005}
+Jens~Fr{\o}slev Christensen, Michael~Holm Olesen, and Jonas~Sorth Kj{\ae}r.
+\newblock The industrial dynamics of open innovation—evidence from the
+  transformation of consumer electronics.
+\newblock \emph{Research policy}, 34\penalty0 (10):\penalty0 1533--1549, 2005.
+
+\bibitem[Feldman and Sandborn(2007)]{Feldman2007}
+Kiri Feldman and Peter Sandborn.
+\newblock Integrating technology obsolescence considerations into product
+  design planning.
+\newblock In \emph{ASME 2007 International Design Engineering Technical
+  Conferences and Computers and Information in Engineering Conference}, pages
+  981--988. American Society of Mechanical Engineers, 2007.
+
+\bibitem[Silver(2009)]{silver2009}
+Jay~S Silver.
+\newblock Nature as interface: Macgyver'ing and martha-stewart'ing
+  interactivity with trees, pencils, grandpa, even the kitchen sink.
+\newblock In \emph{Proceedings of the seventh ACM conference on Creativity and
+  cognition}, pages 483--484. ACM, 2009.
+
+\bibitem[Hertz and Parikka(2012)]{hertz2012}
+Garnet Hertz and Jussi Parikka.
+\newblock Zombie media: Circuit bending media archaeology into an art method.
+\newblock \emph{Leonardo}, 45\penalty0 (5):\penalty0 424--430, 2012.
+
+\bibitem[Riis(2013)]{riis2013}
+Morten Riis.
+\newblock The media archaeological repairman.
+\newblock \emph{Organised Sound}, 18\penalty0 (03):\penalty0 255--265, 2013.
+
+\bibitem[Jackson(2014)]{jackson2014}
+Steven~J Jackson.
+\newblock Rethinking repair, 2014.
+
+\bibitem[Vinck and Blanco(2003)]{vinck2003}
+Dominique Vinck and Eric Blanco.
+\newblock \emph{Everyday engineering: An ethnography of design and innovation}.
+\newblock MIT Press, 2003.
+
+\bibitem[Holmes(2002)]{holmes2002}
+Thomas~B. Holmes.
+\newblock \emph{Electronic and experimental music: pioneers in technology and
+  composition}.
+\newblock Psychology Press, 2002.
+
+\bibitem[Collins(2006)]{collins2006}
+Nicolas Collins.
+\newblock \emph{Handmade electronic music: the art of hardware hacking}.
+\newblock Taylor \& Francis, 2006.
+
+\bibitem[Paradiso et~al.(2008)Paradiso, Heidemann, and Zimmerman]{paradiso2008}
+Joseph~A Paradiso, John Heidemann, and Thomas~G Zimmerman.
+\newblock Hacking is pervasive.
+\newblock \emph{Pervasive Computing, IEEE}, 7\penalty0 (3):\penalty0 13--15,
+  2008.
+
+\bibitem[Williams et~al.(2012)Williams, Gibb, and Weekly]{williams2012}
+Amanda Williams, Alicia Gibb, and David Weekly.
+\newblock Research with a hacker ethos: what diy means for tangible interaction
+  research.
+\newblock \emph{interactions}, 19\penalty0 (2):\penalty0 14--19, 2012.
+
+\bibitem[von Hornbostel and Sachs(1961)]{von1961}
+Erich~M von Hornbostel and Curt Sachs.
+\newblock Classification of musical instruments: Translated from the original
+  german by anthony baines and klaus p. wachsmann.
+\newblock \emph{The Galpin Society Journal}, pages 3--29, 1961.
+
+\bibitem[Hugill(2012)]{hugill2012}
+Andrew Hugill.
+\newblock \emph{The digital musician}.
+\newblock Routledge, 2012.
+
+\bibitem[Bowers and Archer(2005)]{bowers2005}
+John Bowers and Phil Archer.
+\newblock Not hyper, not meta, not cyber but infra-instruments.
+\newblock In \emph{Proceedings of the 2005 conference on New interfaces for
+  musical expression}, pages 5--10. New Interfaces for Musical Expression,
+  2005.
+
+\bibitem[Page(1837)]{page1837}
+Charles~Grafton Page.
+\newblock The production of galvanic music.
+\newblock \emph{Sillimans Journal}, 32:\penalty0 354, 1837.
+
+\bibitem[Nasmyth(1908)]{nasmyth1908}
+George~William Nasmyth.
+\newblock \emph{The Frequency of the Singing Arc}.
+\newblock Macmillan Company, 1908.
+
+\bibitem[Langford-Smith(1953)]{langford1953}
+Fritz Langford-Smith.
+\newblock \emph{Radiotron designer's handbook}.
+\newblock Wireless Press, 1953.
+
+\bibitem[Dunbar-Hester(2010)]{dunbar2010}
+Christina Dunbar-Hester.
+\newblock Listening to cybernetics music, machines, and nervous systems,
+  1950-1980.
+\newblock \emph{Science, technology \& human values}, 35\penalty0 (1):\penalty0
+  113--139, 2010.
+
+\bibitem[Nakai(2014)]{nakai2014}
+You Nakai.
+\newblock Hear after: Matters of life and death in david tudor’s electronic
+  music.
+\newblock \emph{communication+ 1}, 3\penalty0 (1):\penalty0 10, 2014.
+
+\bibitem[Kuivila(2004)]{kuivila2004}
+Ron Kuivila.
+\newblock Open sources: Words, circuits and the notation-realization relation
+  in the music of david tudor.
+\newblock \emph{Leonardo Music Journal}, 14:\penalty0 17--23, 2004.
+
+\bibitem[Tudor(year unknown)]{tudor}
+David Tudor.
+\newblock archives.
+\newblock seriesIA, Box 3, Folder 2, year unknown.
+
+\bibitem[Kuivila and Behrman(1998)]{kuivila1998}
+Ron Kuivila and David Behrman.
+\newblock Composing with shifting sand: A conversation between ron kuivila and
+  david behrman on electronic music and the ephemerality of technology.
+\newblock \emph{Leonardo Music Journal}, pages 13--16, 1998.
+
+\bibitem[Driscoll and Rogalsky(2004)]{driscoll2004}
+John Driscoll and Matt Rogalsky.
+\newblock David tudor's rainforest: An evolving exploration of resonance.
+\newblock \emph{Leonardo Music Journal}, 14:\penalty0 25--30, 2004.
+
+\bibitem[Collins(2004)]{collins2004}
+Nicolas Collins.
+\newblock Composers inside electronics: Music after david tudor.
+\newblock \emph{Leonardo Music Journal}, 14\penalty0 (1):\penalty0 iv--1, 2004.
+
+\bibitem[Tudor(1976)]{tudor1976}
+David Tudor.
+\newblock The view from inside.
+\newblock box 19,folder11, 1976.
+
+\bibitem[Collins(2010)]{collins2010}
+Nicolas Collins.
+\newblock Improvisation.
+\newblock \emph{Leonardo Music Journal}, 20:\penalty0 7--9, 2010.
+
+\bibitem[Ghazala(2005)]{ghazala2005}
+Reed Ghazala.
+\newblock \emph{Circuit-bending: build your own alien instruments}.
+\newblock Wiley Pub., 2005.
+
+\bibitem[Kelly(2009)]{kelly2009}
+Caleb Kelly.
+\newblock \emph{Cracked media: the sound of malfunction}.
+\newblock MIT Press, 2009.
+
+\bibitem[Novak(2013)]{novak2013}
+David Novak.
+\newblock \emph{Japanoise: Music at the edge of circulation}.
+\newblock Duke University Press Books, 2013.
+
+\bibitem[Harzing(2008)]{harzing2008}
+Anne-Wil Harzing.
+\newblock Google scholar-a new data source for citation analysis.
+\newblock \emph{University of Melbourne}, 2008.
+
+\bibitem[Kelly et~al.(2011)Kelly, Acconci, Alpers, Anderson, Attali, Bertoia,
+  Cage, Cascone, Celant, Chion, et~al.]{kelly2011}
+Caleb Kelly, Vito Acconci, Svetlana Alpers, Laurie Anderson, Jacques Attali,
+  Harry Bertoia, John Cage, Kim Cascone, Germano Celant, Michel Chion, et~al.
+\newblock \emph{Sound}.
+\newblock Whitechapel Gallery, 2011.
+
+\bibitem[Pigott(2011)]{pigott2011}
+Jon Pigott.
+\newblock Vibration, volts and sonic art: A practice and theory of
+  electromechanical sound.
+\newblock In \emph{Proceedings of the International Conference on New
+  Interfaces for Musical Expression}, 2011.
+
+\bibitem[Rodgers(2010)]{rodgers2010}
+Tara Rodgers.
+\newblock \emph{Pink noises: Women on electronic music and sound}.
+\newblock Duke University Press, 2010.
+
+\bibitem[Ariza(2007)]{ariza2007}
+Christopher Ariza.
+\newblock Automata bending: Applications of dynamic mutation and dynamic rules
+  in modular one-dimensional cellular automata.
+\newblock \emph{Computer Music Journal}, 31\penalty0 (1):\penalty0 29--49,
+  2007.
+
+\bibitem[Hoadley(2010)]{hoadley2010}
+Richard Hoadley.
+\newblock Implementation and development of interfaces for music performance
+  through analysis of improvised dance movements.
+\newblock In \emph{Audio Engineering Society Convention 128}. Audio Engineering
+  Society, 2010.
+
+\bibitem[Murphy et~al.(2010)Murphy, Kapur, and Burgin]{murphy2010}
+Jim Murphy, Ajay Kapur, and Carl Burgin.
+\newblock The helio: A study of membrane potentiometers and long force sensing
+  resistors for musical interfaces.
+\newblock In \emph{Proceedings of the International Conference on New
+  Interfaces for Musical Expression}, pages 459--462, 2010.
+
+\bibitem[Valle(2011)]{valle2011}
+Andrea Valle.
+\newblock Audio physical computing.
+\newblock \emph{algorithms}, 1\penalty0 (2):\penalty0 3, 2011.
+
+\bibitem[Padfield et~al.(2014)Padfield, Haldrup, and Hobye]{padfield2014}
+Nicolas Padfield, Michael Haldrup, and Mads Hobye.
+\newblock Empowering academia through modern fabrication practices.
+\newblock 2014.
+
+\bibitem[Blikstein(2013)]{blikstein2013}
+Paulo Blikstein.
+\newblock Digital fabrication and ‘making’in education: The democratization
+  of invention.
+\newblock \emph{FabLabs: Of Machines, Makers and Inventors}, pages 1--21, 2013.
+
+\end{thebibliography}

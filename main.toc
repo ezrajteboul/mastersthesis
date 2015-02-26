@@ -1,0 +1,52 @@
+\addvspace {20pt}\hrule \addvspace {10pt}
+\select@language {british}
+\contentsline {chapter}{Abstract}{ii}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgments}{iv}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{vii}{dummy.4}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}
+\contentsline {section}{\numberline {1.1}a custom aesthetic}{1}{section.7}
+\contentsline {section}{\numberline {1.2}Motivation}{3}{section.8}
+\contentsline {section}{\numberline {1.3}Scope and structure}{4}{section.9}
+\contentsline {section}{\numberline {1.4}Retrospective}{5}{section.10}
+\contentsline {part}{\numberline {I}Past: the infancy of musical electronics}{6}{part.11}
+\contentsline {chapter}{\numberline {2}Background}{7}{chapter.12}
+\contentsline {section}{\numberline {2.1}Experimental electronic systems in the musical arts. Do standardized advances allow for original systems?}{7}{section.13}
+\contentsline {section}{\numberline {2.2}an organology of electronic instruments?}{8}{section.14}
+\contentsline {section}{\numberline {2.3}circuit design. innovation at multiple levels: component, system, interaction}{9}{section.15}
+\contentsline {subsection}{\numberline {2.3.1}electronic music as invention}{12}{subsection.16}
+\contentsline {paragraph}{C.G. Page}{12}{section*.17}
+\contentsline {paragraph}{Elisha Gray}{12}{section*.17}
+\contentsline {paragraph}{William Dudell}{12}{section*.17}
+\contentsline {paragraph}{Thaddeus Cahill}{12}{section*.17}
+\contentsline {section}{\numberline {2.4}electronic music as an institution}{13}{section.18}
+\contentsline {paragraph}{Hugh Le Caine}{14}{section*.19}
+\contentsline {paragraph}{Raymond Scott}{15}{section*.19}
+\contentsline {paragraph}{Louis and B\IeC {\'e}b\IeC {\'e} Barron}{15}{section*.20}
+\contentsline {section}{\numberline {2.5}electronic music as a living instrument}{16}{section.21}
+\contentsline {section}{\numberline {2.6}there\IeC {\textquoteright }s no right way to hack}{19}{section.22}
+\contentsline {subsection}{\numberline {2.6.1}the art of hardware hacking}{20}{subsection.23}
+\contentsline {subsection}{\numberline {2.6.2}impact:}{22}{subsection.24}
+\contentsline {section}{\numberline {2.7}re-commercializing diy: the maker movement}{23}{section.25}
+\contentsline {chapter}{\numberline {3}Selected Recent Works}{27}{chapter.26}
+\contentsline {part}{\numberline {II}Present: free musical electronics ?}{28}{part.27}
+\contentsline {chapter}{\numberline {4}developing a personal electronic music system}{29}{chapter.28}
+\contentsline {chapter}{\numberline {5}Expriments}{30}{chapter.29}
+\addvspace {40pt}
+\contentsline {chapter}{\numberline {6}Conclusion}{31}{chapter.30}
+\vspace {2em}
+\contentsline {part}{\numberline {III}Appendices}{32}{part.31}
+\contentsline {chapter}{\numberline {A}Interview Transcripts}{33}{appendix.32}
+\contentsline {section}{\numberline {A.1}transcript for interview with Sang Wook \" Sunny \" Nam}{33}{section.33}
+\contentsline {section}{\numberline {A.2}transcript for interview with Tristan Shone of Author and Punisher}{42}{section.34}
+\contentsline {section}{\numberline {A.3}transcript for interview with Nicolas Collins}{45}{section.35}
+\contentsline {section}{\numberline {A.4}transcript for interview with Dan Snazelle of Snazzy FX}{67}{section.36}
+\contentsline {section}{\numberline {A.5}email exchange transcript for John Bellona}{67}{section.37}
+\contentsline {section}{\numberline {A.6}email exchange transcript for Martin Howse}{71}{section.38}
+\contentsline {section}{\numberline {A.7}email exchange transcript for Jessica Rylan}{72}{section.39}
+\contentsline {section}{\numberline {A.8}email exchange transcript for Bonnie Jones}{73}{section.40}
+\contentsline {section}{\numberline {A.9}email exchange transcript for Louise and Ben Hinz of Dwarfcraft and Devi Ever FX}{74}{section.41}
+\contentsline {chapter}{Bibliography}{75}{dummy.42}
+\contentsfinish 

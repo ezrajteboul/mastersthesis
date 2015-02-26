@@ -1,0 +1,77 @@
+% \documentclass{thesis}
+% % 
+% 
+% 
+% \usepackage[latin1]{inputenc}
+% \usepackage{tikz}
+% \usetikzlibrary{shapes,arrows}
+% \begin{document}
+% \pagestyle{empty}
+
+
+
+% Define block styles
+\tikzstyle{decision} = [diamond, draw, fill=blue!20,
+    text width=4.5em, text badly centered, node distance=2.5cm, inner sep=1pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20,
+    text width=6em, text centered, rounded corners, minimum height=3em, node distance=1.6cm, inner sep=1pt]
+\tikzstyle{empty} = [rectangle, 
+    text centered, rounded corners, minimum height=3em, node distance=1.6cm, inner sep=16pt]
+\tikzstyle{varWidth} = [rectangle, draw, fill=blue!20,
+    text centered, rounded corners, minimum height=3em, node distance=1.6cm, inner sep=1pt]
+\tikzstyle{line} = [draw, ->, very thick, color=black!50, -latex']
+\tikzstyle{lineDbl} = [draw, <->, very thick, color=black!50, >=latex']
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=2.5cm,
+    minimum height=2em]
+
+\begin{tikzpicture}[scale=2, auto,align=center]
+
+%%%%%%%% NODES %%%%%%%%%%%%%%%
+   % External world
+    \node [block] (stateA) {``State'' of Source 1\\$\psi_1(t_{now})$};
+    \node[block, below of=stateA] (outputA) {Output of 1\\$f  ( \psi_1 (t_{now}) )$};
+    \node [block, right of=stateA] (stateB)  [right=0.1cm]{``State'' of Source 2\\$\psi_2(t_{now})$};
+    \node[block, below of=stateB] (outputB) {Output of 2\\$f(\psi_2(t_{now}))$};
+    \node [empty, right of=stateB] (stateC) [right=0.2cm] {\textbf{. . .}};
+    \node[empty, below of=stateC] (outputC) {\textbf{. . .}};
+    
+    
+    % Internal inference engine
+    \node[varWidth, below of=outputB] (sensoryInput) [below=0.1cm] {Sensory Input\\$s(t_{now}) = \sum_i{f(\psi_i(t_{now}))}$};
+    %\node [empty, right of=sensoryInput] (superposition) [right=0.2cm] {\textit{Superposition of} \\ \textit{source signals}};
+    \node[varWidth, below of=sensoryInput] (inputBuffer) {Input Buffer\\$s(t_{now-\tau},...,t_{now}$)};
+    %\node [empty, right of=inputBuffer] (workingMem) [right=0.1cm] {\textit{Working memory}};
+    \node[varWidth, left of=inputBuffer] (memorySearch) [left=1.5cm] [below=0.5cm] {Memory\\Search};
+    \node[varWidth, below of=inputBuffer] (probAssess) {Source separation,\\state trajectory };
+
+    
+ %%%%%%%%%%  EDGES %%%%%%%%%%%%%
+ 
+    % States to states
+    \path [lineDbl] (stateA) -- (stateB);
+    \path [lineDbl] (stateB) -- (stateC);
+    \path [lineDbl] (stateA) edge [bend left=25] node [left] {$$} (stateC);
+
+    % States to outputs
+    \path [line] (stateA) -- (outputA);
+    \path [line] (stateB) -- (outputB);
+    \path [line] (stateC) -- (outputC);
+
+    %Rectangle around external world
+    \draw[dash pattern=on 2pt off 3pt on 4pt off 4pt]  (-1,0.7) rectangle (3.3,-1.3) ;
+    \node at (-1.8,-0.3) {\textbf{External world} };
+    
+    % Outputs to sensory input
+    \path [line] (outputA) -- (sensoryInput);
+    \path [line] (outputB) -- (sensoryInput);
+    \path [line] (outputC) -- (sensoryInput);
+    
+    % Other internal connections
+    \path [line] (sensoryInput) -- (inputBuffer);
+    
+    
+    
+\end{tikzpicture}
+
+
+% \end{document}

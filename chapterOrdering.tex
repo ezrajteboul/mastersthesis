@@ -1,0 +1,41 @@
+%----------------------------------------------------------------------------------------
+%       THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\input{Chapters/0-introduction}
+
+% Note that you don't necessarily need to use parts; you can just list chapters in order.  But it is easy to separate into parts.
+
+\clearpage % be sure to have clearpage before each new part, so links work right.  If not using parts, not necessary.
+\part{Past: the infancy of musical electronics}  %Whenever you want a new part, just put it in like this; part page & toc will auto-generate
+\input{Chapters/1-samplepart1/1-samplechap}
+\input{Chapters/1-samplepart1/2-samplechap}
+
+\clearpage
+\part{Present: free musical electronics ?}
+\input{Chapters/2-samplepart2/1-samplechap}
+\input{Chapters/2-samplepart2/2-samplechap}
+
+% Optional: add gap in contents before conclusion to make it clear it doesnt just belong to last part
+\addtocontents{toc}{\protect\addvspace{40pt}}
+\input{Chapters/conclusion}
+
+
+%----------------------------------------------------------------------------------------
+%       THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+%\input{Chapters/sonarch}
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+\part{Appendices}
+\input{Appendices/AppendixA}
+%\input{Appendices/AppendixB}
+%\input{Appendices/AppendixC}
+
+%\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
