@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{60}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -166,6 +166,11 @@ Amanda Williams, Alicia Gibb, and David Weekly.
   research.
 \newblock \emph{interactions}, 19\penalty0 (2):\penalty0 14--19, 2012.
 
+\bibitem[Cage(1961)]{cage1961}
+John Cage.
+\newblock \emph{Silence. Middletown}.
+\newblock Wesleyan University Press, 1961.
+
 \bibitem[von Hornbostel and Sachs(1961)]{von1961}
 Erich~M von Hornbostel and Curt Sachs.
 \newblock Classification of musical instruments: Translated from the original
@@ -254,6 +259,11 @@ Nicolas Collins.
 \newblock Improvisation.
 \newblock \emph{Leonardo Music Journal}, 20:\penalty0 7--9, 2010.
 
+\bibitem[Burnham(1979)]{burnham1979}
+Jack Burnham.
+\newblock \emph{Art \& Technology, the Panacea that Failed}.
+\newblock Audio Archives of Canada, 1979.
+
 \bibitem[Ghazala(2005)]{ghazala2005}
 Reed Ghazala.
 \newblock \emph{Circuit-bending: build your own alien instruments}.
@@ -274,10 +284,8 @@ Anne-Wil Harzing.
 \newblock Google scholar-a new data source for citation analysis.
 \newblock \emph{University of Melbourne}, 2008.
 
-\bibitem[Kelly et~al.(2011)Kelly, Acconci, Alpers, Anderson, Attali, Bertoia,
-  Cage, Cascone, Celant, Chion, et~al.]{kelly2011}
-Caleb Kelly, Vito Acconci, Svetlana Alpers, Laurie Anderson, Jacques Attali,
-  Harry Bertoia, John Cage, Kim Cascone, Germano Celant, Michel Chion, et~al.
+\bibitem[Kelly(2011)]{kelly2011}
+Caleb~(Ed.) Kelly.
 \newblock \emph{Sound}.
 \newblock Whitechapel Gallery, 2011.
 
