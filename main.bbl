@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{58}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -206,6 +206,11 @@ Christina Dunbar-Hester.
 \newblock \emph{Science, technology \& human values}, 35\penalty0 (1):\penalty0
   113--139, 2010.
 
+\bibitem[Pritchett(2004)]{pritchett2004}
+James Pritchett.
+\newblock David tudor as composer/performer in cage's variations ii.
+\newblock \emph{Leonardo music journal}, 14:\penalty0 11--16, 2004.
+
 \bibitem[Nakai(2014)]{nakai2014}
 You Nakai.
 \newblock Hear after: Matters of life and death in david tudor’s electronic
@@ -242,7 +247,7 @@ Nicolas Collins.
 \bibitem[Tudor(1976)]{tudor1976}
 David Tudor.
 \newblock The view from inside.
-\newblock box 19,folder11, 1976.
+\newblock box 19, folder 11, 1976.
 
 \bibitem[Collins(2010)]{collins2010}
 Nicolas Collins.

@@ -8,45 +8,45 @@ Warning--I didn't find a database entry for "mills2010"
 Warning--empty journal in tudor
 Warning--empty journal in tudor1976
 Warning--empty journal in padfield2014
-You've used 57 entries,
+You've used 58 entries,
             2481 wiz_defined-function locations,
-            845 strings with 11735 characters,
-and the built_in function-call counts, 18506 in all, are:
-= -- 1640
-> -- 595
-< -- 61
-+ -- 284
-- -- 170
-* -- 1079
-:= -- 2886
-add.period$ -- 173
-call.type$ -- 57
-change.case$ -- 97
-chr.to.int$ -- 57
-cite$ -- 60
-duplicate$ -- 1130
-empty$ -- 1913
-format.name$ -- 243
-if$ -- 4031
+            850 strings with 11852 characters,
+and the built_in function-call counts, 18834 in all, are:
+= -- 1672
+> -- 602
+< -- 62
++ -- 288
+- -- 172
+* -- 1099
+:= -- 2937
+add.period$ -- 176
+call.type$ -- 58
+change.case$ -- 99
+chr.to.int$ -- 58
+cite$ -- 61
+duplicate$ -- 1149
+empty$ -- 1948
+format.name$ -- 246
+if$ -- 4101
 int.to.chr$ -- 1
-int.to.str$ -- 58
-missing$ -- 64
-newline$ -- 290
-num.names$ -- 171
-pop$ -- 541
+int.to.str$ -- 59
+missing$ -- 65
+newline$ -- 295
+num.names$ -- 174
+pop$ -- 548
 preamble$ -- 1
-purify$ -- 57
+purify$ -- 58
 quote$ -- 0
-skip$ -- 702
+skip$ -- 713
 stack$ -- 0
-substring$ -- 696
-swap$ -- 185
+substring$ -- 717
+swap$ -- 187
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 354
+type$ -- 361
 warning$ -- 3
-while$ -- 174
+while$ -- 178
 width$ -- 0
-write$ -- 723
+write$ -- 736
 (There were 5 warnings)
