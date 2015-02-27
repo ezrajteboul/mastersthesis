@@ -1,4 +1,4 @@
-\begin{thebibliography}{60}
+\begin{thebibliography}{61}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -211,6 +211,11 @@ Christina Dunbar-Hester.
 \newblock \emph{Science, technology \& human values}, 35\penalty0 (1):\penalty0
   113--139, 2010.
 
+\bibitem[Collins(2004)]{collins2004}
+Nicolas Collins.
+\newblock Composers inside electronics: Music after david tudor.
+\newblock \emph{Leonardo Music Journal}, 14\penalty0 (1):\penalty0 iv--1, 2004.
+
 \bibitem[Pritchett(2004)]{pritchett2004}
 James Pritchett.
 \newblock David tudor as composer/performer in cage's variations ii.
@@ -244,11 +249,6 @@ John Driscoll and Matt Rogalsky.
 \newblock David tudor's rainforest: An evolving exploration of resonance.
 \newblock \emph{Leonardo Music Journal}, 14:\penalty0 25--30, 2004.
 
-\bibitem[Collins(2004)]{collins2004}
-Nicolas Collins.
-\newblock Composers inside electronics: Music after david tudor.
-\newblock \emph{Leonardo Music Journal}, 14\penalty0 (1):\penalty0 iv--1, 2004.
-
 \bibitem[Tudor(1976)]{tudor1976}
 David Tudor.
 \newblock The view from inside.
@@ -263,6 +263,11 @@ Nicolas Collins.
 Jack Burnham.
 \newblock \emph{Art \& Technology, the Panacea that Failed}.
 \newblock Audio Archives of Canada, 1979.
+
+\bibitem[Eno(1975)]{eno1975}
+Brian Eno.
+\newblock Liner notes.
+\newblock \emph{Discreet Music}, 1975.
 
 \bibitem[Ghazala(2005)]{ghazala2005}
 Reed Ghazala.

@@ -4,49 +4,50 @@ The top-level auxiliary file: ./main.aux
 The style file: unsrtnat.bst
 Database file #1: Bibliography.bib
 Warning--I didn't find a database entry for "dunn2002"
+Warning--I didn't find a database entry for "holzaepfel1993"
 Warning--I didn't find a database entry for "mills2010"
 Warning--empty journal in tudor
 Warning--empty journal in tudor1976
 Warning--empty journal in padfield2014
-You've used 60 entries,
+You've used 61 entries,
             2481 wiz_defined-function locations,
-            859 strings with 11834 characters,
-and the built_in function-call counts, 19083 in all, are:
-= -- 1710
-> -- 554
-< -- 65
-+ -- 276
-- -- 156
-* -- 1079
-:= -- 2961
-add.period$ -- 182
-call.type$ -- 60
-change.case$ -- 101
-chr.to.int$ -- 60
-cite$ -- 63
-duplicate$ -- 1187
-empty$ -- 2008
-format.name$ -- 232
-if$ -- 4170
+            865 strings with 11894 characters,
+and the built_in function-call counts, 19341 in all, are:
+= -- 1732
+> -- 561
+< -- 66
++ -- 280
+- -- 158
+* -- 1090
+:= -- 3004
+add.period$ -- 185
+call.type$ -- 61
+change.case$ -- 103
+chr.to.int$ -- 61
+cite$ -- 64
+duplicate$ -- 1205
+empty$ -- 2036
+format.name$ -- 235
+if$ -- 4225
 int.to.chr$ -- 1
-int.to.str$ -- 61
-missing$ -- 69
-newline$ -- 305
-num.names$ -- 180
-pop$ -- 572
+int.to.str$ -- 62
+missing$ -- 70
+newline$ -- 310
+num.names$ -- 183
+pop$ -- 581
 preamble$ -- 1
-purify$ -- 60
+purify$ -- 61
 quote$ -- 0
-skip$ -- 734
+skip$ -- 745
 stack$ -- 0
-substring$ -- 721
-swap$ -- 191
+substring$ -- 723
+swap$ -- 193
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 369
+type$ -- 376
 warning$ -- 3
-while$ -- 182
+while$ -- 184
 width$ -- 0
-write$ -- 760
-(There were 5 warnings)
+write$ -- 772
+(There were 6 warnings)
