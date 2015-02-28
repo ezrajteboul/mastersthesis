@@ -3,51 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ./main.aux
 The style file: unsrtnat.bst
 Database file #1: Bibliography.bib
-Warning--I didn't find a database entry for "dunn2002"
-Warning--I didn't find a database entry for "holzaepfel1993"
-Warning--I didn't find a database entry for "mills2010"
+Warning--I didn't find a database entry for ""
 Warning--empty journal in tudor
 Warning--empty journal in tudor1976
+Warning--empty publisher in satie
+Warning--empty journal in mills2010
 Warning--empty journal in padfield2014
-You've used 61 entries,
+You've used 70 entries,
             2481 wiz_defined-function locations,
-            865 strings with 11894 characters,
-and the built_in function-call counts, 19341 in all, are:
-= -- 1732
-> -- 561
-< -- 66
-+ -- 280
-- -- 158
-* -- 1090
-:= -- 3004
-add.period$ -- 185
-call.type$ -- 61
-change.case$ -- 103
-chr.to.int$ -- 61
-cite$ -- 64
-duplicate$ -- 1205
-empty$ -- 2036
-format.name$ -- 235
-if$ -- 4225
+            898 strings with 12655 characters,
+and the built_in function-call counts, 21805 in all, are:
+= -- 1922
+> -- 660
+< -- 73
++ -- 326
+- -- 186
+* -- 1222
+:= -- 3413
+add.period$ -- 212
+call.type$ -- 70
+change.case$ -- 113
+chr.to.int$ -- 70
+cite$ -- 75
+duplicate$ -- 1371
+empty$ -- 2294
+format.name$ -- 274
+if$ -- 4748
 int.to.chr$ -- 1
-int.to.str$ -- 62
-missing$ -- 70
-newline$ -- 310
-num.names$ -- 183
-pop$ -- 581
+int.to.str$ -- 71
+missing$ -- 85
+newline$ -- 355
+num.names$ -- 210
+pop$ -- 683
 preamble$ -- 1
-purify$ -- 61
+purify$ -- 70
 quote$ -- 0
-skip$ -- 745
+skip$ -- 835
 stack$ -- 0
-substring$ -- 723
-swap$ -- 193
+substring$ -- 741
+swap$ -- 210
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 376
-warning$ -- 3
-while$ -- 184
+type$ -- 418
+warning$ -- 5
+while$ -- 202
 width$ -- 0
-write$ -- 772
+write$ -- 879
 (There were 6 warnings)

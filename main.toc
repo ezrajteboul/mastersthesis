@@ -13,83 +13,83 @@
 \contentsline {section}{\numberline {1.4}Retrospective}{5}{section.10}
 \contentsline {part}{\numberline {I}Past}{6}{part.11}
 \contentsline {chapter}{\numberline {2}A history of experimental electronic systems in the musical arts}{7}{chapter.12}
-\contentsline {section}{\numberline {2.1}an organology of electronic instruments?}{8}{section.13}
-\contentsline {section}{\numberline {2.2}circuit design. innovation at multiple levels: component, system, interaction}{9}{section.14}
-\contentsline {section}{\numberline {2.3}electronic music as invention}{11}{section.15}
+\contentsline {section}{\numberline {2.1}An organology of electronic instruments?}{8}{section.13}
+\contentsline {section}{\numberline {2.2}Circuit design. innovation at multiple levels: component, system, interaction}{9}{section.14}
+\contentsline {section}{\numberline {2.3}Electronic music as invention}{11}{section.15}
 \contentsline {paragraph}{C.G. Page}{11}{section*.16}
 \contentsline {paragraph}{Elisha Gray}{12}{section*.16}
 \contentsline {paragraph}{William Dudell}{12}{section*.17}
 \contentsline {paragraph}{Thaddeus Cahill}{12}{section*.17}
-\contentsline {section}{\numberline {2.4}electronic music as an institution}{13}{section.18}
+\contentsline {section}{\numberline {2.4}Electronic music as an institution}{13}{section.18}
 \contentsline {paragraph}{Hugh Le Caine}{14}{section*.19}
 \contentsline {paragraph}{Raymond Scott}{14}{section*.19}
 \contentsline {paragraph}{Louis and B\IeC {\'e}b\IeC {\'e} Barron}{15}{section*.20}
 \contentsline {section}{\numberline {2.5}electronic music as a living system}{16}{section.21}
 \contentsline {subsection}{\numberline {2.5.1}Tudor and Cage: electronics speak for themselves}{16}{subsection.22}
 \contentsline {subsection}{\numberline {2.5.2}The rise of voltage control}{19}{subsection.23}
-\contentsline {subsection}{\numberline {2.5.3}Brian Eno: uncontrolled versus unintentional realizations of music}{19}{subsection.24}
-\contentsline {section}{\numberline {2.6}Elecronic music as craft}{21}{section.26}
-\contentsline {subsection}{\numberline {2.6.1}the art of hardware hacking}{22}{subsection.27}
-\contentsline {subsection}{\numberline {2.6.2}impact:}{24}{subsection.28}
-\contentsline {section}{\numberline {2.7}re-commercializing diy: the maker movement}{26}{section.29}
-\contentsline {chapter}{\numberline {3}Selected Recent Works}{29}{chapter.30}
-\contentsline {section}{\numberline {3.1}Tristan Shone: Author and Punisher}{30}{section.31}
-\contentsline {section}{\numberline {3.2}Sangwook Sunny Nam}{30}{section.32}
-\contentsline {section}{\numberline {3.3}Louise and Ben Hinz, Devi Ever FX and Dwarfcraft Devices}{30}{section.33}
-\contentsline {section}{\numberline {3.4}Nic Collins}{30}{section.34}
-\contentsline {section}{\numberline {3.5}Bonnie Jones, Techne}{30}{section.35}
-\contentsline {section}{\numberline {3.6}Jessica Rylan, Flower Electronics}{30}{section.36}
-\contentsline {section}{\numberline {3.7}Martin Howse}{30}{section.37}
-\contentsline {section}{\numberline {3.8}Dan Snazelle, Sanzzy FX}{30}{section.38}
-\contentsline {part}{\numberline {II}Present}{31}{part.39}
-\contentsline {chapter}{\numberline {4}Interviews: highlights and analyses}{32}{chapter.40}
-\contentsline {section}{\numberline {4.1}Interviews: methodology and highlights}{32}{section.41}
-\contentsline {subsection}{\numberline {4.1.1}Tristan Shone: Author and Punisher}{32}{subsection.42}
-\contentsline {paragraph}{highlights}{32}{section*.43}
-\contentsline {paragraph}{analysis}{32}{section*.43}
-\contentsline {subsection}{\numberline {4.1.2}Sangwook Sunny Nam}{32}{subsection.44}
-\contentsline {paragraph}{highlights}{32}{section*.45}
-\contentsline {paragraph}{analysis}{32}{section*.45}
-\contentsline {subsection}{\numberline {4.1.3}Louise \& Ben Hinz, Devi Ever FX and Dwarfcraft Devices}{33}{subsection.46}
-\contentsline {paragraph}{highlights}{33}{section*.47}
-\contentsline {paragraph}{analysis}{33}{section*.47}
-\contentsline {subsection}{\numberline {4.1.4}Nic Collins}{33}{subsection.48}
-\contentsline {paragraph}{highlights}{33}{section*.49}
-\contentsline {paragraph}{analysis}{33}{section*.49}
-\contentsline {subsection}{\numberline {4.1.5}Bonnie Jones, Techne}{33}{subsection.50}
-\contentsline {paragraph}{highlights}{33}{section*.51}
-\contentsline {paragraph}{analysis}{33}{section*.51}
-\contentsline {subsection}{\numberline {4.1.6}Jessica Rylan, Flower Electronics}{33}{subsection.52}
-\contentsline {paragraph}{highlights}{33}{section*.53}
-\contentsline {paragraph}{analysis}{33}{section*.53}
-\contentsline {subsection}{\numberline {4.1.7}Martin Howse}{33}{subsection.54}
-\contentsline {paragraph}{highlights}{33}{section*.55}
-\contentsline {paragraph}{analysis}{34}{section*.55}
-\contentsline {subsection}{\numberline {4.1.8}Dan Snazelle, Sanzzy FX}{34}{subsection.56}
-\contentsline {paragraph}{highlights}{34}{section*.57}
-\contentsline {paragraph}{analysis}{34}{section*.57}
-\contentsline {section}{\numberline {4.2}Greater context}{34}{section.58}
-\contentsline {section}{\numberline {4.3}trends?}{34}{section.59}
-\contentsline {chapter}{\numberline {5}Expriments}{35}{chapter.60}
-\contentsline {section}{\numberline {5.1}designing an open source, hybrid and personal framework for signal experimentation: an introduction}{35}{section.61}
-\contentsline {section}{\numberline {5.2}sketches}{35}{section.62}
-\contentsline {section}{\numberline {5.3}drafts}{35}{section.63}
-\contentsline {section}{\numberline {5.4}rehearsals}{35}{section.64}
-\contentsline {section}{\numberline {5.5}results}{35}{section.65}
-\contentsline {section}{\numberline {5.6}to-do}{35}{section.66}
+\contentsline {subsection}{\numberline {2.5.3}Brian Eno: uncontrolled versus unintentional realizations of music}{21}{subsection.24}
+\contentsline {section}{\numberline {2.6}Elecronic music as craft}{23}{section.26}
+\contentsline {subsection}{\numberline {2.6.1}the art of hardware hacking}{24}{subsection.27}
+\contentsline {subsection}{\numberline {2.6.2}impact:}{26}{subsection.28}
+\contentsline {section}{\numberline {2.7}re-commercializing diy: the maker movement}{28}{section.29}
+\contentsline {chapter}{\numberline {3}Selected Recent Works}{31}{chapter.30}
+\contentsline {section}{\numberline {3.1}Tristan Shone: Author and Punisher}{32}{section.31}
+\contentsline {section}{\numberline {3.2}Sangwook Sunny Nam}{32}{section.32}
+\contentsline {section}{\numberline {3.3}Louise and Ben Hinz, Devi Ever FX and Dwarfcraft Devices}{32}{section.33}
+\contentsline {section}{\numberline {3.4}Nic Collins}{32}{section.34}
+\contentsline {section}{\numberline {3.5}Bonnie Jones, Techne}{32}{section.35}
+\contentsline {section}{\numberline {3.6}Jessica Rylan, Flower Electronics}{32}{section.36}
+\contentsline {section}{\numberline {3.7}Martin Howse}{32}{section.37}
+\contentsline {section}{\numberline {3.8}Dan Snazelle, Sanzzy FX}{32}{section.38}
+\contentsline {part}{\numberline {II}Present}{33}{part.39}
+\contentsline {chapter}{\numberline {4}Interviews: highlights and analyses}{34}{chapter.40}
+\contentsline {section}{\numberline {4.1}Interviews: methodology and highlights}{34}{section.41}
+\contentsline {subsection}{\numberline {4.1.1}Tristan Shone: Author and Punisher}{34}{subsection.42}
+\contentsline {paragraph}{highlights}{34}{section*.43}
+\contentsline {paragraph}{analysis}{34}{section*.43}
+\contentsline {subsection}{\numberline {4.1.2}Sangwook Sunny Nam}{34}{subsection.44}
+\contentsline {paragraph}{highlights}{34}{section*.45}
+\contentsline {paragraph}{analysis}{34}{section*.45}
+\contentsline {subsection}{\numberline {4.1.3}Louise \& Ben Hinz, Devi Ever FX and Dwarfcraft Devices}{35}{subsection.46}
+\contentsline {paragraph}{highlights}{35}{section*.47}
+\contentsline {paragraph}{analysis}{35}{section*.47}
+\contentsline {subsection}{\numberline {4.1.4}Nic Collins}{35}{subsection.48}
+\contentsline {paragraph}{highlights}{35}{section*.49}
+\contentsline {paragraph}{analysis}{35}{section*.49}
+\contentsline {subsection}{\numberline {4.1.5}Bonnie Jones, Techne}{35}{subsection.50}
+\contentsline {paragraph}{highlights}{35}{section*.51}
+\contentsline {paragraph}{analysis}{35}{section*.51}
+\contentsline {subsection}{\numberline {4.1.6}Jessica Rylan, Flower Electronics}{35}{subsection.52}
+\contentsline {paragraph}{highlights}{35}{section*.53}
+\contentsline {paragraph}{analysis}{35}{section*.53}
+\contentsline {subsection}{\numberline {4.1.7}Martin Howse}{35}{subsection.54}
+\contentsline {paragraph}{highlights}{35}{section*.55}
+\contentsline {paragraph}{analysis}{36}{section*.55}
+\contentsline {subsection}{\numberline {4.1.8}Dan Snazelle, Sanzzy FX}{36}{subsection.56}
+\contentsline {paragraph}{highlights}{36}{section*.57}
+\contentsline {paragraph}{analysis}{36}{section*.57}
+\contentsline {section}{\numberline {4.2}Greater context}{36}{section.58}
+\contentsline {section}{\numberline {4.3}trends?}{36}{section.59}
+\contentsline {chapter}{\numberline {5}Expriments}{37}{chapter.60}
+\contentsline {section}{\numberline {5.1}designing an open source, hybrid and personal framework for signal experimentation: an introduction}{37}{section.61}
+\contentsline {section}{\numberline {5.2}sketches}{37}{section.62}
+\contentsline {section}{\numberline {5.3}drafts}{37}{section.63}
+\contentsline {section}{\numberline {5.4}rehearsals}{37}{section.64}
+\contentsline {section}{\numberline {5.5}results}{37}{section.65}
+\contentsline {section}{\numberline {5.6}to-do}{37}{section.66}
 \addvspace {40pt}
-\contentsline {chapter}{\numberline {6}Future: Conclusion}{36}{chapter.67}
+\contentsline {chapter}{\numberline {6}Future: Conclusion}{38}{chapter.67}
 \vspace {2em}
-\contentsline {part}{\numberline {III}Appendices}{37}{part.68}
-\contentsline {chapter}{\numberline {A}Interview Transcripts}{38}{appendix.69}
-\contentsline {section}{\numberline {A.1}transcript for interview with Sang Wook Sunny Nam}{38}{section.70}
-\contentsline {section}{\numberline {A.2}transcript for interview with Tristan Shone of Author and Punisher}{50}{section.71}
-\contentsline {section}{\numberline {A.3}transcript for interview with Nicolas Collins}{52}{section.72}
-\contentsline {section}{\numberline {A.4}transcript for interview with Dan Snazelle of Snazzy FX}{74}{section.73}
-\contentsline {section}{\numberline {A.5}email exchange transcript for John Bellona}{74}{section.74}
-\contentsline {section}{\numberline {A.6}email exchange transcript for Martin Howse}{78}{section.75}
-\contentsline {section}{\numberline {A.7}email exchange transcript for Jessica Rylan}{79}{section.76}
-\contentsline {section}{\numberline {A.8}email exchange transcript for Bonnie Jones}{80}{section.77}
-\contentsline {section}{\numberline {A.9}email exchange transcript for Louise and Ben Hinz of Dwarfcraft and Devi Ever FX}{81}{section.78}
-\contentsline {chapter}{Bibliography}{83}{dummy.79}
+\contentsline {part}{\numberline {III}Appendices}{39}{part.68}
+\contentsline {chapter}{\numberline {A}Interview Transcripts}{40}{appendix.69}
+\contentsline {section}{\numberline {A.1}transcript for interview with Sang Wook Sunny Nam}{40}{section.70}
+\contentsline {section}{\numberline {A.2}transcript for interview with Tristan Shone of Author and Punisher}{52}{section.71}
+\contentsline {section}{\numberline {A.3}transcript for interview with Nicolas Collins}{54}{section.72}
+\contentsline {section}{\numberline {A.4}transcript for interview with Dan Snazelle of Snazzy FX}{76}{section.73}
+\contentsline {section}{\numberline {A.5}email exchange transcript for John Bellona}{76}{section.74}
+\contentsline {section}{\numberline {A.6}email exchange transcript for Martin Howse}{80}{section.75}
+\contentsline {section}{\numberline {A.7}email exchange transcript for Jessica Rylan}{81}{section.76}
+\contentsline {section}{\numberline {A.8}email exchange transcript for Bonnie Jones}{82}{section.77}
+\contentsline {section}{\numberline {A.9}email exchange transcript for Louise and Ben Hinz of Dwarfcraft and Devi Ever FX}{83}{section.78}
+\contentsline {chapter}{Bibliography}{85}{dummy.79}
 \contentsfinish 

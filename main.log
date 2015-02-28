@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  27 FEB 2015 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  27 FEB 2015 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1026,7 +1026,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 
 ] [2] [3]
 
-Package natbib Warning: Citation `dunn2002' on page 4 undefined on input line 3
+Package natbib Warning: Citation `dunn2001' on page 4 undefined on input line 3
 6.
 
 [4]) [5] (./Chapters/1-samplepart1/1-samplechap.tex [6
@@ -1103,7 +1103,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 119.
 
 
-Package natbib Warning: Citation `holzaepfel1993' on page 15 undefined on input
+Package natbib Warning: Citation `holzaepfel1994' on page 15 undefined on input
  line 123.
 
 [15]
@@ -1315,56 +1315,38 @@ l.151 ...de,\’ rather than from \‘outside.\’
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-[18]
-Overfull \hbox (1.50336pt too wide) in paragraph at lines 173--174
-\OT1/ptm/m/n/12 where between sys-tem and in-ter-ac-tion. How-ever, Tu-dor's wi
-sh to see per-son-al-ity emerge
- []
+[18] [19]
 
-[19] <Figures/discreetdiagram.jpg, id=702, 1003.75pt x 321.2pt>
+LaTeX Warning: Reference `AppendixA' on page 20 undefined on input line 169.
+
+[20] [21] <Figures/discreetdiagram.jpg, id=719, 1003.75pt x 321.2pt>
 File: Figures/discreetdiagram.jpg Graphic file (type jpg)
 
 <use Figures/discreetdiagram.jpg>
-Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 187.
+Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 202.
 (pdftex.def)             Requested size: 417.47307pt x 133.59448pt.
-
-
-Package natbib Warning: Citation `eno1978' on page 20 undefined on input line 1
-90.
-
-
-Package natbib Warning: Citation `eno1980' on page 20 undefined on input line 1
-90.
-
-
-Package natbib Warning: Citation `eno1980b' on page 20 undefined on input line 
-190.
-
-
-Package natbib Warning: Citation `eno1982' on page 20 undefined on input line 1
-90.
-
-[20 <./Figures/discreetdiagram.jpg>] [21] [22] [23]
+ [22 <./Figures/discreetdiagram.jpg>] [23]
+[24] [25]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 257.
 
 
-Package natbib Warning: Citation `mills2010' on page 24 undefined on input line
- 242.
+Package natbib Warning: Citation `mills2010' on page 26 undefined on input line
+ 257.
 
 
-Package natbib Warning: Citation `mills2010' on page 24 undefined on input line
- 248.
+Package natbib Warning: Citation `mills2010' on page 26 undefined on input line
+ 263.
 
-[24]
-Overfull \hbox (3.4237pt too wide) in paragraph at lines 252--253
+[26]
+Overfull \hbox (3.4237pt too wide) in paragraph at lines 267--268
 []\OT1/ptm/m/n/12 On a com-munity level (\do-it-with-others", diwo, or \do-it-t
 ogether", dit), Collins'
  []
 
-./Chapters/1-samplepart1/1-samplechap.tex:254: Misplaced alignment tab characte
+./Chapters/1-samplepart1/1-samplechap.tex:269: Misplaced alignment tab characte
 r &.
-l.254 ...ent design as part of more general arts &
+l.269 ...ent design as part of more general arts &
                                                    crafts \/ diy \/ maker mo...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1373,20 +1355,20 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[25] [26] [27] Excluding 'unsortedStuff' comment.
+[27] [28] [29] Excluding 'unsortedStuff' comment.
 Excluding 'optBlankSpace' comment.) (./Chapters/1-samplepart1/2-samplechap.tex
-[28]
+[30]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Selected Recent Works
 ------------------------------------------------------------------------------
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [29
+Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [31
 
 ]
 Overfull \vbox (98.72594pt too high) has occurred while \output is active []
 
 
-[30] (./Chapters/2-samplepart2/1-samplechap.tex [31
+[32] (./Chapters/2-samplepart2/1-samplechap.tex [33
 
 
 ]
@@ -1418,7 +1400,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 19.
 
-[32
+[34
 
 ]
 
@@ -1453,7 +1435,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 35.
 
-[33]
+[35]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 39.
@@ -1463,7 +1445,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 39.
 
 Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/2-samplepart2/2-samplechap.tex [34]
+(./Chapters/2-samplepart2/2-samplechap.tex [36]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Expriments
@@ -1474,16 +1456,16 @@ Overfull \hbox (11.25737pt too wide) in paragraph at lines 7--7
  []
 
 Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/conclusion.tex [35
+(./Chapters/conclusion.tex [37
 
 ]
 Chapter 6.
 ------------------------------------------------------------------------------
  6 Future: Conclusion
 ------------------------------------------------------------------------------
-) [36
+) [38
 
-] (./Appendices/AppendixA.tex [37
+] (./Appendices/AppendixA.tex [39
 
 ]
 Appendix A.
@@ -1495,9 +1477,9 @@ Overfull \hbox (7.28326pt too wide) in paragraph at lines 7--7
  |[]\OT1/ptm/b/n/17.28 transcript for in-ter-view with Sang Wook Sunny Nam| 
  []
 
-[38
+[40
 
-] [39] [40]
+] [41] [42]
 
 ./Appendices/AppendixA.tex:55: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2328,7 +2310,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[41] [42] [43]
+[43] [44] [45]
 
 ./Appendices/AppendixA.tex:91: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2385,7 +2367,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[44]
+[46]
 
 ./Appendices/AppendixA.tex:121: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
@@ -2456,13 +2438,13 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
+[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
+[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
 Overfull \hbox (2.7725pt too wide) in paragraph at lines 355--355
  |[]\OT1/ptm/b/n/17.28 transcript for in-ter-view with Dan Snazelle of Snazzy
  []
 
-[74]
+[76]
 ./Appendices/AppendixA.tex:368: You can't use `macro parameter character #' in 
 horizontal mode.
 l.368 ...d Flash http://deecerecords.com/artd252/#
@@ -2472,61 +2454,54 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[75] [76] [77] [78] [79] [80]) [81]) [82]
+[77] [78] [79] [80] [81] [82]) [83]) [84]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./main.bbl [83
+(./main.bbl [85
 
 
-] [84] [85])
+] [86] [87] [88])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
-[86]
+[89]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
- (./main.aux)
+ (./main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 69342282D7647D5CF9468F63EFC1A4A7;17245.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 97A7AA1E0514901002B513E1A8F1CAA6;17245
-(rerunfilecheck)             After:  F21B7CF49F9E2C3D60C8F5EB0F786865;17245.
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 15605 strings out of 493117
- 218485 string characters out of 6135433
- 392375 words of memory out of 5000000
- 18516 multiletter control sequences out of 15000+600000
+ 15635 strings out of 493117
+ 218960 string characters out of 6135433
+ 392454 words of memory out of 5000000
+ 18536 multiletter control sequences out of 15000+600000
  43788 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,2659b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.24} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.25} has been referenced but does not exi
-st, replaced by a fixed one
-
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on main.pdf (97 pages, 322240 bytes).
+ 49i,12n,45p,2659b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on main.pdf (100 pages, 328750 bytes).
 PDF statistics:
- 1103 PDF objects out of 1200 (max. 8388607)
- 974 compressed objects within 10 object streams
- 242 named destinations out of 1000 (max. 500000)
+ 1134 PDF objects out of 1200 (max. 8388607)
+ 1001 compressed objects within 11 object streams
+ 252 named destinations out of 1000 (max. 500000)
  702 words of extra memory for PDF output out of 10000 (max. 10000000)
 
