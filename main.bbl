@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{72}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -194,6 +194,11 @@ John Bowers and Phil Archer.
   musical expression}, pages 5--10. New Interfaces for Musical Expression,
   2005.
 
+\bibitem[Pinch and Trocco(2009)]{pinch2002}
+Trevor~J Pinch and Frank Trocco.
+\newblock \emph{Analog days: The invention and impact of the Moog synthesizer}.
+\newblock Harvard University Press, 2009.
+
 \bibitem[Page(1837)]{page1837}
 Charles~Grafton Page.
 \newblock The production of galvanic music.
@@ -204,15 +209,21 @@ George~William Nasmyth.
 \newblock \emph{The Frequency of the Singing Arc}.
 \newblock Macmillan Company, 1908.
 
-\bibitem[Pinch et~al.(2009)Pinch, Trocco, and Pinch]{pinch2002}
-Trevor~J Pinch, Frank Trocco, and TJ~Pinch.
-\newblock \emph{Analog days: The invention and impact of the Moog synthesizer}.
-\newblock Harvard University Press, 2009.
-
 \bibitem[Langford-Smith(1953)]{langford1953}
 Fritz Langford-Smith.
 \newblock \emph{Radiotron designer's handbook}.
 \newblock Wireless Press, 1953.
+
+\bibitem[Chusid(1999)]{chusid1999}
+Irwin Chusid.
+\newblock Beethoven-in-a-box: Raymond scott's electronium.
+\newblock \emph{Contemporary Music Review}, 18\penalty0 (3):\penalty0 9--14,
+  1999.
+
+\bibitem[Darter et~al.(1984)Darter, Armbruster, and Moog]{darter1984}
+Tom Darter, Greg Armbruster, and Bob Moog.
+\newblock \emph{The art of electronic music}.
+\newblock W. Morrow, 1984.
 
 \bibitem[Dunbar-Hester(2010)]{dunbar2010}
 Christina Dunbar-Hester.
@@ -328,7 +339,7 @@ David Novak.
 \bibitem[Mills et~al.(2010)Mills, Rebousi{\`e}re, and Bose]{mills2010}
 John~Anderson Mills, Lo{\"\i}c Rebousi{\`e}re, and Ricardo~Chessini Bose.
 \newblock Developing social controllers.
-\newblock 2010.
+\newblock \emph{QPSR of the numediart research program}, 3\penalty0 (3), 2010.
 
 \bibitem[Harzing(2008)]{harzing2008}
 Anne-Wil Harzing.

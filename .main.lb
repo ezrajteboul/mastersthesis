@@ -29,9 +29,9 @@ sVfiles_with_guttermarks
 p15
 g4
 ((lp16
-V/Users/ejt/Desktop/LatexThesisTemp/./Chapters/1-samplepart1/1-samplechap.tex
+V/Users/ejt/Desktop/LatexThesisTemp/./docVars.tex
 p17
-aV/Users/ejt/Desktop/LatexThesisTemp/./docVars.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/1-samplechap.tex
 p18
 aV/Users/ejt/Desktop/LatexThesisTemp/./Appendices/AppendixA.tex
 p19
@@ -39,25 +39,31 @@ aV/Users/ejt/Desktop/LatexThesisTemp/titlePage.tex
 p20
 aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/0-introduction.tex
 p21
-aV/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+aV/Users/ejt/Desktop/LatexThesisTemp/./chapterOrdering.tex
 p22
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
+aV/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
 p23
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./chapterOrdering.tex
 p24
-aS'main.tex'
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
 p25
 aV/Users/ejt/Desktop/LatexThesisTemp/./main.tex
 p26
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/0-introduction.tex
+aS'main.tex'
 p27
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./docVars.tex
 p28
-aV/Users/ejt/Desktop/LatexThesisTemp/./chapterOrdering.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/0-introduction.tex
 p29
-atp30
-Rp31
-sVsynctex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
+p30
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./main.tex
+p31
+aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/1-samplepart1/1-samplechap.tex
 p32
+atp33
+Rp34
+sVsynctex
+p35
 I01
 s.

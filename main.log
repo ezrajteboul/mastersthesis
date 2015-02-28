@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  27 FEB 2015 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  28 FEB 2015 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,18 +1024,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 
 
 
-] [2] [3]
-
-Package natbib Warning: Citation `dunn2001' on page 4 undefined on input line 3
-6.
-
-[4]) [5] (./Chapters/1-samplepart1/1-samplechap.tex [6
+] [2] [3] [4]) [5] (./Chapters/1-samplepart1/1-samplechap.tex [6
 
 
 ]
 Chapter 2.
 ------------------------------------------------------------------------------
- 2 A history of experimental electronic systems in the musical arts
+ 2 Experimental electronic systems in the musical arts: design concepts and his
+tory
 ------------------------------------------------------------------------------
 
 Overfull \hbox (0.24376pt too wide) in paragraph at lines 15--16
@@ -1046,329 +1042,295 @@ ces, trans-fer-ring the concept
 [7
 
 ]
+Overfull \hbox (3.7582pt too wide) in paragraph at lines 21--22
+\OT1/ptm/m/n/12 tinker-ers, while pre-existing in-stru-ments and mu-sical tra-d
+i-tions shaped what those tinker-
+ []
+
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
- [8]
-[9] [10]
+ [8] [9]
+<Figures/timsamp.pdf, id=652, 794.97pt x 614.295pt>
+File: Figures/timsamp.pdf Graphic file (type pdf)
+ <use Figures/timsamp.pdf>
+Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
+(pdftex.def)             Requested size: 417.47307pt x 322.60342pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/bompre.png, id=653, 573.14125pt x 470.75874pt>
+File: Figures/bompre.png Graphic file (type png)
+
+<use Figures/bompre.png>
+Package pdftex.def Info: Figures/bompre.png used on input line 60.
+(pdftex.def)             Requested size: 417.47307pt x 342.90398pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10] [11 <./Figures/timsamp.pdf>] [12 <./Figures/bompre.png>]
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 75.
+(hyperref)                than one, level fixed on input line 87.
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 75.
+(hyperref)                be the same. Added a new anchor on input line 87.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 79.
+(hyperref)                than one, level fixed on input line 91.
 
-[11]
+<Figures/mustel.jpg, id=679, 1541.76pt x 2055.68pt>
+File: Figures/mustel.jpg Graphic file (type jpg)
+ <use Figures/mustel.jpg>
+Package pdftex.def Info: Figures/mustel.jpg used on input line 98.
+(pdftex.def)             Requested size: 417.47307pt x 556.60938pt.
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 83.
 
-[12]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Warning: Reference `AppendixA' on page 13 undefined on input line 97.
+<Figures/singarc.jpg, id=682, 523.9575pt x 737.75626pt>
+File: Figures/singarc.jpg Graphic file (type jpg)
 
-./Chapters/1-samplepart1/1-samplechap.tex:101: You can't use `macro parameter c
-haracter #' in horizontal mode.
-l.101 ...as founded in 1947. Popular Electronics #
-                                                  1, which compiled articles...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
+<use Figures/singarc.jpg>
+Package pdftex.def Info: Figures/singarc.jpg used on input line 108.
+(pdftex.def)             Requested size: 208.73653pt x 293.904pt.
 
-[13]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13] [14 <./Figures/mustel.jpg>]
+<Figures/dynamo.jpg, id=695, 555.07375pt x 717.68124pt>
+File: Figures/dynamo.jpg Graphic file (type jpg)
+
+<use Figures/dynamo.jpg>
+Package pdftex.def Info: Figures/dynamo.jpg used on input line 118.
+(pdftex.def)             Requested size: 208.73653pt x 269.88542pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Figures/singarc.jpg>]
+<Figures/freshman.jpg, id=700, 652.4375pt x 985.6825pt>
+File: Figures/freshman.jpg Graphic file (type jpg)
+
+<use Figures/freshman.jpg>
+Package pdftex.def Info: Figures/freshman.jpg used on input line 132.
+(pdftex.def)             Requested size: 292.22987pt x 441.50754pt.
+ [16 <./Figures/dynamo.jpg>] [17 <./Figures/freshman.jpg>] <Figures/radioshack.
+png, id=709, 866.23625pt x 689.57625pt>
+File: Figures/radioshack.png Graphic file (type png)
+
+<use Figures/radioshack.png>
+Package pdftex.def Info: Figures/radioshack.png used on input line 142.
+(pdftex.def)             Requested size: 417.47307pt x 332.32913pt.
+ [18 <./Figures/radioshack.png>]
+<Figures/rcamkii.jpg, id=719, 332.24126pt x 269.005pt>
+File: Figures/rcamkii.jpg Graphic file (type jpg)
+
+<use Figures/rcamkii.jpg>
+Package pdftex.def Info: Figures/rcamkii.jpg used on input line 152.
+(pdftex.def)             Requested size: 208.73653pt x 169.01021pt.
+
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 107.
+(hyperref)                than one, level fixed on input line 155.
+
+[19 <./Figures/rcamkii.jpg>]
+Overfull \hbox (3.39784pt too wide) in paragraph at lines 162--163
+[]\OT1/ptm/m/n/12 The Sack-but was a voltage con-trolled mono-phonic in-stru-me
+nt with spe-cific timbral
+ []
+
+<Figures/sackbut.jpg, id=727, 411.5375pt x 242.9075pt>
+File: Figures/sackbut.jpg Graphic file (type jpg)
+
+<use Figures/sackbut.jpg>
+Package pdftex.def Info: Figures/sackbut.jpg used on input line 167.
+(pdftex.def)             Requested size: 417.47307pt x 246.4132pt.
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 107.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 115.
+(hyperref)                than one, level fixed on input line 172.
 
-[14]
+[20] <Figures/electronium.jpg, id=736, 548.0475pt x 389.455pt>
+File: Figures/electronium.jpg Graphic file (type jpg)
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 119.
+<use Figures/electronium.jpg>
+Package pdftex.def Info: Figures/electronium.jpg used on input line 181.
+(pdftex.def)             Requested size: 417.47307pt x 296.67227pt.
 
 
-Package natbib Warning: Citation `holzaepfel1994' on page 15 undefined on input
- line 123.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15]
-Overfull \hbox (0.96375pt too wide) in paragraph at lines 135--136
+[21 <./Figures/sackbut.jpg>] [22 <./Figures/electronium.jpg>]
+<Figures/barrons.jpg, id=748, 616.3025pt x 422.57875pt>
+File: Figures/barrons.jpg Graphic file (type jpg)
+
+<use Figures/barrons.jpg>
+Package pdftex.def Info: Figures/barrons.jpg used on input line 193.
+(pdftex.def)             Requested size: 417.47307pt x 286.25357pt.
+ [23 <./Figures/barrons.jpg>]
+Overfull \hbox (1.89711pt too wide) in paragraph at lines 210--211
+[]\OT1/ptm/m/n/12 First, the avant-garde con-tin-ues its ex-plor-a-tion of tech
+-no-lo-gical pos-sib-il-it-ies, while
+ []
+
+<Figures/variationsii.jpg, id=756, 459.7175pt x 345.29pt>
+File: Figures/variationsii.jpg Graphic file (type jpg)
+
+<use Figures/variationsii.jpg>
+Package pdftex.def Info: Figures/variationsii.jpg used on input line 215.
+(pdftex.def)             Requested size: 417.47307pt x 313.57686pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] <Figures/tudorvar.jpg, id=765, 365.365pt x 401.5pt>
+File: Figures/tudorvar.jpg Graphic file (type jpg)
+
+<use Figures/tudorvar.jpg>
+Package pdftex.def Info: Figures/tudorvar.jpg used on input line 223.
+(pdftex.def)             Requested size: 208.73653pt x 229.37811pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25 <./Figures/variationsii.jpg>]
+Overfull \hbox (1.8857pt too wide) in paragraph at lines 228--229
 []\OT1/ptm/m/n/12 Reminiscent of Bar-ron's liv-ing cir-cuits, Tu-dor de-scribed
  his second piece as \com-
  []
 
-[16]
-./Chapters/1-samplepart1/1-samplechap.tex:141: Missing \endcsname inserted.
-<to be read again> 
-                   \global 
-l.141 ...es, \"composing inside electronics\" \ref
-                                                  {appendixA}. In trying to ...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+[26 <./Figures/tudorvar.jpg>]
+
+LaTeX Warning: Reference `appendixA' on page 27 undefined on input line 234.
+
+<Figures/tudorband.jpg, id=789, 410.53375pt x 528.97626pt>
+File: Figures/tudorband.jpg Graphic file (type jpg)
+
+<use Figures/tudorband.jpg>
+Package pdftex.def Info: Figures/tudorband.jpg used on input line 239.
+(pdftex.def)             Requested size: 208.73653pt x 268.95909pt.
 
 
-LaTeX Warning: Reference `\endcsname ' on page 17 undefined on input line 141.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-./Chapters/1-samplepart1/1-samplechap.tex:141: Argument of \@firstoffive has an
- extra }.
-<inserted text> 
-                \par 
-l.141 ...es, \"composing inside electronics\" \ref
-                                                  {appendixA}. In trying to ...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
+[27] <Figures/rainforest4.png, id=799, 938.50626pt x 280.04625pt>
+File: Figures/rainforest4.png Graphic file (type png)
 
-Runaway argument?
-./Chapters/1-samplepart1/1-samplechap.tex:141: Paragraph ended before \@firstof
-five was complete.
-<to be read again> 
-                   \par 
-l.141 ...es, \"composing inside electronics\" \ref
-                                                  {appendixA}. In trying to ...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+<use Figures/rainforest4.png>
+Package pdftex.def Info: Figures/rainforest4.png used on input line 247.
+(pdftex.def)             Requested size: 417.47307pt x 124.57103pt.
 
-./Chapters/1-samplepart1/1-samplechap.tex:141: Missing \endcsname inserted.
-<to be read again> 
-                   \egroup 
-l.141 ...es, \"composing inside electronics\" \ref
-                                                  {appendixA}. In trying to ...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
+<Figures/untitled.png, id=800, 738.76pt x 500.87125pt>
+File: Figures/untitled.png Graphic file (type png)
+
+<use Figures/untitled.png>
+Package pdftex.def Info: Figures/untitled.png used on input line 253.
+(pdftex.def)             Requested size: 417.47307pt x 283.03862pt.
 
 
-LaTeX Warning: Reference `\endcsname ' on page 17 undefined on input line 141.
-
-[17]
-
-LaTeX Warning: Reference `AppendixA' on page 18 undefined on input line 145.
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Undefined control sequence.
-l.151 ...credible, where music is revealed from \�
-                                                  ��inside,\’ rather than ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
+LaTeX Warning: Reference `AppendixA' on page 28 undefined on input line 256.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...redible, where music is revealed from \�
-                                                  �inside,\’ rather than f...
+[28 <./Figures/tudorband.jpg> <./Figures/rainforest4.png>] [29 <./Figures/untit
+led.png>] <Figures/minimoogVCO.jpg, id=822, 701.38036pt x 539.8569pt>
+File: Figures/minimoogVCO.jpg Graphic file (type jpg)
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...edible, where music is revealed from \‘
-                                                  inside,\’ rather than fr...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Undefined control sequence.
-l.151 ...here music is revealed from \‘inside,\�
-                                                  �� rather than from \‘ou...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<use Figures/minimoogVCO.jpg>
+Package pdftex.def Info: Figures/minimoogVCO.jpg used on input line 277.
+(pdftex.def)             Requested size: 417.47307pt x 321.33005pt.
+ [30]
+<Figures/schulze.jpg, id=830, 602.25pt x 423.5825pt>
+File: Figures/schulze.jpg Graphic file (type jpg)
+ <use Figures/schulze.jpg>
+Package pdftex.def Info: Figures/schulze.jpg used on input line 285.
+(pdftex.def)             Requested size: 417.47307pt x 293.636pt.
 
 
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...ere music is revealed from \‘inside,\�
-                                                  � rather than from \‘out...
+[31 <./Figures/minimoogVCO.jpg>]
+<Figures/carlos.jpg, id=836, 306.78615pt x 199.82655pt>
+File: Figures/carlos.jpg Graphic file (type jpg)
 
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+<use Figures/carlos.jpg>
+Package pdftex.def Info: Figures/carlos.jpg used on input line 293.
+(pdftex.def)             Requested size: 417.47307pt x 271.92514pt.
 
 
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...re music is revealed from \‘inside,\’
-                                                   rather than from \‘outs...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Undefined control sequence.
-l.151 ... from \‘inside,\’ rather than from \�
-                                                  ��outside.\’
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
+LaTeX Warning: Reference `AppendixA' on page 32 undefined on input line 298.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...from \‘inside,\’ rather than from \�
-                                                  �outside.\’
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+[32 <./Figures/schulze.jpg>]
+<Figures/buchlaarb.jpg, id=845, 1017.8025pt x 762.85pt>
+File: Figures/buchlaarb.jpg Graphic file (type jpg)
+
+<use Figures/buchlaarb.jpg>
+Package pdftex.def Info: Figures/buchlaarb.jpg used on input line 303.
+(pdftex.def)             Requested size: 417.47307pt x 312.89856pt.
 
 
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...rom \‘inside,\’ rather than from \‘
-                                                  outside.\’
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Undefined control sequence.
-l.151 ...side,\’ rather than from \‘outside.\�
-                                                  ��
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...ide,\’ rather than from \‘outside.\�
-                                                  �
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-./Chapters/1-samplepart1/1-samplechap.tex:151: Package inputenc Error: Keyboard
- character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...de,\’ rather than from \‘outside.\’
-                                                  
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-[18] [19]
-
-LaTeX Warning: Reference `AppendixA' on page 20 undefined on input line 169.
-
-[20] [21] <Figures/discreetdiagram.jpg, id=719, 1003.75pt x 321.2pt>
+[33 <./Figures/carlos.jpg>] [34 <./Figures/buchlaarb.jpg>]
+<Figures/discreetdiagram.jpg, id=859, 1003.75pt x 321.2pt>
 File: Figures/discreetdiagram.jpg Graphic file (type jpg)
 
 <use Figures/discreetdiagram.jpg>
-Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 202.
+Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 339.
 (pdftex.def)             Requested size: 417.47307pt x 133.59448pt.
- [22 <./Figures/discreetdiagram.jpg>] [23]
-[24] [25]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 257.
 
 
-Package natbib Warning: Citation `mills2010' on page 26 undefined on input line
- 257.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[35] [36 <./Figures/discreetdiagram.jpg>] [37]
+<Figures/lightmix.png, id=891, 236.885pt x 199.74625pt>
+File: Figures/lightmix.png Graphic file (type png)
 
-Package natbib Warning: Citation `mills2010' on page 26 undefined on input line
- 263.
+<use Figures/lightmix.png>
+Package pdftex.def Info: Figures/lightmix.png used on input line 378.
+(pdftex.def)             Requested size: 125.24318pt x 105.60593pt.
+ [38 <./Figures/lightmix.png>]
+Overfull \hbox (10.93912pt too wide) in paragraph at lines 385--386
+[]\OT1/ptm/m/n/10 \Finally Tim-Berner's Lee birthed the World Wide Web and a hu
+n-dred Fuzztones
+ []
 
-[26]
-Overfull \hbox (3.4237pt too wide) in paragraph at lines 267--268
+[39] [40]
+Overfull \hbox (4.34566pt too wide) in paragraph at lines 411--412
 []\OT1/ptm/m/n/12 On a com-munity level (\do-it-with-others", diwo, or \do-it-t
 ogether", dit), Collins'
  []
 
-./Chapters/1-samplepart1/1-samplechap.tex:269: Misplaced alignment tab characte
-r &.
-l.269 ...ent design as part of more general arts &
-                                                   crafts \/ diy \/ maker mo...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[27] [28] [29] Excluding 'unsortedStuff' comment.
+[41] [42] [43] Excluding 'unsortedStuff' comment.
 Excluding 'optBlankSpace' comment.) (./Chapters/1-samplepart1/2-samplechap.tex
-[30]
+[44]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Selected Recent Works
 ------------------------------------------------------------------------------
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [31
+Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [45
 
 ]
-Overfull \vbox (98.72594pt too high) has occurred while \output is active []
+Overfull \vbox (53.36781pt too high) has occurred while \output is active []
 
 
-[32] (./Chapters/2-samplepart2/1-samplechap.tex [33
+[46] (./Chapters/2-samplepart2/1-samplechap.tex [47
 
 
 ]
@@ -1393,6 +1355,12 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 15.
 
 
+Overfull \hbox (4.47044pt too wide) in paragraph at lines 18--18
+ |[]\OT1/ptm/b/n/14.4 Louise & Ben Hinz, Devi Ever FX and Dwarf-craft Devices| 
+
+ []
+
+
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 19.
 
@@ -1400,7 +1368,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 19.
 
-[34
+[48
 
 ]
 
@@ -1435,7 +1403,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 35.
 
-[35]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 39.
@@ -1444,42 +1411,32 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 39.
 
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/2-samplepart2/2-samplechap.tex [36]
+[49] Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
+(./Chapters/2-samplepart2/2-samplechap.tex [50]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Expriments
 ------------------------------------------------------------------------------
-
-Overfull \hbox (11.25737pt too wide) in paragraph at lines 7--7
- |[]\OT1/ptm/b/n/17.28 designing an open source, hy-brid and per-sonal frame-
- []
-
 Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/conclusion.tex [37
+(./Chapters/conclusion.tex [51
 
 ]
 Chapter 6.
 ------------------------------------------------------------------------------
  6 Future: Conclusion
 ------------------------------------------------------------------------------
-) [38
+) [52
 
-] (./Appendices/AppendixA.tex [39
+] (./Appendices/AppendixA.tex [53
 
 ]
 Appendix A.
 ------------------------------------------------------------------------------
  A Interview Transcripts
 ------------------------------------------------------------------------------
+[54
 
-Overfull \hbox (7.28326pt too wide) in paragraph at lines 7--7
- |[]\OT1/ptm/b/n/17.28 transcript for in-ter-view with Sang Wook Sunny Nam| 
- []
-
-[40
-
-] [41] [42]
+] [55] [56]
 
 ./Appendices/AppendixA.tex:55: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2149,36 +2106,6 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.55 ...￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-                                                  ￼￼￼￼￼￼￼￼�...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Appendices/AppendixA.tex:55: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 ...￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-                                                  ￼￼￼￼￼￼￼￼�...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Appendices/AppendixA.tex:55: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 ...￼￼￼￼￼￼￼￼￼￼￼￼￼￼
                                                   ￼￼￼￼￼￼￼￼￼
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2310,7 +2237,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[43] [44] [45]
+[57] [58] [59]
 
 ./Appendices/AppendixA.tex:91: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2367,7 +2294,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[46]
+[60]
 
 ./Appendices/AppendixA.tex:121: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
@@ -2438,70 +2365,73 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-Overfull \hbox (2.7725pt too wide) in paragraph at lines 355--355
- |[]\OT1/ptm/b/n/17.28 transcript for in-ter-view with Dan Snazelle of Snazzy
- []
+[61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
+[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
+[91] [92]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 368.
 
-[76]
-./Appendices/AppendixA.tex:368: You can't use `macro parameter character #' in 
-horizontal mode.
-l.368 ...d Flash http://deecerecords.com/artd252/#
-                                                  processing), and I complet...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-[77] [78] [79] [80] [81] [82]) [83]) [84]
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+[93] [94] [95] [96] [97]) [98]) [99]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./main.bbl [85
+(./main.bbl [100
 
 
-] [86] [87] [88])
+] [101] [102] [103])
 
-Package natbib Warning: There were undefined citations.
+./main.tex:254: LaTeX Error: \begin{itemize} on input line 158 ended by \end{do
+cument}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
-[89]
+[104]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
- (./main.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 69342282D7647D5CF9468F63EFC1A4A7;17245.
+(rerunfilecheck)             Checksum: 53C1CC908559700AC08B54B4F1121E1C;17366.
 
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 158 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 15635 strings out of 493117
- 218960 string characters out of 6135433
- 392454 words of memory out of 5000000
- 18536 multiletter control sequences out of 15000+600000
- 43788 words of font info for 89 fonts, out of 8000000 for 9000
+ 15816 strings out of 493117
+ 222441 string characters out of 6135433
+ 392919 words of memory out of 5000000
+ 18656 multiletter control sequences out of 15000+600000
+ 44361 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,2659b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014
-/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on main.pdf (100 pages, 328750 bytes).
+ 49i,12n,45p,2659b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (115 pages, 4258811 bytes).
 PDF statistics:
- 1134 PDF objects out of 1200 (max. 8388607)
- 1001 compressed objects within 11 object streams
- 252 named destinations out of 1000 (max. 500000)
- 702 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1299 PDF objects out of 1440 (max. 8388607)
+ 1121 compressed objects within 12 object streams
+ 287 named destinations out of 1000 (max. 500000)
+ 807 words of extra memory for PDF output out of 10000 (max. 10000000)
 
