@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  28 FEB 2015 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  1 MAR 2015 19:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1024,7 +1024,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 
 
 
-] [2] [3] [4]) [5] (./Chapters/1-samplepart1/1-samplechap.tex [6
+] [2] [3] [4] [5]) [6] (./Chapters/1-samplepart1/1-samplechap.tex [7
 
 
 ]
@@ -1039,7 +1039,7 @@ Overfull \hbox (0.24376pt too wide) in paragraph at lines 15--16
 ces, trans-fer-ring the concept
  []
 
-[7
+[8
 
 ]
 Overfull \hbox (3.7582pt too wide) in paragraph at lines 21--22
@@ -1053,8 +1053,8 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
- [8] [9]
-<Figures/timsamp.pdf, id=652, 794.97pt x 614.295pt>
+ [9] [10]
+<Figures/timsamp.pdf, id=656, 794.97pt x 614.295pt>
 File: Figures/timsamp.pdf Graphic file (type pdf)
  <use Figures/timsamp.pdf>
 Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
@@ -1063,7 +1063,7 @@ Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/bompre.png, id=653, 573.14125pt x 470.75874pt>
+<Figures/bompre.png, id=657, 573.14125pt x 470.75874pt>
 File: Figures/bompre.png Graphic file (type png)
 
 <use Figures/bompre.png>
@@ -1073,7 +1073,7 @@ Package pdftex.def Info: Figures/bompre.png used on input line 60.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10] [11 <./Figures/timsamp.pdf>] [12 <./Figures/bompre.png>]
+[11] [12 <./Figures/timsamp.pdf>] [13 <./Figures/bompre.png>]
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 87.
@@ -1086,16 +1086,16 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 91.
 
-<Figures/mustel.jpg, id=679, 1541.76pt x 2055.68pt>
+<Figures/mustel.jpg, id=683, 1541.76pt x 2055.68pt>
 File: Figures/mustel.jpg Graphic file (type jpg)
  <use Figures/mustel.jpg>
 Package pdftex.def Info: Figures/mustel.jpg used on input line 98.
-(pdftex.def)             Requested size: 417.47307pt x 556.60938pt.
+(pdftex.def)             Requested size: 208.73653pt x 278.289pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/singarc.jpg, id=682, 523.9575pt x 737.75626pt>
+<Figures/singarc.jpg, id=686, 523.9575pt x 737.75626pt>
 File: Figures/singarc.jpg Graphic file (type jpg)
 
 <use Figures/singarc.jpg>
@@ -1105,8 +1105,7 @@ Package pdftex.def Info: Figures/singarc.jpg used on input line 108.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14 <./Figures/mustel.jpg>]
-<Figures/dynamo.jpg, id=695, 555.07375pt x 717.68124pt>
+[14] <Figures/dynamo.jpg, id=695, 555.07375pt x 717.68124pt>
 File: Figures/dynamo.jpg Graphic file (type jpg)
 
 <use Figures/dynamo.jpg>
@@ -1116,21 +1115,28 @@ Package pdftex.def Info: Figures/dynamo.jpg used on input line 118.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15 <./Figures/singarc.jpg>]
+[15 <./Figures/mustel.jpg>]
 <Figures/freshman.jpg, id=700, 652.4375pt x 985.6825pt>
 File: Figures/freshman.jpg Graphic file (type jpg)
 
 <use Figures/freshman.jpg>
 Package pdftex.def Info: Figures/freshman.jpg used on input line 132.
-(pdftex.def)             Requested size: 292.22987pt x 441.50754pt.
- [16 <./Figures/dynamo.jpg>] [17 <./Figures/freshman.jpg>] <Figures/radioshack.
-png, id=709, 866.23625pt x 689.57625pt>
+(pdftex.def)             Requested size: 208.73653pt x 315.34964pt.
+ [16 <./Figures/singarc.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/radioshack.png, id=705, 866.23625pt x 689.57625pt>
 File: Figures/radioshack.png Graphic file (type png)
 
 <use Figures/radioshack.png>
 Package pdftex.def Info: Figures/radioshack.png used on input line 142.
 (pdftex.def)             Requested size: 417.47307pt x 332.32913pt.
- [18 <./Figures/radioshack.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./Figures/dynamo.jpg>] [18 <./Figures/freshman.jpg>]
 <Figures/rcamkii.jpg, id=719, 332.24126pt x 269.005pt>
 File: Figures/rcamkii.jpg Graphic file (type jpg)
 
@@ -1139,10 +1145,13 @@ Package pdftex.def Info: Figures/rcamkii.jpg used on input line 152.
 (pdftex.def)             Requested size: 208.73653pt x 169.01021pt.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 155.
 
-[19 <./Figures/rcamkii.jpg>]
+[19 <./Figures/radioshack.png>]
 Overfull \hbox (3.39784pt too wide) in paragraph at lines 162--163
 []\OT1/ptm/m/n/12 The Sack-but was a voltage con-trolled mono-phonic in-stru-me
 nt with spe-cific timbral
@@ -1158,34 +1167,36 @@ Package pdftex.def Info: Figures/sackbut.jpg used on input line 167.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[20 <./Figures/rcamkii.jpg>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 172.
 
-[20] <Figures/electronium.jpg, id=736, 548.0475pt x 389.455pt>
+[21 <./Figures/sackbut.jpg>]
+<Figures/electronium.jpg, id=740, 548.0475pt x 389.455pt>
 File: Figures/electronium.jpg Graphic file (type jpg)
 
 <use Figures/electronium.jpg>
 Package pdftex.def Info: Figures/electronium.jpg used on input line 181.
 (pdftex.def)             Requested size: 417.47307pt x 296.67227pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[21 <./Figures/sackbut.jpg>] [22 <./Figures/electronium.jpg>]
+ [22 <./Figures/electronium.jpg>]
 <Figures/barrons.jpg, id=748, 616.3025pt x 422.57875pt>
 File: Figures/barrons.jpg Graphic file (type jpg)
 
 <use Figures/barrons.jpg>
 Package pdftex.def Info: Figures/barrons.jpg used on input line 193.
 (pdftex.def)             Requested size: 417.47307pt x 286.25357pt.
- [23 <./Figures/barrons.jpg>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23] [24 <./Figures/barrons.jpg>]
 Overfull \hbox (1.89711pt too wide) in paragraph at lines 210--211
 []\OT1/ptm/m/n/12 First, the avant-garde con-tin-ues its ex-plor-a-tion of tech
 -no-lo-gical pos-sib-il-it-ies, while
  []
 
-<Figures/variationsii.jpg, id=756, 459.7175pt x 345.29pt>
+<Figures/variationsii.jpg, id=762, 459.7175pt x 345.29pt>
 File: Figures/variationsii.jpg Graphic file (type jpg)
 
 <use Figures/variationsii.jpg>
@@ -1195,44 +1206,43 @@ Package pdftex.def Info: Figures/variationsii.jpg used on input line 215.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24] <Figures/tudorvar.jpg, id=765, 365.365pt x 401.5pt>
+<Figures/tudorvar.jpg, id=765, 365.365pt x 401.5pt>
 File: Figures/tudorvar.jpg Graphic file (type jpg)
-
-<use Figures/tudorvar.jpg>
+ <use Figures/tudorvar.jpg>
 Package pdftex.def Info: Figures/tudorvar.jpg used on input line 223.
 (pdftex.def)             Requested size: 208.73653pt x 229.37811pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[25 <./Figures/variationsii.jpg>]
+[25]
+
+LaTeX Warning: Text page 26 contains only floats.
+
+[26 <./Figures/variationsii.jpg> <./Figures/tudorvar.jpg>]
 Overfull \hbox (1.8857pt too wide) in paragraph at lines 228--229
 []\OT1/ptm/m/n/12 Reminiscent of Bar-ron's liv-ing cir-cuits, Tu-dor de-scribed
  his second piece as \com-
  []
 
-[26 <./Figures/tudorvar.jpg>]
 
 LaTeX Warning: Reference `appendixA' on page 27 undefined on input line 234.
 
-<Figures/tudorband.jpg, id=789, 410.53375pt x 528.97626pt>
+[27] <Figures/tudorband.jpg, id=795, 410.53375pt x 528.97626pt>
 File: Figures/tudorband.jpg Graphic file (type jpg)
 
 <use Figures/tudorband.jpg>
 Package pdftex.def Info: Figures/tudorband.jpg used on input line 239.
 (pdftex.def)             Requested size: 208.73653pt x 268.95909pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[27] <Figures/rainforest4.png, id=799, 938.50626pt x 280.04625pt>
+ [28 <./Figures/tudorband.jpg>]
+<Figures/rainforest4.png, id=804, 938.50626pt x 280.04625pt>
 File: Figures/rainforest4.png Graphic file (type png)
 
 <use Figures/rainforest4.png>
 Package pdftex.def Info: Figures/rainforest4.png used on input line 247.
 (pdftex.def)             Requested size: 417.47307pt x 124.57103pt.
 
-<Figures/untitled.png, id=800, 738.76pt x 500.87125pt>
+<Figures/untitled.png, id=805, 738.76pt x 500.87125pt>
 File: Figures/untitled.png Graphic file (type png)
 
 <use Figures/untitled.png>
@@ -1240,20 +1250,20 @@ Package pdftex.def Info: Figures/untitled.png used on input line 253.
 (pdftex.def)             Requested size: 417.47307pt x 283.03862pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Reference `AppendixA' on page 29 undefined on input line 256.
 
-
-LaTeX Warning: Reference `AppendixA' on page 28 undefined on input line 256.
-
-[28 <./Figures/tudorband.jpg> <./Figures/rainforest4.png>] [29 <./Figures/untit
-led.png>] <Figures/minimoogVCO.jpg, id=822, 701.38036pt x 539.8569pt>
+[29 <./Figures/rainforest4.png> <./Figures/untitled.png>] [30]
+<Figures/minimoogVCO.jpg, id=830, 701.38036pt x 539.8569pt>
 File: Figures/minimoogVCO.jpg Graphic file (type jpg)
 
 <use Figures/minimoogVCO.jpg>
 Package pdftex.def Info: Figures/minimoogVCO.jpg used on input line 277.
 (pdftex.def)             Requested size: 417.47307pt x 321.33005pt.
- [30]
-<Figures/schulze.jpg, id=830, 602.25pt x 423.5825pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/schulze.jpg, id=831, 602.25pt x 423.5825pt>
 File: Figures/schulze.jpg Graphic file (type jpg)
  <use Figures/schulze.jpg>
 Package pdftex.def Info: Figures/schulze.jpg used on input line 285.
@@ -1262,8 +1272,7 @@ Package pdftex.def Info: Figures/schulze.jpg used on input line 285.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31 <./Figures/minimoogVCO.jpg>]
-<Figures/carlos.jpg, id=836, 306.78615pt x 199.82655pt>
+<Figures/carlos.jpg, id=833, 306.78615pt x 199.82655pt>
 File: Figures/carlos.jpg Graphic file (type jpg)
 
 <use Figures/carlos.jpg>
@@ -1273,11 +1282,12 @@ Package pdftex.def Info: Figures/carlos.jpg used on input line 293.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[31]
 
 LaTeX Warning: Reference `AppendixA' on page 32 undefined on input line 298.
 
-[32 <./Figures/schulze.jpg>]
-<Figures/buchlaarb.jpg, id=845, 1017.8025pt x 762.85pt>
+[32 <./Figures/minimoogVCO.jpg>]
+<Figures/buchlaarb.jpg, id=846, 1017.8025pt x 762.85pt>
 File: Figures/buchlaarb.jpg Graphic file (type jpg)
 
 <use Figures/buchlaarb.jpg>
@@ -1287,31 +1297,31 @@ Package pdftex.def Info: Figures/buchlaarb.jpg used on input line 303.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33 <./Figures/carlos.jpg>] [34 <./Figures/buchlaarb.jpg>]
-<Figures/discreetdiagram.jpg, id=859, 1003.75pt x 321.2pt>
+[33 <./Figures/schulze.jpg>] [34 <./Figures/carlos.jpg>] [35 <./Figures/buchlaa
+rb.jpg>] <Figures/discreetdiagram.jpg, id=865, 1003.75pt x 321.2pt>
 File: Figures/discreetdiagram.jpg Graphic file (type jpg)
 
 <use Figures/discreetdiagram.jpg>
 Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 339.
 (pdftex.def)             Requested size: 417.47307pt x 133.59448pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[35] [36 <./Figures/discreetdiagram.jpg>] [37]
-<Figures/lightmix.png, id=891, 236.885pt x 199.74625pt>
+ [36 <./Figures/discreetdiagram.jpg>] [37]
+<Figures/lightmix.png, id=892, 236.885pt x 199.74625pt>
 File: Figures/lightmix.png Graphic file (type png)
 
 <use Figures/lightmix.png>
 Package pdftex.def Info: Figures/lightmix.png used on input line 378.
 (pdftex.def)             Requested size: 125.24318pt x 105.60593pt.
- [38 <./Figures/lightmix.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38]
 Overfull \hbox (10.93912pt too wide) in paragraph at lines 385--386
 []\OT1/ptm/m/n/10 \Finally Tim-Berner's Lee birthed the World Wide Web and a hu
 n-dred Fuzztones
  []
 
-[39] [40]
+[39 <./Figures/lightmix.png>] [40]
 Overfull \hbox (4.34566pt too wide) in paragraph at lines 411--412
 []\OT1/ptm/m/n/12 On a com-munity level (\do-it-with-others", diwo, or \do-it-t
 ogether", dit), Collins'
@@ -2367,20 +2377,21 @@ or  <return>  to continue without it.
 
 [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
 [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
-[91] [92]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 368.
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 470.
 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-[93] [94] [95] [96] [97]) [98]) [99]
+) [105] [106]
+[107] [108] [109]) [110]) [111]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./main.bbl [100
+(./main.bbl [112
 
 
-] [101] [102] [103])
+] [113] [114] [115])
 
 ./main.tex:254: LaTeX Error: \begin{itemize} on input line 158 ended by \end{do
 cument}.
@@ -2396,7 +2407,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
-[104]
+[116]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
@@ -2414,13 +2425,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
 ### semi simple group (level 1) entered at line 158 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15816 strings out of 493117
- 222441 string characters out of 6135433
- 392919 words of memory out of 5000000
+ 15828 strings out of 493117
+ 222537 string characters out of 6135433
+ 392893 words of memory out of 5000000
  18656 multiletter control sequences out of 15000+600000
  44361 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,2659b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,45p,2659b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
@@ -2428,10 +2439,10 @@ cal/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (115 pages, 4258811 bytes).
+Output written on main.pdf (127 pages, 4269842 bytes).
 PDF statistics:
- 1299 PDF objects out of 1440 (max. 8388607)
- 1121 compressed objects within 12 object streams
- 287 named destinations out of 1000 (max. 500000)
+ 1353 PDF objects out of 1440 (max. 8388607)
+ 1163 compressed objects within 12 object streams
+ 299 named destinations out of 1000 (max. 500000)
  807 words of extra memory for PDF output out of 10000 (max. 10000000)
 
