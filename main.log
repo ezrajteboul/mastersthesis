@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  1 MAR 2015 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  16 MAR 2015 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1054,7 +1054,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
  [9] [10]
-<Figures/timsamp.pdf, id=656, 794.97pt x 614.295pt>
+<Figures/timsamp.pdf, id=707, 794.97pt x 614.295pt>
 File: Figures/timsamp.pdf Graphic file (type pdf)
  <use Figures/timsamp.pdf>
 Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
@@ -1063,7 +1063,7 @@ Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/bompre.png, id=657, 573.14125pt x 470.75874pt>
+<Figures/bompre.png, id=708, 573.14125pt x 470.75874pt>
 File: Figures/bompre.png Graphic file (type png)
 
 <use Figures/bompre.png>
@@ -1086,7 +1086,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 91.
 
-<Figures/mustel.jpg, id=683, 1541.76pt x 2055.68pt>
+<Figures/mustel.jpg, id=736, 1541.76pt x 2055.68pt>
 File: Figures/mustel.jpg Graphic file (type jpg)
  <use Figures/mustel.jpg>
 Package pdftex.def Info: Figures/mustel.jpg used on input line 98.
@@ -1095,7 +1095,7 @@ Package pdftex.def Info: Figures/mustel.jpg used on input line 98.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/singarc.jpg, id=686, 523.9575pt x 737.75626pt>
+<Figures/singarc.jpg, id=741, 523.9575pt x 737.75626pt>
 File: Figures/singarc.jpg Graphic file (type jpg)
 
 <use Figures/singarc.jpg>
@@ -1105,7 +1105,7 @@ Package pdftex.def Info: Figures/singarc.jpg used on input line 108.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14] <Figures/dynamo.jpg, id=695, 555.07375pt x 717.68124pt>
+[14] <Figures/dynamo.jpg, id=751, 555.07375pt x 717.68124pt>
 File: Figures/dynamo.jpg Graphic file (type jpg)
 
 <use Figures/dynamo.jpg>
@@ -1116,7 +1116,7 @@ Package pdftex.def Info: Figures/dynamo.jpg used on input line 118.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [15 <./Figures/mustel.jpg>]
-<Figures/freshman.jpg, id=700, 652.4375pt x 985.6825pt>
+<Figures/freshman.jpg, id=756, 652.4375pt x 985.6825pt>
 File: Figures/freshman.jpg Graphic file (type jpg)
 
 <use Figures/freshman.jpg>
@@ -1126,7 +1126,7 @@ Package pdftex.def Info: Figures/freshman.jpg used on input line 132.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/radioshack.png, id=705, 866.23625pt x 689.57625pt>
+<Figures/radioshack.png, id=761, 866.23625pt x 689.57625pt>
 File: Figures/radioshack.png Graphic file (type png)
 
 <use Figures/radioshack.png>
@@ -1137,7 +1137,7 @@ Package pdftex.def Info: Figures/radioshack.png used on input line 142.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [17 <./Figures/dynamo.jpg>] [18 <./Figures/freshman.jpg>]
-<Figures/rcamkii.jpg, id=719, 332.24126pt x 269.005pt>
+<Figures/rcamkii.jpg, id=781, 332.24126pt x 269.005pt>
 File: Figures/rcamkii.jpg Graphic file (type jpg)
 
 <use Figures/rcamkii.jpg>
@@ -1157,30 +1157,26 @@ Overfull \hbox (3.39784pt too wide) in paragraph at lines 162--163
 nt with spe-cific timbral
  []
 
-<Figures/sackbut.jpg, id=727, 411.5375pt x 242.9075pt>
+<Figures/sackbut.jpg, id=791, 411.5375pt x 242.9075pt>
 File: Figures/sackbut.jpg Graphic file (type jpg)
 
 <use Figures/sackbut.jpg>
 Package pdftex.def Info: Figures/sackbut.jpg used on input line 167.
 (pdftex.def)             Requested size: 417.47307pt x 246.4132pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[20 <./Figures/rcamkii.jpg>]
+ [20 <./Figures/rcamkii.jpg>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 172.
 
 [21 <./Figures/sackbut.jpg>]
-<Figures/electronium.jpg, id=740, 548.0475pt x 389.455pt>
+<Figures/electronium.jpg, id=807, 548.0475pt x 389.455pt>
 File: Figures/electronium.jpg Graphic file (type jpg)
 
 <use Figures/electronium.jpg>
 Package pdftex.def Info: Figures/electronium.jpg used on input line 181.
 (pdftex.def)             Requested size: 417.47307pt x 296.67227pt.
  [22 <./Figures/electronium.jpg>]
-<Figures/barrons.jpg, id=748, 616.3025pt x 422.57875pt>
+<Figures/barrons.jpg, id=816, 616.3025pt x 422.57875pt>
 File: Figures/barrons.jpg Graphic file (type jpg)
 
 <use Figures/barrons.jpg>
@@ -1196,7 +1192,7 @@ Overfull \hbox (1.89711pt too wide) in paragraph at lines 210--211
 -no-lo-gical pos-sib-il-it-ies, while
  []
 
-<Figures/variationsii.jpg, id=762, 459.7175pt x 345.29pt>
+<Figures/variationsii.jpg, id=832, 459.7175pt x 345.29pt>
 File: Figures/variationsii.jpg Graphic file (type jpg)
 
 <use Figures/variationsii.jpg>
@@ -1206,7 +1202,7 @@ Package pdftex.def Info: Figures/variationsii.jpg used on input line 215.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/tudorvar.jpg, id=765, 365.365pt x 401.5pt>
+<Figures/tudorvar.jpg, id=837, 365.365pt x 401.5pt>
 File: Figures/tudorvar.jpg Graphic file (type jpg)
  <use Figures/tudorvar.jpg>
 Package pdftex.def Info: Figures/tudorvar.jpg used on input line 223.
@@ -1225,24 +1221,25 @@ Overfull \hbox (1.8857pt too wide) in paragraph at lines 228--229
  his second piece as \com-
  []
 
+[27]
 
-LaTeX Warning: Reference `appendixA' on page 27 undefined on input line 234.
+LaTeX Warning: Reference `appendixA' on page 28 undefined on input line 234.
 
-[27] <Figures/tudorband.jpg, id=795, 410.53375pt x 528.97626pt>
+<Figures/tudorband.jpg, id=877, 410.53375pt x 528.97626pt>
 File: Figures/tudorband.jpg Graphic file (type jpg)
 
 <use Figures/tudorband.jpg>
 Package pdftex.def Info: Figures/tudorband.jpg used on input line 239.
 (pdftex.def)             Requested size: 208.73653pt x 268.95909pt.
  [28 <./Figures/tudorband.jpg>]
-<Figures/rainforest4.png, id=804, 938.50626pt x 280.04625pt>
+<Figures/rainforest4.png, id=892, 938.50626pt x 280.04625pt>
 File: Figures/rainforest4.png Graphic file (type png)
 
 <use Figures/rainforest4.png>
 Package pdftex.def Info: Figures/rainforest4.png used on input line 247.
 (pdftex.def)             Requested size: 417.47307pt x 124.57103pt.
 
-<Figures/untitled.png, id=805, 738.76pt x 500.87125pt>
+<Figures/untitled.png, id=893, 738.76pt x 500.87125pt>
 File: Figures/untitled.png Graphic file (type png)
 
 <use Figures/untitled.png>
@@ -1250,10 +1247,13 @@ Package pdftex.def Info: Figures/untitled.png used on input line 253.
 (pdftex.def)             Requested size: 417.47307pt x 283.03862pt.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 LaTeX Warning: Reference `AppendixA' on page 29 undefined on input line 256.
 
-[29 <./Figures/rainforest4.png> <./Figures/untitled.png>] [30]
-<Figures/minimoogVCO.jpg, id=830, 701.38036pt x 539.8569pt>
+[29 <./Figures/rainforest4.png>] [30 <./Figures/untitled.png>]
+<Figures/minimoogVCO.jpg, id=928, 701.38036pt x 539.8569pt>
 File: Figures/minimoogVCO.jpg Graphic file (type jpg)
 
 <use Figures/minimoogVCO.jpg>
@@ -1263,7 +1263,7 @@ Package pdftex.def Info: Figures/minimoogVCO.jpg used on input line 277.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/schulze.jpg, id=831, 602.25pt x 423.5825pt>
+<Figures/schulze.jpg, id=929, 602.25pt x 423.5825pt>
 File: Figures/schulze.jpg Graphic file (type jpg)
  <use Figures/schulze.jpg>
 Package pdftex.def Info: Figures/schulze.jpg used on input line 285.
@@ -1272,7 +1272,7 @@ Package pdftex.def Info: Figures/schulze.jpg used on input line 285.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/carlos.jpg, id=833, 306.78615pt x 199.82655pt>
+[31] <Figures/carlos.jpg, id=937, 306.78615pt x 199.82655pt>
 File: Figures/carlos.jpg Graphic file (type jpg)
 
 <use Figures/carlos.jpg>
@@ -1282,12 +1282,11 @@ Package pdftex.def Info: Figures/carlos.jpg used on input line 293.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31]
 
 LaTeX Warning: Reference `AppendixA' on page 32 undefined on input line 298.
 
 [32 <./Figures/minimoogVCO.jpg>]
-<Figures/buchlaarb.jpg, id=846, 1017.8025pt x 762.85pt>
+<Figures/buchlaarb.jpg, id=949, 1017.8025pt x 762.85pt>
 File: Figures/buchlaarb.jpg Graphic file (type jpg)
 
 <use Figures/buchlaarb.jpg>
@@ -1298,24 +1297,20 @@ Package pdftex.def Info: Figures/buchlaarb.jpg used on input line 303.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [33 <./Figures/schulze.jpg>] [34 <./Figures/carlos.jpg>] [35 <./Figures/buchlaa
-rb.jpg>] <Figures/discreetdiagram.jpg, id=865, 1003.75pt x 321.2pt>
+rb.jpg>] <Figures/discreetdiagram.jpg, id=974, 1003.75pt x 321.2pt>
 File: Figures/discreetdiagram.jpg Graphic file (type jpg)
 
 <use Figures/discreetdiagram.jpg>
 Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 339.
 (pdftex.def)             Requested size: 417.47307pt x 133.59448pt.
  [36 <./Figures/discreetdiagram.jpg>] [37]
-<Figures/lightmix.png, id=892, 236.885pt x 199.74625pt>
+[38] <Figures/lightmix.png, id=1024, 236.885pt x 199.74625pt>
 File: Figures/lightmix.png Graphic file (type png)
 
 <use Figures/lightmix.png>
 Package pdftex.def Info: Figures/lightmix.png used on input line 378.
 (pdftex.def)             Requested size: 125.24318pt x 105.60593pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[38]
 Overfull \hbox (10.93912pt too wide) in paragraph at lines 385--386
 []\OT1/ptm/m/n/10 \Finally Tim-Berner's Lee birthed the World Wide Web and a hu
 n-dred Fuzztones
@@ -1327,20 +1322,20 @@ Overfull \hbox (4.34566pt too wide) in paragraph at lines 411--412
 ogether", dit), Collins'
  []
 
-[41] [42] [43] Excluding 'unsortedStuff' comment.
+[41] [42] [43] [44] Excluding 'unsortedStuff' comment.
 Excluding 'optBlankSpace' comment.) (./Chapters/1-samplepart1/2-samplechap.tex
-[44]
+[45]
 Chapter 3.
 ------------------------------------------------------------------------------
  3 Selected Recent Works
 ------------------------------------------------------------------------------
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [45
+Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.) [46
 
 ]
 Overfull \vbox (53.36781pt too high) has occurred while \output is active []
 
 
-[46] (./Chapters/2-samplepart2/1-samplechap.tex [47
+[47] (./Chapters/2-samplepart2/1-samplechap.tex [48
 
 
 ]
@@ -1378,7 +1373,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 19.
 
-[48
+[49
 
 ]
 
@@ -1421,32 +1416,32 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 39.
 
-[49] Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/2-samplepart2/2-samplechap.tex [50]
+[50] Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
+(./Chapters/2-samplepart2/2-samplechap.tex [51]
 Chapter 5.
 ------------------------------------------------------------------------------
  5 Expriments
 ------------------------------------------------------------------------------
 Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/conclusion.tex [51
+(./Chapters/conclusion.tex [52
 
 ]
 Chapter 6.
 ------------------------------------------------------------------------------
  6 Future: Conclusion
 ------------------------------------------------------------------------------
-) [52
+) [53
 
-] (./Appendices/AppendixA.tex [53
+] (./Appendices/AppendixA.tex [54
 
 ]
 Appendix A.
 ------------------------------------------------------------------------------
  A Interview Transcripts
 ------------------------------------------------------------------------------
-[54
+[55
 
-] [55] [56]
+] [56] [57]
 
 ./Appendices/AppendixA.tex:55: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2247,7 +2242,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[57] [58] [59]
+[58] [59] [60]
 
 ./Appendices/AppendixA.tex:91: Package inputenc Error: Unicode char \u8:￼ not
  set up for use with LaTeX.
@@ -2304,7 +2299,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[60]
+[61]
 
 ./Appendices/AppendixA.tex:121: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
@@ -2375,23 +2370,144 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 470.
+[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
+[77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91]
+[92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+[106] [107]
+Overfull \hbox (2.72603pt too wide) in paragraph at lines 495--496
+[]\OT1/ptm/m/n/12 Did you ever read the Buchla in-ter-views where he dis-cusses
+ the dif-fer-ence between
+ []
+
+[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]
+[120] [121] [122]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 645.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [105] [106]
-[107] [108] [109]) [110]) [111]
+) [123] [124]
+[125] [126] [127]
+
+./Appendices/AppendixA.tex:713: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.713 ...how is it important in your work today? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[128] [129]
+
+./Appendices/AppendixA.tex:740: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.740 ...lanned obsolescence affected your work? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[130] [131]
+
+./Appendices/AppendixA.tex:755: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.755 ...ment you're particularly excited about? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Appendices/AppendixA.tex:759: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.759 ...nal community? Do you feel close to it? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Appendices/AppendixA.tex:762: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.762 ...se / misuse of technology for the arts? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Appendices/AppendixA.tex:764: Misplaced alignment tab character &.
+l.764 ... race in the arts is tricky. Artist as R&
+                                                  D for technology corporati...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[132]
+
+./Appendices/AppendixA.tex:773: Package inputenc Error: Unicode char \u8:  no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.773 ... so many languages in which to do that 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[133] [134] [135] [136] [137]
+
+./Appendices/AppendixA.tex:924: Package inputenc Error: Unicode char \u8:  not
+ set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.924 you do this work? 
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)) [138]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
-(./main.bbl [112
+(./main.bbl [139
 
 
-] [113] [114] [115])
+] [140] [141] [142])
 
 ./main.tex:254: LaTeX Error: \begin{itemize} on input line 158 ended by \end{do
 cument}.
@@ -2407,7 +2523,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
-[116]
+[143]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
@@ -2418,6 +2534,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  )
 (\end occurred inside a group at level 1)
@@ -2425,13 +2544,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
 ### semi simple group (level 1) entered at line 158 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15828 strings out of 493117
- 222537 string characters out of 6135433
- 392893 words of memory out of 5000000
- 18656 multiletter control sequences out of 15000+600000
+ 15857 strings out of 493117
+ 222764 string characters out of 6135433
+ 392852 words of memory out of 5000000
+ 18658 multiletter control sequences out of 15000+600000
  44361 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,2659b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,45p,2659b,838s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
@@ -2439,10 +2558,10 @@ cal/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (127 pages, 4269842 bytes).
+Output written on main.pdf (154 pages, 4340030 bytes).
 PDF statistics:
- 1353 PDF objects out of 1440 (max. 8388607)
- 1163 compressed objects within 12 object streams
- 299 named destinations out of 1000 (max. 500000)
+ 1612 PDF objects out of 1728 (max. 8388607)
+ 1393 compressed objects within 14 object streams
+ 326 named destinations out of 1000 (max. 500000)
  807 words of extra memory for PDF output out of 10000 (max. 10000000)
 
