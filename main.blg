@@ -3,6 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ./main.aux
 The style file: plainnat.bst
 Database file #1: Bibliography.bib
+Warning--I didn't find a database entry for "ouzounian2010"
 Warning--I didn't find a database entry for "shone"
 Warning--I didn't find a database entry for "2005"
 Warning--empty publisher in beavis2015
@@ -12,49 +13,50 @@ Warning--empty publisher in florian2015b
 Warning--empty publisher in nam2015
 Warning--empty journal in padfield2014
 Warning--empty publisher in satie
-Warning--empty publisher in shone2004
+Warning--empty journal in shone2004
+Warning--empty journal in shone2012
 Warning--empty journal in tudor1976
 Warning--empty journal in tudor
 Warning--empty publisher in wilson2015
-You've used 83 entries,
+You've used 86 entries,
             2773 wiz_defined-function locations,
-            987 strings with 14154 characters,
-and the built_in function-call counts, 29359 in all, are:
-= -- 2563
-> -- 1102
-< -- 87
-+ -- 413
-- -- 327
-* -- 1839
-:= -- 4571
-add.period$ -- 251
-call.type$ -- 83
-change.case$ -- 320
-chr.to.int$ -- 80
-cite$ -- 177
-duplicate$ -- 1720
-empty$ -- 2884
-format.name$ -- 434
-if$ -- 6216
+            1004 strings with 14437 characters,
+and the built_in function-call counts, 30521 in all, are:
+= -- 2677
+> -- 1133
+< -- 91
++ -- 425
+- -- 336
+* -- 1905
+:= -- 4742
+add.period$ -- 260
+call.type$ -- 86
+change.case$ -- 333
+chr.to.int$ -- 83
+cite$ -- 184
+duplicate$ -- 1789
+empty$ -- 2999
+format.name$ -- 446
+if$ -- 6470
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 109
-newline$ -- 420
-num.names$ -- 332
-pop$ -- 870
+missing$ -- 110
+newline$ -- 435
+num.names$ -- 345
+pop$ -- 895
 preamble$ -- 1
-purify$ -- 275
+purify$ -- 284
 quote$ -- 0
-skip$ -- 1188
+skip$ -- 1240
 stack$ -- 0
-substring$ -- 815
-swap$ -- 169
-text.length$ -- 11
+substring$ -- 869
+swap$ -- 179
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 738
-warning$ -- 11
-while$ -- 316
+type$ -- 776
+warning$ -- 12
+while$ -- 330
 width$ -- 0
-write$ -- 1032
-(There were 13 warnings)
+write$ -- 1069
+(There were 15 warnings)

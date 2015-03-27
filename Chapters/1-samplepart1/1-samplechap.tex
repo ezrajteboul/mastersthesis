@@ -60,7 +60,7 @@ To better discuss the world of audio electronics design, let us introduce some b
     \includegraphics[width=1\textwidth]{bompre}
 \end{figure}
 
-The ubiquity of digital devices today cannot be overstated. This is particularly true in musical devices - the versatility and power of artistic computing is discussed at length by musicians in the upcoming chapters. 
+The ubiquity of digital devices today cannot be overstated. This is particularly true in musical devices - the versatility of artistic computing is discussed at length by musicians in the upcoming chapters. 
 
 Software design offers a rich tradition of experimentalism for audio. Max Mathews acts as the forefather of a long line of extensively-studied composers who either programmed their own instruments, or worked closely with engineers to do so. Those efforts effectively redefined the world of electronic music, and as we'll see excluding digital from a discussion of contemporary audio hardware in music would be as toxic as it would be difficult. Open source originates in software- this thesis wishes to expose the possibilities of interdisciplinary design approaches. 
 
@@ -83,6 +83,18 @@ Looking at the historical development of those three types of innovation in elec
 \section{Electronic music as invention}
 
 	Before 1915 and the beginning of commercially available vacuum tubes, electronic music relied on a spirit of adventure and experimentalism close to the later works of Tudor, Kuivila, Collins and Ghazala. Dunn's pioneers developed system because they invented or developed interesting forms for the basic components of an electronic circuit (the resistor, the capacitor, the inductor). 
+	
+\paragraph{Thomas Edison}
+
+	\begin{figure}[h!]
+	  \caption{one of Edison's ``Tone Tests'', 1918 \cite{thompson1995}}
+	  \centering
+	    \includegraphics[width=.5\textwidth]{tonetest}
+	\end{figure}
+	
+Edison was, in addition to his involvement in the electrification of western countries in the early 20th century, an accomplished inventor and tinkerer. The phonograph he toured to advertize in the United States through \emph{tone tests} emphasized the intelligibility of the voices it reproduced. Although critics pointed out the impressive but imperfect reproduction from the device, Edison maintained that they couldn't accurately distinguish one from the other \cite{thompson1995}. 
+
+There could not have been a better link between Aristotle's acousmats and Schaeffer's listening techniques - and this context sets the framework within which electricity and music would live up to this day. It is difficult to imagine or think of the synthesized without referring to the ``natural'', almost as it is easy to disregard the point or the honesty of electronic instruments. And yet, purely electrical instruments developed. Whether by accident, rigorous research, or haphazard guesses, the early inventors of electronic music were also trying to convince others that their work was, at the very least, asking interesting questions. 
 	
 \paragraph{C.G. Page}
 
@@ -144,7 +156,7 @@ Radio Shack’s first catalog (w2014) from 1939, contained 80\% kits, parts and 
 
 This resulted in a generation of engineers and musicians growing up with electronics, who were both eager to take advantage of the relatively positive post-war atmosphere \citep{holmes2002}. The father of a certain Robert Moog, whom we will discuss in an upcoming section, was one of the first American amateur radio operators \cite[p.12]{pinch2002}. 
 
-At that time, signal processing was one of the main research areas in the thriving field of electrical engineering. The 1953 edition of the Radiotron Designer's Handbook \citep{langford1953} dedicated a third of its 1500 pages to audio electronics. Schematic, tools, methods and designs are optimized, thoroughly investigated and standardized. Building off their industrial successes, Institutions serve as the breeding ground for most renowned artistic applications of technology. This results in the emergence of the French (ORTF), German (WDR), and Italian (RAI) experimental music studios, all housed by public radio stations. In the U.S., RCA and Columbia University composers collaborated to develop the RCA synthesizer, closer to the telharmonium in scale than anything in the first half of the 20th century. Most of the technology used in those musical systems was a byproduct of the war research effort: it seems natural for the first wave of artists and designers to be involved with those organizations \cite[p.81]{holmes2002}. 
+At that time, signal processing was one of the main research areas in the thriving field of electrical engineering. The 1953 edition of the Radiotron Designer's Handbook \citep{langford1953} dedicated a third of its 1500 pages to audio electronics. Schematic, tools, methods and designs are optimized, thoroughly investigated and standardized. Building off their industrial successes, Institutions serve as the breeding ground for most renowned artistic applications of technology. This results in the emergence of the French (ORTF), German (WDR), and Italian (RAI) experimental music studios, all housed by public radio stations. In the U.S., RCA and Columbia University composers collaborated to develop the RCA synthesizer, closer to the telharmonium in scale than anything in the first half of the 20th century. Max Matthews, after being trained as a Navy radio repairman, found work at Bell Labs with music enthusiast John Pierce, whose fostering would mark the beginning of computer music \citep{park2009}. Most of the technology used in those musical systems was a byproduct of the war research effort: it seems natural for the first wave of artists and designers to be involved with those organizations \citep[p.81]{holmes2002}. 
 
 	\begin{figure}[h!]
 	  \caption{the RCA Mk.II with its inventors}
@@ -347,9 +359,27 @@ More so than Tudor's various devices, \emph{Frippertronics} serve as the archety
 
 At this point, it seems valid to hypothesize that when the ``ideal user'' is the designer, some tend to create systems that have a capacity for independently creating musical material. This hypothesis will be discussed in the upcoming section and chapters.  
 
-\section{Elecronic music as craft} 
+\section{Elecronic sound as craft} 
 
-	The essence of Tudor’s successors’ would be academically captured by former C.I.E. member Nic Collins. \emph{Handmade Electronic Music} was first published in 2006, presenting an extensive amount of information on homemade electronic instruments with insight from years of experience, references and sources. By completing this project, Collins not only proved that blending academic, commercial and hobbyists attitudes could be successful in all three of those areas, but also links decades of practices in the do-it-yourself electronic music world to the “maker” movement, which started to coalesce around a similar time with publications such as “Make” magazine.
+	Tudor as a composer would be largely ignored until his death [Collins, app.A]. As a teacher, he had tremendous impact on what technically inclined artists should or could do. 
+	
+\subsection{Paul DeMarinis}
+
+Paul DeMarinis worked on the electronics of the 1973 Rainforest IV installation. This period of cohabitation with Tudor's generation of collaborators (John Cage, Robert Ashley, David Behrman) proved to be a formative experience for the Mills College graduate student. Having described them as ``incredibly generous'', they gave him an appreciation of audio electronics that proved to be original for his time. By 1973, he said, ``I wasn't interested in building synthesizers. I was much more interested in building pieces.'' \cite{ouzounian2010}
+	
+	His first major solo work, the \emph{pygmy gamelan}, has severel important defining features: it was generative, pulling noise from background radiation to produce shifting five-note melodies. It used a combination of early digital and analog ICs, and finally, it wished to ``refer to a culture other than that of high technology.''
+	
+	 \begin{figure}[h!]
+	   \caption{Schematic for \emph{Pygmy Gamelan} \cite[p.107]{beirer2011}}
+	   \centering
+	     \includegraphics[width=1\textwidth]{pygmyschem}
+	 \end{figure}
+	 
+	 \emph{Pygmy Gamelan}'s importance in our discussion comes from its relative independence from the larger bodies that made it technologically possible \cite[p.27]{beirer2011}. Misuse or re-use of components made for larger consumer devices would prove popular amongst a significant subset of american experimental artists dealing with electronics. 
+
+\subsection{Nic Collins: Handmade Electronic Music} 
+
+Academically, the essence of Tudor’s successors’ would be captured by fellow C.I.E. member Nic Collins. \emph{Handmade Electronic Music} was first published in 2006, presenting an extensive amount of information on homemade electronic instruments with insight from years of experience, references and sources. By completing this project, Collins not only proved that blending academic, commercial and hobbyists attitudes could be successful in all three of those areas, but also linked decades of practices in the do-it-yourself electronic music world to the “maker” movement. The latter started to coalesce around a similar time with publications such as “Make” magazine.
 
 	The values of this book - concepts of imagining, prototyping, assembling from your home - find a strong precedent in pre-industrial craftsmen and the world of boutique electronic music vendors.   \citep{collins2006,ghazala2005,kuivila2004}. 
 
@@ -366,7 +396,7 @@ Although Collins’ introduction hints at the advantages of this approach in the
 - David Berhman \cite[p.ix]{collins2006}  
 \end{quote}
 
-\subsection{the art of hardware hacking}
+\paragraph{the art of hardware hacking}
 
 A look at the structure and content of the work reveals six parts: starting, listening, touching, building, looking, and finishing. Those consist of between two and eight chapters, for a total of 30. Each covers a specific theme such as ``tape heads: playing credit cards'' or ``a little power amplifier: cheap and simple'', revolving around a few schematics, diagrams, guidelines and suggestions for implementations. Historical background is added when appropriate (``David Tudor and Rainforest'', p40; ``Circuit Bending'', p91…). 
 
@@ -394,7 +424,7 @@ This book can almost serve as an entirely self-contained introduction to electro
 
 	By tolerating or passively encouraging open access to resources, Collins contributes directly to the community he has helped shape. More than writing the book on hardware hacking for non-engineers, he’s an essential force in making open hardware design the self-sustaining cycle it aspires to be through the maker movement. By publishing this through a large company while in a professional academic and musical position, he also lends the weight of a more widely recognizable figure to a movement and methodology that challenges the necessity for those very institutions.
 
-\subsection{impact}  
+\paragraph{impact}  
 
 \begin{quote}
 
@@ -410,7 +440,7 @@ This book can almost serve as an entirely self-contained introduction to electro
 
 On a community level (“do-it-with-others”, diwo, or “do-it-together”, dit), Collins’ impact is difficult to measure objectively. Highly frequented music hardware hacking forums such as Experimentalist Anonymous, diystompboxes, freestompboxes.org, and electro-music.com all contain mention and praises for the accessibility and simplicity of “Handmade…”, but results usually number between 5 and 50. As a reference, searching for Ray Wilson’s popular “music from outer space” do-it-yourself synthesizer website returns between two to three times more results. Collins’ website numbers the quantity of workshops he’s given based on the book since 2004 to “dozens”, meaning that a significant portion of the sharing could still be happening in-person.  
 
-This appears as indicative of the last, and arguably most important point about homemade electronic music instrument design as part of more general arts and crafts \/ diy \/ maker movements. They are fueled by personal engagement and, more importantly, passion. In those circumstances, theorizing, documenting and commercializing is not the priority of the majority but rather the duty and privilege of the few who turn their passions into a viable working position. In doing so, they are given the choice of where they wish to place themselves between their aspirations and that of their community. 
+This appears as indicative of the last, and arguably most important point about homemade electronic music instrument design as part of more general arts and crafts \/ diy \/ maker movements. They are fueled by personal engagement and, more importantly, passion. In those circumstances, theorizing, documenting and commercializing is not the priority of the majority but rather the work of the few who turn their passions into a viable working position. 
 
 \section{re-commercializing diy: the maker movement}  
 
