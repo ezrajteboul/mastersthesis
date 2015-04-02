@@ -27,14 +27,29 @@
 \contentsline {figure}{\numberline {2.23}{\ignorespaces Schematic for \emph {Pygmy Gamelan} \cite [p.107]{beirer2011}\relax }}{39}{figure.caption.47}
 \contentsline {figure}{\numberline {2.24}{\ignorespaces Collins' Light Controlled Mixer circuit\relax }}{41}{figure.caption.50}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Shone's live setup around the release of the \emph {Drone Machines} album\relax }}{52}{figure.caption.60}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces the \emph {Linear Actuator}\relax }}{53}{figure.caption.61}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces the \emph {Bellows}\relax }}{54}{figure.caption.62}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces a technical diagram for the \emph {Bellows} instrument\relax }}{55}{figure.caption.63}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces the Headgear device, wired for operation\relax }}{56}{figure.caption.65}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Jacob's Well mastering desk\relax }}{60}{figure.caption.72}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The Improbability Drive, traced from a second version board (courtesy of Ken Schurer)\relax }}{50}{figure.caption.55}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The Improbability Drive, layed out by storyboardist for proto-board and PCB\relax }}{50}{figure.caption.56}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Cihan's \emph {Porcupine}, front view\relax }}{54}{figure.caption.60}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Cihan's \emph {Porcupine}, circuit board view\relax }}{54}{figure.caption.61}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Nic Collins' 4049 Low Pass Resonating filter from \emph {Handmade Electronic Music}\relax }}{55}{figure.caption.62}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Nic Collins' 4049 Low Pass Resonating filter from \emph {Hardware Hacking}\relax }}{55}{figure.caption.63}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces PT2399 stock circuit, from the application note by Princeton Technologies\relax }}{56}{figure.caption.64}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Beavis Audio Muff Fuzz\relax }}{56}{figure.caption.65}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces the PT2399 internal block diagram from the Princeton datasheet\relax }}{58}{figure.caption.67}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces the AVR system block diagram for the ATMega328, from Atmel - included in the recent Arduino packages\relax }}{59}{figure.caption.68}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Shone's live setup around the release of the \emph {Drone Machines} album\relax }}{60}{figure.caption.70}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces the \emph {Linear Actuator}\relax }}{61}{figure.caption.71}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces the \emph {Bellows}\relax }}{61}{figure.caption.72}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces a technical diagram for the \emph {Bellows} instrument\relax }}{62}{figure.caption.73}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces the Headgear device, wired for operation\relax }}{63}{figure.caption.74}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces The schematic for each microphone wiring, from the MAKE article\relax }}{64}{figure.caption.75}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces the first version circuit board, with an arduino nano\relax }}{66}{figure.caption.78}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces the first version synthesizer module, by Darwin Grosse\relax }}{66}{figure.caption.79}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces the currently available ardcore, by Snazzy FX\relax }}{67}{figure.caption.80}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces The schematic for the DAC section of the Ardcore, based around a TLC7524\relax }}{68}{figure.caption.81}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces The circuit board layout for the first version Ardcore, by Darwin Grosse\relax }}{68}{figure.caption.82}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Jacob's Well mastering desk\relax }}{70}{figure.caption.84}
 \ttl@tocsep 
-\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \ttl@tocsep 

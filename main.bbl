@@ -1,4 +1,4 @@
-\begin{thebibliography}{86}
+\begin{thebibliography}{92}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -73,6 +73,11 @@ Irwin Chusid.
 \newblock \emph{Contemporary Music Review}, 18\penalty0 (3):\penalty0 9--14,
   1999.
 
+\bibitem[Cihan()]{cihan2015}
+Taylan Cihan.
+\newblock Porcupine.
+\newblock URL \url{http://taylancihan.com/porcupine.html}.
+
 \bibitem[Cluett(2013)]{cluett2013}
 Seth~Allen Cluett.
 \newblock \emph{Loud speaker: Towards a component theory of media sound}.
@@ -99,10 +104,19 @@ Nicolas Collins.
 \newblock Improvisation.
 \newblock \emph{Leonardo Music Journal}, 20:\penalty0 7--9, 2010.
 
+\bibitem[Corporation()]{princetonpt}
+Princeton~Technology Corporation.
+\newblock the pt2399 echo ic.
+
 \bibitem[Darter et~al.(1984)Darter, Armbruster, and Moog]{darter1984}
 Tom Darter, Greg Armbruster, and Bob Moog.
 \newblock \emph{The art of electronic music}.
 \newblock W. Morrow, 1984.
+
+\bibitem[Diakopoulos(retrieved 2015)]{diakopoulos2015}
+Dimitri Diakopoulos.
+\newblock \emph{http://dimitridiakopoulos.com/hiduino}.
+\newblock retrieved 2015.
 
 \bibitem[Diakopoulos and Kapur(2011)]{diakopoulos2011}
 Dimitri Diakopoulos and Ajay Kapur.
@@ -172,20 +186,15 @@ Kiri Feldman and Peter Sandborn.
   Conferences and Computers and Information in Engineering Conference}, pages
   981--988. American Society of Mechanical Engineers, 2007.
 
-\bibitem[Florian(retrieved 2015{\natexlab{a}})]{diakopoulos2015}
-Joshua Florian.
-\newblock \emph{http://dimitridiakopoulos.com/hiduino}.
-\newblock retrieved 2015{\natexlab{a}}.
-
-\bibitem[Florian(retrieved 2015{\natexlab{b}})]{florian2015}
+\bibitem[Florian(retrieved 2015{\natexlab{a}})]{florian2015}
 Joshua Florian.
 \newblock \emph{http://www.jcfaudio.com/site/about}.
-\newblock retrieved 2015{\natexlab{b}}.
+\newblock retrieved 2015{\natexlab{a}}.
 
-\bibitem[Florian(retrieved 2015{\natexlab{c}})]{florian2015b}
+\bibitem[Florian(retrieved 2015{\natexlab{b}})]{florian2015b}
 Joshua Florian.
 \newblock \emph{http://jcfaudio.com/latte.html}.
-\newblock retrieved 2015{\natexlab{c}}.
+\newblock retrieved 2015{\natexlab{b}}.
 
 \bibitem[Ghazala(2004)]{ghazala2004}
 Qubais~Reed Ghazala.
@@ -197,6 +206,17 @@ Qubais~Reed Ghazala.
 Reed Ghazala.
 \newblock \emph{Circuit-bending: build your own alien instruments}.
 \newblock Wiley Pub., 2005.
+
+\bibitem[Gibb(2010)]{gibb2010}
+Alicia~M Gibb.
+\newblock New media art, design, and the arduino microcontroller: A malleable
+  tool.
+\newblock Master's thesis, Pratt Institute, 2010.
+
+\bibitem[Grosse(2011)]{grosse2011}
+Darwin Grosse.
+\newblock Development of the ardcore computation module.
+\newblock Master's thesis, University of Denver, 2011.
 
 \bibitem[Hamm(1973)]{hamm1973}
 Russell Hamm.
@@ -213,6 +233,11 @@ Anne-Wil Harzing.
 William Haslett.
 \newblock Triangle combs\# 1: Music for a new electro-acoustic instrument.
 \newblock Master's thesis, Dartmouth College, 2005.
+
+\bibitem[Hegarty(2007)]{hegarty2007}
+Paul Hegarty.
+\newblock \emph{Noise music: A history}.
+\newblock Bloomsbury Academic, 2007.
 
 \bibitem[Hermans(2014)]{hermans2014}
 Phillip Hermans.
@@ -339,6 +364,12 @@ George~William Nasmyth.
 David Novak.
 \newblock \emph{Japanoise: Music at the edge of circulation}.
 \newblock Duke University Press Books, 2013.
+
+\bibitem[Ouzounian(2010)]{ouzounian2010}
+Gascia Ouzounian.
+\newblock An interview with paul demarinis.
+\newblock \emph{Computer Music Journal}, 34\penalty0 (4):\penalty0 10--21,
+  2010.
 
 \bibitem[Padfield et~al.(2014)Padfield, Haldrup, and Hobye]{padfield2014}
 Nicolas Padfield, Michael Haldrup, and Mads Hobye.

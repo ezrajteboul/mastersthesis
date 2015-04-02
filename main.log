@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  29 MAR 2015 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.14)  2 APR 2015 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -992,22 +992,47 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
  [5
 
 
-] [6] [7])
+]
+./main.toc:38: Misplaced alignment tab character &.
+<argument> ...umberline {3}Selected Recent Works &
+                                                   Their Authors}\hyper@link...
+l.38 ...ent Works & Their Authors}{48}{chapter.52}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./main.toc:38: Misplaced alignment tab character &.
+<argument> ...umberline {3}Selected Recent Works &
+                                                   Their Authors}\hyper@link...
+l.38 ...ent Works & Their Authors}{48}{chapter.52}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[6])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [8]
+ [7]
 ------------------------------------------------------------------------------
  List of Figures
 ------------------------------------------------------------------------------
-(./main.lof)
+(./main.lof [8
+
+
+])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [9
-
-
-]
+ [9]
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
@@ -1054,7 +1079,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
  [9] [10]
-<Figures/timsamp.pdf, id=795, 794.97pt x 614.295pt>
+<Figures/timsamp.pdf, id=662, 794.97pt x 614.295pt>
 File: Figures/timsamp.pdf Graphic file (type pdf)
  <use Figures/timsamp.pdf>
 Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
@@ -1063,7 +1088,7 @@ Package pdftex.def Info: Figures/timsamp.pdf used on input line 54.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/bompre.png, id=796, 573.14125pt x 470.75874pt>
+<Figures/bompre.png, id=663, 573.14125pt x 470.75874pt>
 File: Figures/bompre.png Graphic file (type png)
 
 <use Figures/bompre.png>
@@ -1082,7 +1107,7 @@ Package hyperref Warning: Difference (3) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 87.
 
-<Figures/tonetest.png, id=824, 618.31pt x 385.44pt>
+<Figures/tonetest.png, id=691, 618.31pt x 385.44pt>
 File: Figures/tonetest.png Graphic file (type png)
  <use Figures/tonetest.png>
 Package pdftex.def Info: Figures/tonetest.png used on input line 92.
@@ -1097,7 +1122,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 103.
 
-<Figures/mustel.jpg, id=837, 1541.76pt x 2055.68pt>
+<Figures/mustel.jpg, id=704, 1541.76pt x 2055.68pt>
 File: Figures/mustel.jpg Graphic file (type jpg)
  <use Figures/mustel.jpg>
 Package pdftex.def Info: Figures/mustel.jpg used on input line 110.
@@ -1106,7 +1131,7 @@ Package pdftex.def Info: Figures/mustel.jpg used on input line 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/singarc.jpg, id=842, 523.9575pt x 737.75626pt>
+<Figures/singarc.jpg, id=709, 523.9575pt x 737.75626pt>
 File: Figures/singarc.jpg Graphic file (type jpg)
 
 <use Figures/singarc.jpg>
@@ -1116,7 +1141,7 @@ Package pdftex.def Info: Figures/singarc.jpg used on input line 120.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15] <Figures/dynamo.jpg, id=851, 555.07375pt x 717.68124pt>
+[15] <Figures/dynamo.jpg, id=718, 555.07375pt x 717.68124pt>
 File: Figures/dynamo.jpg Graphic file (type jpg)
 
 <use Figures/dynamo.jpg>
@@ -1127,7 +1152,7 @@ Package pdftex.def Info: Figures/dynamo.jpg used on input line 130.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16 <./Figures/mustel.jpg>]
-<Figures/freshman.jpg, id=856, 652.4375pt x 985.6825pt>
+<Figures/freshman.jpg, id=723, 652.4375pt x 985.6825pt>
 File: Figures/freshman.jpg Graphic file (type jpg)
 
 <use Figures/freshman.jpg>
@@ -1138,7 +1163,7 @@ Package pdftex.def Info: Figures/freshman.jpg used on input line 144.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [17 <./Figures/singarc.jpg>]
-<Figures/radioshack.png, id=861, 866.23625pt x 689.57625pt>
+<Figures/radioshack.png, id=728, 866.23625pt x 689.57625pt>
 File: Figures/radioshack.png Graphic file (type png)
 
 <use Figures/radioshack.png>
@@ -1149,7 +1174,7 @@ Package pdftex.def Info: Figures/radioshack.png used on input line 154.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18 <./Figures/dynamo.jpg>] [19 <./Figures/freshman.jpg>]
-<Figures/rcamkii.jpg, id=883, 332.24126pt x 269.005pt>
+<Figures/rcamkii.jpg, id=750, 332.24126pt x 269.005pt>
 File: Figures/rcamkii.jpg Graphic file (type jpg)
 
 <use Figures/rcamkii.jpg>
@@ -1169,7 +1194,7 @@ Overfull \hbox (3.39784pt too wide) in paragraph at lines 174--175
 nt with spe-cific timbral
  []
 
-<Figures/sackbut.jpg, id=894, 411.5375pt x 242.9075pt>
+<Figures/sackbut.jpg, id=761, 411.5375pt x 242.9075pt>
 File: Figures/sackbut.jpg Graphic file (type jpg)
 
 <use Figures/sackbut.jpg>
@@ -1184,14 +1209,14 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 184.
 
 [21 <./Figures/rcamkii.jpg>] [22 <./Figures/sackbut.jpg>]
-<Figures/electronium.jpg, id=909, 548.0475pt x 389.455pt>
+<Figures/electronium.jpg, id=777, 548.0475pt x 389.455pt>
 File: Figures/electronium.jpg Graphic file (type jpg)
 
 <use Figures/electronium.jpg>
 Package pdftex.def Info: Figures/electronium.jpg used on input line 193.
 (pdftex.def)             Requested size: 417.47307pt x 296.67227pt.
  [23 <./Figures/electronium.jpg>]
-<Figures/barrons.jpg, id=919, 616.3025pt x 422.57875pt>
+<Figures/barrons.jpg, id=786, 616.3025pt x 422.57875pt>
 File: Figures/barrons.jpg Graphic file (type jpg)
 
 <use Figures/barrons.jpg>
@@ -1207,14 +1232,14 @@ Overfull \hbox (1.89711pt too wide) in paragraph at lines 222--223
 -no-lo-gical pos-sib-il-it-ies, while
  []
 
-<Figures/variationsii.jpg, id=936, 459.7175pt x 345.29pt>
+<Figures/variationsii.jpg, id=803, 459.7175pt x 345.29pt>
 File: Figures/variationsii.jpg Graphic file (type jpg)
 
 <use Figures/variationsii.jpg>
 Package pdftex.def Info: Figures/variationsii.jpg used on input line 227.
 (pdftex.def)             Requested size: 417.47307pt x 313.57686pt.
  [26 <./Figures/variationsii.jpg>]
-<Figures/tudorvar.jpg, id=946, 365.365pt x 401.5pt>
+<Figures/tudorvar.jpg, id=813, 365.365pt x 401.5pt>
 File: Figures/tudorvar.jpg Graphic file (type jpg)
  <use Figures/tudorvar.jpg>
 Package pdftex.def Info: Figures/tudorvar.jpg used on input line 235.
@@ -1229,21 +1254,21 @@ Overfull \hbox (1.8857pt too wide) in paragraph at lines 240--241
 
 LaTeX Warning: Reference `appendixA' on page 28 undefined on input line 246.
 
-[28] <Figures/tudorband.jpg, id=981, 410.53375pt x 528.97626pt>
+[28] <Figures/tudorband.jpg, id=848, 410.53375pt x 528.97626pt>
 File: Figures/tudorband.jpg Graphic file (type jpg)
 
 <use Figures/tudorband.jpg>
 Package pdftex.def Info: Figures/tudorband.jpg used on input line 251.
 (pdftex.def)             Requested size: 208.73653pt x 268.95909pt.
  [29 <./Figures/tudorband.jpg>]
-<Figures/rainforest4.png, id=994, 938.50626pt x 280.04625pt>
+<Figures/rainforest4.png, id=861, 938.50626pt x 280.04625pt>
 File: Figures/rainforest4.png Graphic file (type png)
 
 <use Figures/rainforest4.png>
 Package pdftex.def Info: Figures/rainforest4.png used on input line 259.
 (pdftex.def)             Requested size: 417.47307pt x 124.57103pt.
 
-<Figures/untitled.png, id=995, 738.76pt x 500.87125pt>
+<Figures/untitled.png, id=862, 738.76pt x 500.87125pt>
 File: Figures/untitled.png Graphic file (type png)
 
 <use Figures/untitled.png>
@@ -1254,7 +1279,7 @@ Package pdftex.def Info: Figures/untitled.png used on input line 265.
 LaTeX Warning: Reference `AppendixA' on page 30 undefined on input line 268.
 
 [30 <./Figures/rainforest4.png> <./Figures/untitled.png>] [31]
-<Figures/minimoogVCO.jpg, id=1028, 701.38036pt x 539.8569pt>
+<Figures/minimoogVCO.jpg, id=896, 701.38036pt x 539.8569pt>
 File: Figures/minimoogVCO.jpg Graphic file (type jpg)
 
 <use Figures/minimoogVCO.jpg>
@@ -1264,17 +1289,16 @@ Package pdftex.def Info: Figures/minimoogVCO.jpg used on input line 289.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/schulze.jpg, id=1029, 602.25pt x 423.5825pt>
+<Figures/schulze.jpg, id=897, 602.25pt x 423.5825pt>
 File: Figures/schulze.jpg Graphic file (type jpg)
-
-<use Figures/schulze.jpg>
+ <use Figures/schulze.jpg>
 Package pdftex.def Info: Figures/schulze.jpg used on input line 297.
 (pdftex.def)             Requested size: 417.47307pt x 293.636pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32] <Figures/carlos.jpg, id=1037, 306.78615pt x 199.82655pt>
+[32] <Figures/carlos.jpg, id=905, 306.78615pt x 199.82655pt>
 File: Figures/carlos.jpg Graphic file (type jpg)
 
 <use Figures/carlos.jpg>
@@ -1288,7 +1312,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: Reference `AppendixA' on page 33 undefined on input line 310.
 
 [33 <./Figures/minimoogVCO.jpg>]
-<Figures/buchlaarb.jpg, id=1049, 1017.8025pt x 762.85pt>
+<Figures/buchlaarb.jpg, id=916, 1017.8025pt x 762.85pt>
 File: Figures/buchlaarb.jpg Graphic file (type jpg)
 
 <use Figures/buchlaarb.jpg>
@@ -1299,18 +1323,14 @@ Package pdftex.def Info: Figures/buchlaarb.jpg used on input line 315.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [34 <./Figures/schulze.jpg>] [35 <./Figures/carlos.jpg>] [36 <./Figures/buchlaa
-rb.jpg>] <Figures/discreetdiagram.jpg, id=1074, 1003.75pt x 321.2pt>
+rb.jpg>] <Figures/discreetdiagram.jpg, id=941, 1003.75pt x 321.2pt>
 File: Figures/discreetdiagram.jpg Graphic file (type jpg)
 
 <use Figures/discreetdiagram.jpg>
 Package pdftex.def Info: Figures/discreetdiagram.jpg used on input line 351.
 (pdftex.def)             Requested size: 417.47307pt x 133.59448pt.
- [37 <./Figures/discreetdiagram.jpg>]
-
-Package natbib Warning: Citation `ouzounian2010' on page 38 undefined on input 
-line 368.
-
-[38] <Figures/pygmyschem.png, id=1099, 702.625pt x 537.00626pt>
+ [37 <./Figures/discreetdiagram.jpg>] [38]
+<Figures/pygmyschem.png, id=969, 702.625pt x 537.00626pt>
 File: Figures/pygmyschem.png Graphic file (type png)
 
 <use Figures/pygmyschem.png>
@@ -1325,7 +1345,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 399.
 
-<Figures/lightmix.png, id=1134, 236.885pt x 199.74625pt>
+<Figures/lightmix.png, id=1004, 236.885pt x 199.74625pt>
 File: Figures/lightmix.png Graphic file (type png)
 
 <use Figures/lightmix.png>
@@ -1347,15 +1367,48 @@ ogether", dit), Collins'
 Excluding 'optBlankSpace' comment.) (./Chapters/1-samplepart1/2-samplechap.tex
 [47]
 Chapter 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 4.
+
 ------------------------------------------------------------------------------
- 3 Selected Recent Works
+ 3 Selected Recent Works & Their Authors
 ------------------------------------------------------------------------------
+./Chapters/1-samplepart1/2-samplechap.tex:4: Misplaced alignment tab character 
+&.
+<argument> Selected Recent Works &
+                                   Their Authors
+l.4 ...pter{Selected Recent Works & Their Authors}
+                                                  \label{selrecworks}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 [48
 
-]
-./Chapters/1-samplepart1/2-samplechap.tex:26: Misplaced alignment tab character
+] <Figures/improbdr.png, id=1083, 1355.0625pt x 459.7175pt>
+File: Figures/improbdr.png Graphic file (type png)
+
+<use Figures/improbdr.png>
+Package pdftex.def Info: Figures/improbdr.png used on input line 29.
+(pdftex.def)             Requested size: 208.73653pt x 70.81354pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49] <Figures/improbdr2.png, id=1088, 909.3975pt x 1027.84pt>
+File: Figures/improbdr2.png Graphic file (type png)
+
+<use Figures/improbdr2.png>
+Package pdftex.def Info: Figures/improbdr2.png used on input line 37.
+(pdftex.def)             Requested size: 208.73653pt x 235.91203pt.
+ [50 <./Figures/improbdr.png (PNG copy)> <./Figures/improbdr2.png>]
+./Chapters/1-samplepart1/2-samplechap.tex:50: Misplaced alignment tab character
  &.
-l.26 ...tp://freestompboxes.org/viewtopic.php?f=7&
+l.50 ...tp://freestompboxes.org/viewtopic.php?f=7&
                                                   t=18157&hilit=devi+ever+fx''
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1364,9 +1417,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Chapters/1-samplepart1/2-samplechap.tex:26: Misplaced alignment tab character
+./Chapters/1-samplepart1/2-samplechap.tex:50: Misplaced alignment tab character
  &.
-l.26 ...estompboxes.org/viewtopic.php?f=7&t=18157&
+l.50 ...estompboxes.org/viewtopic.php?f=7&t=18157&
                                                   hilit=devi+ever+fx''
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1375,16 +1428,16 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[49]
-Overfull \hbox (14.76178pt too wide) in paragraph at lines 37--38
+[51]
+Overfull \hbox (14.76178pt too wide) in paragraph at lines 66--67
 []\OT1/ptm/m/it/12 Handmade Elec-tronic Mu-sic \OT1/ptm/m/n/12 fo-cuses much of
  its cir-cuits around the Complementary-
  []
 
-[50]
-./Chapters/1-samplepart1/2-samplechap.tex:53: Misplaced alignment tab character
+[52]
+./Chapters/1-samplepart1/2-samplechap.tex:74: Misplaced alignment tab character
  &.
-l.53 ...tp://freestompboxes.org/viewtopic.php?f=7&
+l.74 ...tp://freestompboxes.org/viewtopic.php?f=7&
                                                   t=18344&hilit=robot+devil''
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1393,9 +1446,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Chapters/1-samplepart1/2-samplechap.tex:53: Misplaced alignment tab character
+./Chapters/1-samplepart1/2-samplechap.tex:74: Misplaced alignment tab character
  &.
-l.53 ...estompboxes.org/viewtopic.php?f=7&t=18344&
+l.74 ...estompboxes.org/viewtopic.php?f=7&t=18344&
                                                   hilit=robot+devil''
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1404,83 +1457,237 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+[53] <Figures/porcupinetop.png, id=1128, 801.99625pt x 451.6875pt>
+File: Figures/porcupinetop.png Graphic file (type png)
 
-Package natbib Warning: Citation `shone' on page 51 undefined on input line 61.
+<use Figures/porcupinetop.png>
+Package pdftex.def Info: Figures/porcupinetop.png used on input line 110.
+(pdftex.def)             Requested size: 208.73653pt x 117.56003pt.
+
+<Figures/porcupinein.png, id=1129, 796.9775pt x 444.66125pt>
+File: Figures/porcupinein.png Graphic file (type png)
+
+<use Figures/porcupinein.png>
+Package pdftex.def Info: Figures/porcupinein.png used on input line 116.
+(pdftex.def)             Requested size: 208.73653pt x 116.4573pt.
+ [54 <./Figures/porcupinetop.png> <./Figures/porcupinein.png>] <Figures/4049lpf
+.png, id=1136, 512.91624pt x 395.4775pt>
+File: Figures/4049lpf.png Graphic file (type png)
+
+<use Figures/4049lpf.png>
+Package pdftex.def Info: Figures/4049lpf.png used on input line 126.
+(pdftex.def)             Requested size: 208.73653pt x 160.94595pt.
+
+<Figures/4049lpf2.png, id=1137, 659.46375pt x 369.38pt>
+File: Figures/4049lpf2.png Graphic file (type png)
+
+<use Figures/4049lpf2.png>
+Package pdftex.def Info: Figures/4049lpf2.png used on input line 134.
+(pdftex.def)             Requested size: 208.73653pt x 116.91893pt.
+
+<Figures/pt2399circ.png, id=1138, 714.67pt x 399.4925pt>
+File: Figures/pt2399circ.png Graphic file (type png)
+
+<use Figures/pt2399circ.png>
+Package pdftex.def Info: Figures/pt2399circ.png used on input line 142.
+(pdftex.def)             Requested size: 208.73653pt x 116.67888pt.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package natbib Warning: Citation `2005' on page 51 undefined on input line 61.
+[55 <./Figures/4049lpf.png> <./Figures/4049lpf2.png>]
+<Figures/mufffuzzbeavis.png, id=1146, 340.8735pt x 225.84375pt>
+File: Figures/mufffuzzbeavis.png Graphic file (type png)
 
-[51] <Figures/drone.jpg, id=1238, 685.56125pt x 1027.84pt>
+<use Figures/mufffuzzbeavis.png>
+Package pdftex.def Info: Figures/mufffuzzbeavis.png used on input line 150.
+(pdftex.def)             Requested size: 208.73653pt x 138.30206pt.
+ [56 <./Figures/pt2399circ.png> <./Figures/mufffuzzbeavis.png>] <Figures/pt2399
+diag.png, id=1154, 596.2275pt x 374.90062pt>
+File: Figures/pt2399diag.png Graphic file (type png)
+
+<use Figures/pt2399diag.png>
+Package pdftex.def Info: Figures/pt2399diag.png used on input line 168.
+(pdftex.def)             Requested size: 208.73653pt x 131.2515pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/avrarch.png, id=1157, 574.145pt x 640.3925pt>
+File: Figures/avrarch.png Graphic file (type png)
+
+<use Figures/avrarch.png>
+Package pdftex.def Info: Figures/avrarch.png used on input line 178.
+(pdftex.def)             Requested size: 417.47307pt x 465.65535pt.
+ [57]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package natbib Warning: Citation `shone' on page 58 undefined on input line 191
+.
+
+
+Package natbib Warning: Citation `2005' on page 58 undefined on input line 191.
+
+
+<Figures/drone.jpg, id=1165, 685.56125pt x 1027.84pt>
 File: Figures/drone.jpg Graphic file (type jpg)
-
-<use Figures/drone.jpg>
-Package pdftex.def Info: Figures/drone.jpg used on input line 66.
+ <use Figures/drone.jpg>
+Package pdftex.def Info: Figures/drone.jpg used on input line 196.
 (pdftex.def)             Requested size: 208.73653pt x 312.94966pt.
- <Figures/linact.jpg, id=1239, 642.4pt x 428.60126pt>
-File: Figures/linact.jpg Graphic file (type jpg)
 
-<use Figures/linact.jpg>
-Package pdftex.def Info: Figures/linact.jpg used on input line 74.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[58 <./Figures/pt2399diag.png>]
+<Figures/linact.jpg, id=1174, 642.4pt x 428.60126pt>
+File: Figures/linact.jpg Graphic file (type jpg)
+ <use Figures/linact.jpg>
+Package pdftex.def Info: Figures/linact.jpg used on input line 204.
 (pdftex.def)             Requested size: 417.47307pt x 278.54173pt.
- [52 <./Figures/drone.jpg>]
-<Figures/bellows.jpg, id=1245, 740.0448pt x 492.1587pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/bellows.jpg, id=1175, 740.0448pt x 492.1587pt>
 File: Figures/bellows.jpg Graphic file (type jpg)
 
 <use Figures/bellows.jpg>
-Package pdftex.def Info: Figures/bellows.jpg used on input line 80.
+Package pdftex.def Info: Figures/bellows.jpg used on input line 210.
 (pdftex.def)             Requested size: 417.47307pt x 277.63461pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Figures/bellowsdiag.jpg, id=1246, 481.8pt x 350.05782pt>
+[59 <./Figures/avrarch.png>]
+<Figures/bellowsdiag.jpg, id=1181, 481.8pt x 350.05782pt>
 File: Figures/bellowsdiag.jpg Graphic file (type jpg)
 
 <use Figures/bellowsdiag.jpg>
-Package pdftex.def Info: Figures/bellowsdiag.jpg used on input line 88.
+Package pdftex.def Info: Figures/bellowsdiag.jpg used on input line 218.
 (pdftex.def)             Requested size: 417.47307pt x 303.32997pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (4.03395pt too wide) in paragraph at lines 91--92
+Overfull \hbox (4.03395pt too wide) in paragraph at lines 221--222
 \OT1/ptm/m/n/12 com-puter, which trig-gers starts, changes and ends for spe-cif
 ic sets of pre-composed
  []
 
-[53 <./Figures/linact.jpg>] [54 <./Figures/bellows.jpg>]
-<Figures/headgear.jpg, id=1267, 802.197pt x 601.64775pt>
+[60 <./Figures/drone.jpg>]
+
+LaTeX Warning: Text page 61 contains only floats.
+
+[61 <./Figures/linact.jpg> <./Figures/bellows.jpg>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 229.
+
+<Figures/headgear.jpg, id=1200, 802.197pt x 601.64775pt>
 File: Figures/headgear.jpg Graphic file (type jpg)
 
 <use Figures/headgear.jpg>
-Package pdftex.def Info: Figures/headgear.jpg used on input line 104.
+Package pdftex.def Info: Figures/headgear.jpg used on input line 236.
 (pdftex.def)             Requested size: 417.47307pt x 313.1065pt.
+ [62 <./Figures/bellowsdiag.jpg>]
+<Figures/micschem.jpg, id=1208, 1047.915pt x 785.93625pt>
+File: Figures/micschem.jpg Graphic file (type jpg)
+
+<use Figures/micschem.jpg>
+Package pdftex.def Info: Figures/micschem.jpg used on input line 244.
+(pdftex.def)             Requested size: 417.47307pt x 313.09773pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55 <./Figures/bellowsdiag.jpg>]
-Overfull \hbox (5.9181pt too wide) in paragraph at lines 123--124
-\OT1/ptm/m/n/12 his highly pre-de-ter-mined solo work, and the more chaotic per
--form-ances he presents
- []
+[63 <./Figures/headgear.jpg>] [64 <./Figures/micschem.jpg>]
 
-[56 <./Figures/headgear.jpg>] [57] [58]
-<Figures/sunnystudio.jpg, id=1292, 1154.3125pt x 767.86874pt>
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 261.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 261.
+
+[65]
+
+./Chapters/1-samplepart1/2-samplechap.tex:284: LaTeX Error: File `ardcorev1' no
+t found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 ...udegraphics[width=1\textwidth]{ardcorev1}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./Chapters/1-samplepart1/2-samplechap.tex:290: LaTeX Error: File `ardcoremodule
+' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 ...raphics[width=1\textwidth]{ardcoremodule}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Figures/ardcoresnazzy.png, id=1223, 263.98625pt x 636.3775pt>
+File: Figures/ardcoresnazzy.png Graphic file (type png)
+
+<use Figures/ardcoresnazzy.png>
+Package pdftex.def Info: Figures/ardcoresnazzy.png used on input line 296.
+(pdftex.def)             Requested size: 166.98668pt x 402.54156pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/ardcoredac.png, id=1226, 653.44125pt x 335.2525pt>
+File: Figures/ardcoredac.png Graphic file (type png)
+
+<use Figures/ardcoredac.png>
+Package pdftex.def Info: Figures/ardcoredac.png used on input line 304.
+(pdftex.def)             Requested size: 417.47307pt x 214.18742pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/ardcorepcb.png, id=1227, 701.62125pt x 469.755pt>
+File: Figures/ardcorepcb.png Graphic file (type png)
+
+<use Figures/ardcorepcb.png>
+Package pdftex.def Info: Figures/ardcorepcb.png used on input line 310.
+(pdftex.def)             Requested size: 417.47307pt x 279.51845pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[66] [67 <./Figures/ardcoresnazzy.png>] [68 <./Figures/ardcoredac.png> <./Figur
+es/ardcorepcb.png>]
+<Figures/sunnystudio.jpg, id=1247, 1154.3125pt x 767.86874pt>
 File: Figures/sunnystudio.jpg Graphic file (type jpg)
 
 <use Figures/sunnystudio.jpg>
-Package pdftex.def Info: Figures/sunnystudio.jpg used on input line 175.
+Package pdftex.def Info: Figures/sunnystudio.jpg used on input line 380.
 (pdftex.def)             Requested size: 417.47307pt x 277.70966pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[59] [60 <./Figures/sunnystudio.jpg>] Excluding 'unsortedStuff' comment.
-Excluding 'optBlankSpace' comment.) [61]
-(./Chapters/2-samplepart2/1-samplechap.tex [62
+[69] [70 <./Figures/sunnystudio.jpg>] Excluding 'unsortedStuff' comment.
+Excluding 'optBlankSpace' comment.) [71]
+(./Chapters/2-samplepart2/1-samplechap.tex [72
 
 
 ]
@@ -1488,253 +1695,166 @@ Chapter 4.
 ------------------------------------------------------------------------------
  4 Interviews: highlights and analyses
 ------------------------------------------------------------------------------
-[63
+[73
 
-]
-Overfull \hbox (4.11809pt too wide) in paragraph at lines 33--34
-\OT1/ptm/m/n/12 Shone's back-ground as a metal mu-si-cian, mech-an-ical en-gin-
-eer and sculptor offered
- []
-
-[64]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 38.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 38.
-
-
-Overfull \hbox (4.47044pt too wide) in paragraph at lines 43--43
- |[]\OT1/ptm/b/n/14.4 Louise & Ben Hinz, Devi Ever FX and Dwarf-craft Devices| 
-
- []
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 47.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 47.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 54.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 54.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 58.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 58.
-
-[65]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 62.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 62.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 66.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 66.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 70.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 70.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 75.
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 75.
-
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/2-samplepart2/2-samplechap.tex [66] [67]
+] [74] [75] [76] Excluding 'unsortedStuff' comment.
+Excluding 'optBlankSpace' comment.) (./Chapters/conclusion.tex [77]
 Chapter 5.
 ------------------------------------------------------------------------------
- 5 Expriments
+ 5 Future: Conclusion
 ------------------------------------------------------------------------------
-Excluding 'unsortedStuff' comment. Excluding 'optBlankSpace' comment.)
-(./Chapters/conclusion.tex [68
+[78
 
-]
-Chapter 6.
-------------------------------------------------------------------------------
- 6 Future: Conclusion
-------------------------------------------------------------------------------
-[69
-
-] [70]) [71] (./Appendices/AppendixA.tex [72
+] [79]) [80] (./Appendices/AppendixA.tex [81
 
 ]
 Appendix A.
 ------------------------------------------------------------------------------
  A Interview Transcripts
 ------------------------------------------------------------------------------
-[73
+[82
 
-] [74
+] [83
 
-] [75] [76] [77] [78] [79]
+] [84] [85] [86] [87] [88]
 
-./Appendices/AppendixA.tex:98: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 ￼
-        ￼￼￼
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Appendices/AppendixA.tex:98: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 ￼￼
-           ￼￼
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Appendices/AppendixA.tex:98: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 ￼￼￼
-              ￼
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./Appendices/AppendixA.tex:98: Package inputenc Error: Unicode char \u8:￼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 ￼￼￼￼
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[80]
-
-./Appendices/AppendixA.tex:132: Package inputenc Error: Unicode char \u8:￼ no
+./Appendices/AppendixA.tex:101: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 ￼
+l.101 ￼
+         ￼￼￼
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Appendices/AppendixA.tex:101: Package inputenc Error: Unicode char \u8:￼ no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ￼￼
+            ￼￼
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Appendices/AppendixA.tex:101: Package inputenc Error: Unicode char \u8:￼ no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ￼￼￼
+               ￼
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Appendices/AppendixA.tex:101: Package inputenc Error: Unicode char \u8:￼ no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 ￼￼￼￼
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[89]
+
+./Appendices/AppendixA.tex:135: Package inputenc Error: Unicode char \u8:￼ no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ￼
          ￼￼￼￼
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./Appendices/AppendixA.tex:132: Package inputenc Error: Unicode char \u8:￼ no
+./Appendices/AppendixA.tex:135: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 ￼￼
+l.135 ￼￼
             ￼￼￼
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./Appendices/AppendixA.tex:132: Package inputenc Error: Unicode char \u8:￼ no
+./Appendices/AppendixA.tex:135: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 ￼￼￼
+l.135 ￼￼￼
                ￼￼
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./Appendices/AppendixA.tex:132: Package inputenc Error: Unicode char \u8:￼ no
+./Appendices/AppendixA.tex:135: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 ￼￼￼￼
+l.135 ￼￼￼￼
                   ￼
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./Appendices/AppendixA.tex:132: Package inputenc Error: Unicode char \u8:￼ no
+./Appendices/AppendixA.tex:135: Package inputenc Error: Unicode char \u8:￼ no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 ￼￼￼￼￼
+l.135 ￼￼￼￼￼
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[81] [82] [83] [84] [85] [86] [87] [88
+[90] [91] [92] [93] [94] [95] [96
 
-] [89] [90] [91] [92] [93] [94] [95]
-[96] [97] [98] [99] [100] [101] [102] [103] [104]
-Overfull \hbox (168.25128pt too wide) in paragraph at lines 332--333
+] [97]
+Overfull \hbox (168.25128pt too wide) in paragraph at lines 217--218
 []\OT1/ptm/b/n/12 Nic Collins\OT1/ptm/m/n/12 : Yes - that's the pa-per on Semi-
 con-duct-ing (see http://www.nicolascollins.com/texts/semiconducting.pdf).
  []
 
-[105]
-./Appendices/AppendixA.tex:339: Misplaced alignment tab character &.
-l.339 ...ys this buzz in the air about the Speak &
+[98]
+./Appendices/AppendixA.tex:223: Misplaced alignment tab character &.
+l.223 ...ys this buzz in the air about the Speak &
                                                    Spell. I had a Speak & Sp...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1743,8 +1863,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:339: Misplaced alignment tab character &.
-l.339 ... about the Speak & Spell. I had a Speak &
+./Appendices/AppendixA.tex:223: Misplaced alignment tab character &.
+l.223 ... about the Speak & Spell. I had a Speak &
                                                    Spell in 1979 that I hack...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1753,9 +1873,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[106]
-./Appendices/AppendixA.tex:346: Misplaced alignment tab character &.
-l.346 ...Ezra Teboul}: people realized the Speak &
+[99]
+./Appendices/AppendixA.tex:230: Misplaced alignment tab character &.
+l.230 ...Ezra Teboul}: people realized the Speak &
                                                    Spell used microcontrollers.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1764,28 +1884,28 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[107] [108] [109] [110] [111]
-Overfull \hbox (51.48123pt too wide) in paragraph at lines 387--388
+[100] [101] [102] [103] [104]
+Overfull \hbox (51.48123pt too wide) in paragraph at lines 271--272
 \OT1/ptm/m/n/12 (https://medium.com/re-form/just-because-you-can-doesnt-mean-yo
 u-should-252fdbcf76c8
  []
 
-[112] [113]
-./Appendices/AppendixA.tex:406: Missing $ inserted.
+[105] [106]
+./Appendices/AppendixA.tex:288: Missing $ inserted.
 <inserted text> 
                 $
-l.406 ...ies-Handbooks-ebook/dp/B00BQES54M/ref=sr_
+l.288 ...ies-Handbooks-ebook/dp/B00BQES54M/ref=sr_
                                                   1_1?s=books&ie=8&qid=14273...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Appendices/AppendixA.tex:406: Double subscript.
-l.406 ...s-Handbooks-ebook/dp/B00BQES54M/ref=sr_1_
+./Appendices/AppendixA.tex:288: Double subscript.
+l.288 ...s-Handbooks-ebook/dp/B00BQES54M/ref=sr_1_
                                                   1?s=books&ie=8&qid=1427399...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Appendices/AppendixA.tex:406: Misplaced alignment tab character &.
-l.406 ...s-ebook/dp/B00BQES54M/ref=sr_1_1?s=books&
+./Appendices/AppendixA.tex:288: Misplaced alignment tab character &.
+l.288 ...s-ebook/dp/B00BQES54M/ref=sr_1_1?s=books&
                                                   ie=8&qid=1427399248&sr=1-1...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1794,8 +1914,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:406: Misplaced alignment tab character &.
-l.406 ...ok/dp/B00BQES54M/ref=sr_1_1?s=books&ie=8&
+./Appendices/AppendixA.tex:288: Misplaced alignment tab character &.
+l.288 ...ok/dp/B00BQES54M/ref=sr_1_1?s=books&ie=8&
                                                   qid=1427399248&sr=1-1&keyw...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1804,8 +1924,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:406: Misplaced alignment tab character &.
-l.406 ...M/ref=sr_1_1?s=books&ie=8&qid=1427399248&
+./Appendices/AppendixA.tex:288: Misplaced alignment tab character &.
+l.288 ...M/ref=sr_1_1?s=books&ie=8&qid=1427399248&
                                                   sr=1-1&keywords=oxford+han...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1814,8 +1934,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:406: Misplaced alignment tab character &.
-l.406 ...r_1_1?s=books&ie=8&qid=1427399248&sr=1-1&
+./Appendices/AppendixA.tex:288: Misplaced alignment tab character &.
+l.288 ...r_1_1?s=books&ie=8&qid=1427399248&sr=1-1&
                                                   keywords=oxford+handbook+o...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1825,41 +1945,41 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 406.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 288.
 
-./Appendices/AppendixA.tex:407: Missing $ inserted.
+./Appendices/AppendixA.tex:289: Missing $ inserted.
 <inserted text> 
                 $
-l.407 
+l.289 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Appendices/AppendixA.tex:407: Missing } inserted.
+./Appendices/AppendixA.tex:289: Missing } inserted.
 <inserted text> 
                 }
-l.407 
+l.289 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1868,14 +1988,14 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (148.89305pt too wide) in paragraph at lines 406--407
+Overfull \hbox (148.89305pt too wide) in paragraph at lines 288--289
 \OT1/ptm/m/n/12 (http://www.amazon.com/Oxford-Handbook-Sound-Studies-Handbooks-
 ebook/dp/B00BQES54M/ref=sr$[][]\OT1/cmr/m/n/12 ?\OML/cmm/m/it/12 s \OT1/cmr/m/n
 /12 =
  []
 
 
-Overfull \hbox (3975.6779pt too wide) in paragraph at lines 406--407
+Overfull \hbox (3975.6779pt too wide) in paragraph at lines 288--289
 \OML/cmm/m/it/12 of \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 sound \OT1/cmr/m/n/12 + 
 \OML/cmm/m/it/12 studies\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :Itincludesareallybea
 utifulessayonGerman:::ingermanyinthe\OT1/cmr/m/n/12 30[]\OML/cmm/m/it/12 s; the
@@ -1891,11 +2011,11 @@ eysayitwasthefirsttimeeveropeningaradioorthisorthat:It[]sthefirsttimethey[]deve
 rtouchtheirpart:[]$ 
  []
 
-[114]
-./Appendices/AppendixA.tex:407: Extra }, or forgotten \endgroup.
+[107]
+./Appendices/AppendixA.tex:289: Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.407 
+l.289 
       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1903,9 +2023,9 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-[115] [116]
-./Appendices/AppendixA.tex:426: Misplaced alignment tab character &.
-l.426 ...ne in Seoul. It’s Dotolim and Balloon &
+[108] [109]
+./Appendices/AppendixA.tex:308: Misplaced alignment tab character &.
+l.308 ...ne in Seoul. It’s Dotolim and Balloon &
                                                    Needle project. Otomo Yos...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1914,22 +2034,22 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[117] [118] [119]
-./Appendices/AppendixA.tex:446: Missing $ inserted.
+[110] [111] [112]
+./Appendices/AppendixA.tex:328: Missing $ inserted.
 <inserted text> 
                 $
-l.446 ...ric-Appliance-ebook/dp/B007N209P4/ref=sr_
+l.328 ...ric-Appliance-ebook/dp/B007N209P4/ref=sr_
                                                   1_1?s=books&ie=8&qid=14273...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Appendices/AppendixA.tex:446: Double subscript.
-l.446 ...c-Appliance-ebook/dp/B007N209P4/ref=sr_1_
+./Appendices/AppendixA.tex:328: Double subscript.
+l.328 ...c-Appliance-ebook/dp/B007N209P4/ref=sr_1_
                                                   1?s=books&ie=8&qid=1427399...
 I treat `x_1_2' essentially like `x_1{}_2'.
 
-./Appendices/AppendixA.tex:446: Misplaced alignment tab character &.
-l.446 ...e-ebook/dp/B007N209P4/ref=sr_1_1?s=books&
+./Appendices/AppendixA.tex:328: Misplaced alignment tab character &.
+l.328 ...e-ebook/dp/B007N209P4/ref=sr_1_1?s=books&
                                                   ie=8&qid=1427399525&sr=1-1...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1938,8 +2058,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:446: Misplaced alignment tab character &.
-l.446 ...ok/dp/B007N209P4/ref=sr_1_1?s=books&ie=8&
+./Appendices/AppendixA.tex:328: Misplaced alignment tab character &.
+l.328 ...ok/dp/B007N209P4/ref=sr_1_1?s=books&ie=8&
                                                   qid=1427399525&sr=1-1&keyw...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1948,8 +2068,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:446: Misplaced alignment tab character &.
-l.446 ...4/ref=sr_1_1?s=books&ie=8&qid=1427399525&
+./Appendices/AppendixA.tex:328: Misplaced alignment tab character &.
+l.328 ...4/ref=sr_1_1?s=books&ie=8&qid=1427399525&
                                                   sr=1-1&keywords=toaster+pr...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1958,8 +2078,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./Appendices/AppendixA.tex:446: Misplaced alignment tab character &.
-l.446 ...r_1_1?s=books&ie=8&qid=1427399525&sr=1-1&
+./Appendices/AppendixA.tex:328: Misplaced alignment tab character &.
+l.328 ...r_1_1?s=books&ie=8&qid=1427399525&sr=1-1&
                                                   keywords=toaster+project),...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1969,32 +2089,32 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 446.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 328.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 446.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 328.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 446.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 328.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 446.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 328.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 446.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 328.
 
-./Appendices/AppendixA.tex:447: Missing $ inserted.
+./Appendices/AppendixA.tex:329: Missing $ inserted.
 <inserted text> 
                 $
-l.447 
+l.329 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./Appendices/AppendixA.tex:447: Missing } inserted.
+./Appendices/AppendixA.tex:329: Missing } inserted.
 <inserted text> 
                 }
-l.447 
+l.329 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2003,13 +2123,13 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (44.4155pt too wide) in paragraph at lines 446--447
+Overfull \hbox (44.4155pt too wide) in paragraph at lines 328--329
 \OT1/ptm/m/n/12 you haven't, you should read a book called The Toaster Pro-ject
  (http://www.amazon.com/Toaster-
  []
 
 
-Overfull \hbox (3866.33467pt too wide) in paragraph at lines 446--447
+Overfull \hbox (3866.33467pt too wide) in paragraph at lines 328--329
 \OT1/cmr/m/n/12 8\OML/cmm/m/it/12 qid \OT1/cmr/m/n/12 = 1427399525\OML/cmm/m/it
 /12 sr \OT1/cmr/m/n/12 = 1 \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 1\OML/cmm/m/it/
 12 keywords \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 toaster \OT1/cmr/m/n/12 + \OML/c
@@ -2025,10 +2145,10 @@ ryfewexceptions; tobuildtheseassubstituteforcommercialonesdoesn[]tmakemuchsense
 olresistorinsideyourMoogladderfilter:[]$ 
  []
 
-./Appendices/AppendixA.tex:447: Extra }, or forgotten \endgroup.
+./Appendices/AppendixA.tex:329: Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.447 
+l.329 
       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2036,87 +2156,70 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-[120] [121] [122]
-
-./Appendices/AppendixA.tex:474: Package inputenc Error: Unicode char \u8:̈ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.474 ...I knew he was an engineer, he said, ``b̈
-                                                  ut this is the first time ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[123]
-Overfull \hbox (54.1688pt too wide) in paragraph at lines 486--487
+[113] [114] [115] [116]
+Overfull \hbox (54.1688pt too wide) in paragraph at lines 368--369
 []\OT1/ptm/m/n/12 I have this one piece, ``Devil's Mu-sic'' (http://www.nicolas
 collins.com/texts/devilsmusichistory.pdf,
  []
 
-[124] [125]
-Overfull \hbox (2.7725pt too wide) in paragraph at lines 494--494
+[117] [118]
+Overfull \hbox (2.7725pt too wide) in paragraph at lines 377--377
  |[]\OT1/ptm/b/n/17.28 transcript for in-ter-view with Dan Snazelle of Snazzy
  []
 
-[126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
-[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
-[150] [151] [152] [153] [154] [155] [156] [157]
+[119
 
-./Appendices/AppendixA.tex:936: Package inputenc Error: Unicode char \u8:  not
- set up for use with LaTeX.
+] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132] [133] [134] [135] [136
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.936 ...lanned obsolescence affected your work? 
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+] [137] [138] [139] [140] [141] [142]
+[143] [144] [145] [146] [147] [148] [149]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 727.
 
-[158]
 
-./Appendices/AppendixA.tex:951: Package inputenc Error: Unicode char \u8:  not
- set up for use with LaTeX.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [150
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.951 ...ment you're particularly excited about? 
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+] [151]
+[152] [153] [154] [155] [156] [157] [158] [159] [160
 
-[159] [160] [161] [162] [163] [164] [165]
+] [161]
 
-./Appendices/AppendixA.tex:1143: Package inputenc Error: Unicode char \u8:  no
+./Appendices/AppendixA.tex:1014: Package inputenc Error: Unicode char \u8:  no
 t set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1143 you do this work? 
-                          
+l.1014 ...anned obsolescence affected your work? 
+                                                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[166] [167]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 1198
-.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-[168] [169] [170])) [171]
+[162]
+
+./Appendices/AppendixA.tex:1029: Package inputenc Error: Unicode char \u8:  no
+t set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1029 ...ent you're particularly excited about? 
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[163] [164] [165] [166
+
+] [167] [168] [169] [170
+
+] [171] [172] [173] [174]
+[175] [176] [177] [178]))
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
@@ -2166,14 +2269,15 @@ rojects/CMOS$[]\OML/cmm/m/it/12 ynthesizers=: retrieved\OT1/cmr/m/n/12 2015\OML
 /cmm/m/it/12 :[]$ 
  []
 
-[172
+[179
 
 
-] [173] [174] [175] [176]
-./main.bbl:474: Misplaced alignment tab character &.
+
+] [180] [181] [182] [183]
+./main.bbl:505: Misplaced alignment tab character &.
 <argument> ...pace.com/index.php?MAINTAB=SYNTHDIY&
                                                   PROJARG=WSG2010/wsg_page1....
-l.474 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
+l.505 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
                                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2182,18 +2286,18 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./main.bbl:474: Missing $ inserted.
+./main.bbl:505: Missing $ inserted.
 <inserted text> 
                 $
-l.474 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
+l.505 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
                                                   .
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./main.bbl:474: Misplaced alignment tab character &.
+./main.bbl:505: Misplaced alignment tab character &.
 <argument> ...HDIY&PROJARG=WSG2010/wsg_page1.html&
                                                   CATPARTNO=WSG001
-l.474 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
+l.505 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
                                                   .
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2202,10 +2306,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./main.bbl:474: Extra }, or forgotten $.
+./main.bbl:505: Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.474 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
+l.505 ...=WSG2010/wsg_page1.html&CATPARTNO=WSG001}
                                                   .
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2213,18 +2317,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./main.bbl:476: Missing $ inserted.
+./main.bbl:507: Missing $ inserted.
 <inserted text> 
                 $
-l.476 
+l.507 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./main.bbl:476: Missing } inserted.
+./main.bbl:507: Missing } inserted.
 <inserted text> 
                 }
-l.476 
+l.507 
       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2233,7 +2337,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (305.0285pt too wide) in paragraph at lines 472--476
+Overfull \hbox (305.0285pt too wide) in paragraph at lines 503--507
 []\OT1/ptm/m/n/12 Ray Wilson.  \OT1/ptm/m/it/12 http://www.musicfromouterspace.
 com/index.php?MAINTAB=SYNTHDIYPROJARG=WSG2010/wsg$[]\OML/cmm/m/it/12 age\OT1/cm
 r/m/n/12 1\OML/cmm/m/it/12 :htmlCATPARTNO \OT1/cmr/m/n/12 =
@@ -2258,13 +2362,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
-[177]
+[184]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A543BA2D89327B9884F27A715F782463;20215.
+(rerunfilecheck)             Checksum: C331CC9E75FD419F5898BDDA6ABD3D77;14922.
 
 
 LaTeX Warning: There were undefined references.
@@ -2276,13 +2380,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
 ### semi simple group (level 1) entered at line 170 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16021 strings out of 493117
- 225472 string characters out of 6135433
- 393565 words of memory out of 5000000
- 18746 multiletter control sequences out of 15000+600000
+ 16091 strings out of 493117
+ 227165 string characters out of 6135433
+ 393688 words of memory out of 5000000
+ 18790 multiletter control sequences out of 15000+600000
  44361 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,12n,45p,2699b,891s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,12n,45p,2699b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
 }</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -2295,10 +2399,10 @@ e/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on main.pdf (188 pages, 9655380 bytes).
+Output written on main.pdf (195 pages, 12601979 bytes).
 PDF statistics:
- 1940 PDF objects out of 2073 (max. 8388607)
- 1665 compressed objects within 17 object streams
- 394 named destinations out of 1000 (max. 500000)
- 951 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1884 PDF objects out of 2073 (max. 8388607)
+ 1580 compressed objects within 16 object streams
+ 395 named destinations out of 1000 (max. 500000)
+ 741 words of extra memory for PDF output out of 10000 (max. 10000000)
 
