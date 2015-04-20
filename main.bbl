@@ -1,9 +1,15 @@
-\begin{thebibliography}{92}
+\begin{thebibliography}{96}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anonymous(2011)]{anonymous2011}
+Anonymous.
+\newblock \emph{A Psychogeophysics Handbook and Reader, v.0.4}.
+\newblock self-published, 2011.
+\newblock URL \url{http://odin.bek.no/~xxxxx/handbook005.pdf}.
 
 \bibitem[Ariza(2007)]{ariza2007}
 Christopher Ariza.
@@ -277,6 +283,11 @@ Andrew Hugill.
 Steven~J Jackson.
 \newblock Rethinking repair, 2014.
 
+\bibitem[Kahn(2014)]{kahn2014}
+Douglas Kahn.
+\newblock Epiphanies.
+\newblock \emph{The Wire}, \penalty0 (359), 2014.
+
 \bibitem[Kane(2014)]{kane2014}
 Brian Kane.
 \newblock \emph{Sound Unseen: Acousmatic Sound in Theory and Practice}.
@@ -336,6 +347,15 @@ David~A Mellis and Leah Buechley.
 John~Anderson Mills, Lo{\"\i}c Rebousi{\`e}re, and Ricardo~Chessini Bose.
 \newblock Developing social controllers.
 \newblock \emph{QPSR of the numediart research program}, 3\penalty0 (3), 2010.
+
+\bibitem[Miyazaki et~al.(2010)Miyazaki, Howse, Funke, Riekeles, Broeckmann, and
+  Verein]{miyazaki2010}
+Shintaro Miyazaki, Martin Howse, Judith Funke, Stefan Riekeles, Andreas
+  Broeckmann, and Hartware Medien~Kunst Verein.
+\newblock Detektors: Rhythms of electromagnetic emissions, their
+  psychogeophysics and micrological auscultation.
+\newblock In \emph{Proceedings of the 16th International Symposium on
+  Electronic Art ISEA}, pages 136--138, 2010.
 
 \bibitem[Murphy et~al.(2010)Murphy, Kapur, and Burgin]{murphy2010}
 Jim Murphy, Ajay Kapur, and Carl Burgin.
@@ -434,6 +454,11 @@ Tara Rodgers.
 Joseph~"Butch" Rovan.
 \newblock Living on the edge: Alternate controllers and the obstinate
   interface, 2009.
+
+\bibitem[Rylan()]{rylan2011}
+Jessica Rylan.
+\newblock Personal synthesizer.
+\newblock URL \url{http://vagueterrain.net/journal19/jessica-rylan/01}.
 
 \bibitem[Rylan(2005)]{rylan2015}
 Jessica Rylan.

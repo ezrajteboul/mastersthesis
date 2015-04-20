@@ -5,12 +5,12 @@
 \lhead{\chaptertitlename\ \thechapter. \emph{Selected Recent Works}}
 % ----------------------------------------------------------------------------------------
 
+Electronic music instrument design is shaped by a pragmatism for achieving a specific goal with simple and clever circuits. Musical and hardware subcultures are sometimes based upon specific approaches to those circuits \citep{ghazala2005,collins2006,hegarty2007,novak2013}. Of these approaches, the following appears to have had a significant importance in the development of expressive audio electronics while questioning the boundary between utilitarian and artistic, analog and digital.
+
 This chapter describes a selection of designs from the past few years by makers in electronic music. These designs relate in many ways to the concept of open source as it was discussed in the last chapter, that is, devices which in their creation process create some amount of freely available information that enables future developers.
 
 They were selected because they serve as examples of progress in a modern vision of electronic music hardware and its related approach to composition. Either through ideas or implementations, they constitute a compelling progress in the field. Documentation (either public, academic, or reverse-engineered) for these devices was collected and analyzed, and this chapter is a series of case studies explaining how these works were developed and why they are important in our context of open design. 
-
-As will be detailed, broad categories are identified and used to group some of the projects. 
-
+ 
 \section{Devi Ever FX and Dwarfcraft Devices}
 
 Devi Ever FX was initially ran by a Devi Ever, who designed a long list of different distortion pedals before leaving the business to Louise and Ben Hinz. Devi was particularly appreciated in the online pedal DIY scene for her willingness to share and discuss audio circuit designs. 
@@ -49,12 +49,57 @@ This example shows two things: first, that open approaches in electronic music h
 
 ``http://freestompboxes.org/viewtopic.php?f=7&t=18157&hilit=devi+ever+fx''
 
+\section{Jessica Rylan, Flower Electronics}
+
+Rylan's circuit design practices present a common dilemna in art-oriented technology today first presented in chapter one: how to make something new and different with the same parts and similar circuits? 
+
+This disatisfaction with the seemingly uniform way modern electronics present audio and think of interfaces is presented as the motivation for a number of designs that wish to address this issue \citep[pp.139-155]{rodgers2010}. 
+
+Inspecting devices sold by her company Flower Electronics over their period of operation (late 2000's to early 2010's) only imprecisely informs one of how this might have been done. Enclosures are still standard Hammond aluminum. The underlying circuits often follow modular synthesis architectures. A clear interest in chaotic oscillators is denoted, but even in that case, it seems difficult to break out of the VCO/VCF/VCA modular mold. 
+
+In some sense, Rylan's work is at its most compelling when it is presented in the context of her own history and musical practice. The personal synthesizer, started in 2004, is the aptly named tool she developed in this quest of alternative design. 
+
+\subsection{the personal synth (2005)}
+
+	\begin{figure}[h!]
+	  \caption{Jessica Rylan performing with the personal synth}
+	  \centering
+	    \includegraphics[width=.5\textwidth]{perssynth}
+	\end{figure}
+	
+	\begin{figure}[h!]
+	  \caption{The Personal Synth, close up view}
+	  \centering
+	    \includegraphics[width=.5\textwidth]{perssynth2}
+	\end{figure}
+	
+	A particularly well documented instance of Rylan's work \citep{rylan2011}, this device is arguably the work that started Flower Electronics. Later commercial works by Rylan were not presented in such detail. 
+	
+	Rather than paraphrasing the circuit analysis provided by Rylan, we will comment on the devices originalities and their implications in the context of a hardware practice. 
+	
+	At the heart of the device is an 8038 oscillator chip, in a circuit Rylan derived from Thomas Henry's \emph{Audio Generator} (ADD SOURCES, screenshots of circuits, datasheet?). Implementing voltage control of the waveshaping section forms the basis for a versatile and compact device, further expanded by a microphone input (for vocals- see picture above) and an original VCA implementing an impredictable flavor of filtering through nonlinear zener diodes. (ADD CIRCUIT DIAGRAM, relevant quote from Rylan). 
+	
+	The choice of an 8038 is significant. By no means an antiquated design, the chip has however been discontinued as of writing, with no replacement from the manufacturer. As digital devices implement high quality sampling and the communications / military roots of semiconductor research lose interest in the specificities of chip oscillators, those designs get osbsoleted at an increasing rate. Just like Nic Collins' 566 circuits, Rylan's 8038 circuit is a worthwhile study, but not necessarily the most practical avenue for the musical tinkerer. 
+	
+	This is a good opportunity to discuss the quasi-archeological nature of practical audio hardware research. In this work and previous projects, Bernie Hutchins' Electronotes newsletter has been mentionned several times as a foundational document. This body of work contains more than 400 publications, most of which describe significantly outdated concepts and designs. However, the usefulness of dissecting and understanding such projects is rarely argued. As Dan Snazelle mentions, analog circuitry is rarely original (see app. A-5), therefore, most circuits reference or borrow from previously implemented ideas. Understanding where current designs come from, regardless of whether they are digital or analog, is therefore generally viewed as extremely beneficial. The variety of resources available to the dedicated audio electronics home inventor are so vast and disorganized that any commitment is often synonimous to historical knowledge. The question of obsolescence, research and media archeology will be further developed in upcoming chapters. 
+	
+	\begin{figure}[h!]
+	  \caption{The Personal Synth, inside view}
+	  \centering
+	    \includegraphics[width=.5\textwidth]{perssynthin}
+	\end{figure}
+	
+	The combination of zener full wave rectifier and lack of stabilizing circuits in some of the local feedback loops (add circuit schematic) prove rylan's longstanding interest in semi-erratic circuit behaviors, which is very reminiscent of Tudor. In Rylan's schematic, the circuit is indissociable from the experimentation that accompanied it, with just enough unclear elements that interpreting it for a reiteration of her device would lead to further questions and experimentation. Open music hardware is fully realized as a vector of teaching, learning, making and experimenting. 
+	
+	If the Personal Synth is perhaps not a completely new way to think about analog synthesis, it was a new way for Rylan to think about music. As she mentions, this process is perhaps not for everyone. As she went on to develop her professional but also academic understanding of circuits (something Tudor never did), she came to appreciate the difficulties of knowing circuit theory. That she is no longer particularly involved in audio hardware, but rather in optical electronics and theoretical chaotic circuit research (ADD reference) shows that audio electronics can serve as an entry point for scientific research. 
+
+%http://vagueterrain.net/journal19/jessica-rylan/01
+
+%https://vimeo.com/20051159
+
 \section{CMOS synthesis: modern incarnations}
 
-All the transistors in the improbability drive are high power, low noise NPN small signal silicon bipolar junction transistors (BJT), which is what could be expected from a discrete audio circuit  design. 
-
-However, as the following chapter will describe, electronic music instrument design is shaped by a pragmatism for achieving a specific goal with simple and clever circuits. Musical and hardware subcultures are sometimes based upon specific approaches to those circuits \citep{ghazala2005,collins2006,hegarty2007,novak2013}. Of these approaches, the following appears to have had a significant importance in the development of expressive audio electronics while questioning the boundary between utilitarian and artistic, analog and digital. 
-
+All the transistors in the improbability drive are high power, low noise NPN small signal silicon bipolar junction transistors (BJT), which is what could be expected from a discrete audio circuit design. The \emph{Personal Synth} is built around a variety of solid state devices, from op-amps to VCO chips such as the 8038. 
 
 \begin{quote}
 	
@@ -67,13 +112,12 @@ However, as the following chapter will describe, electronic music instrument des
 
 Although Collins is not the only source of these digital logic sound generators, the publication of his book has had a visible impact on many of the low-part-count synthesis circuits seen today. The two following examples exhibit particularly interesting and relevant projects, all ``open'' to some extent. 
 
-\subsection{Dwarfcraft: the Robot Devil (2012)}
+%\subsection{Dwarfcraft: the Robot Devil (2012)}
 
-The relative simplicity of the device is here extremely relevant, as it has lead online community members to relate it to some circuits described in Nic Collins' \emph{Handmade Electronic Music}. 
+%The relative simplicity of the device is here extremely relevant, as it has lead online community members to relate it to some circuits described in Nic Collins' \emph{Handmade Electronic Music}. 
 
-``http://freestompboxes.org/viewtopic.php?f=7&t=18344&hilit=robot+devil''
+%``http://freestompboxes.org/viewtopic.php?f=7&t=18344&hilit=robot+devil''
 
-The power of CMOS logic chips also serves as a segway into the wider topic of microcontroller synthesis. If Tristan Shone's system exhibited the power of arduinos in the context of controllers, numerous practitioners have also been developing instruments  In this case, embedded systems of various complexity have been used in innumerable synthesis projects, providing low fidelity audio outputs and high potential for customization. Sonically, these projects are very much indebted to the auditory product of CMOS chips combined with basic filtering and effects. 
 
 \subsection{Taylan Cihan: Porcupine (2013)}
 
@@ -258,7 +302,7 @@ As can be expected in parallel with the rise of microcontrollers as interfaces f
 
 Dan Snazelle is a recording engineer turned hardware designer. Although his relationship with musical electronics is mostly done through the design of analog electronics, he is one of the first to market an Arduino as the central piece of a synthesizer module. In doing so, Snazelle and his collaborator Darwin Grosse take advantage of the fast-paced communal activity of coding communities and the ability to sell a product even though there is enough information for people to build them from scratch. 
 
-\paragraph{The Ardcore Eurorack-format module (2011, commercialized 2012)}
+\paragraph{The Ardcore Eurorack-format module (2011)}
 
 The Ardcore is in effect a reprogrammable lo-fidelity oscillator and control voltage generator packaged in a eurorack format and complemented by a set of freely available and editable programs. 
 
@@ -320,52 +364,89 @@ The Arduino can be viewed as one of the driving force in making and tinkering to
 
 %https://github.com/darwingrosse/ArdCore-Code
 
-%\subsection{Tristan Perich and Loud Objects}
+\subsection{Martin Howse}
 
-%Tristan Perich's dual approach to music hardware is most clearly divided between his highly predetermined solo work, and the more chaotic performances he presents with Loud Objects. As part of the latter trio, he solders their instrument - a set of microcontrollers - as part of the performance, making the piece a circuit in the most Tudorian sense of the idea. 
+Martin Howse is a British artist residing in Berlin and teaching workshops all over the world. Please refer to appendix A-8 for additional information concerning his background and inspirations. 
 
-%As a composer, his work still relies on the binary output of microcontrollers, creating his ``one bit symphonies'' that have been presented as standalone pieces or along acoustic instruments in performances. 
+He was interviewed primarily for his work combining organic material (soil, fungus, chemicals), recycled electronics, and computing devices for his varied artistic practice based in literature but with a frequent concern in sound. Often done or developed through collaborative workshops those projects include an exploration of fungal response to electromagnetic signals (radio mycelium, http://www.psychogeophysics.org/wiki/doku.php?id=mycelial, http://fo.am/radio_mycelium/), attempts to boot operating systems using telluric noise (the earthboot project, http://motherboard.vice.com/blog/programming-computers-with-dirt-earthboot-powers-pcs-with-geological-energy, http://creative.arte.tv/fr/magazine/martin-howse-entre-terre-et-logiciels, http://www.1010.co.uk/org/earthcode.html), the development of the \emph{Detektor} system as part of Shintaro Miyazaki's \emph{Algorhythmics} project (http://detektors.org/index-page_id=2.html, http://algorhythmics.ixdm.ch/, \citep{miyazaki2010}) and the dark interpreters, a series of hybrid devices which we'll focus on here. 
 
-%http://vagueterrain.net/journal19/loud-objects/01
+Although not limited to this framework, Howse's technological experiments often fall within what he calls \emph{psychogeophysics}, which were defined in the anonymous \emph{Psychogeophysics Handbook & Reader}: 
 
-%\subsection{Martin Howse}
+\begin{quote}
+	
+	Where does execution (of software) as an act take place and what are the eff􏰇ects of such sitings on the individual? Is there a stark division between the physical and the protocol (between the material and the symbolic), or can these terms be considered as points on a continuum of abstraction? Psychogeophysics attempts to answer these questions using a core methodology based around the pairing of paranoiac detection (parody of scienti􏰁c practice) and excitation as intervention.
+	
+	\end{quote}
+	
+	\citep{anonymous2011}
+	
+This poetic exploration of technology as a parody of scientific practice appears about as nonsensical as \emph{experimental engineering}, and yet, Howse's work is not without recognition. Discussing Howse's performance work, Douglas Kahn writes: 
+	
+\begin{quote}
 
-%Martin Howse is a British artist residing in Berlin and teaching workshops all over the world. 
+When he raised his hand and dug it into the soil, into the earth, a whole new battery of sounds were heard. It was phenomenal. Electricity always seeks a ground; he had grounded electronic music. It was more than a gesture; it was an epiphany.
+\end{quote}
 
-%Howse's esoteric psychogeophysics exploration is backed by a strong design and programming sense that's allowed him to turn some of his stranger ideas (booting a computer using noise from a metal stake in the ground as some of the BIOS code) into commercial products. 
+\citep{kahn2014}
 
+	\begin{figure}[h!]
+	  \caption{Martin Howse in a performance using soil, chemicals, various electronics}
+	  \centering
+	    \includegraphics[width=1\textwidth]{howseperf}
+	\end{figure}
 
-%\paragraph{the dark interpreters}
+This, in effect, might be what Dunne envisioned as effective post-optimality in design. Howse doesn't appear more as an engineer, musician, teacher, artist or theorist, rather, the easiest way to talk about him is to use his own terminology (psychogeophysicist?) and delve into his work.  
 
-%The dark interpreters is a series of three ARM processor based synthesizer: 
+\paragraph{the dark interpreters}
 
+The dark interpreters is a series of three ARM processor-based synthesizers. They come in three versions, the \emph{Mater Lachrymarum}, the \emph{Mater Suspiriorum}, and the \emph{Mater Tenebraum}. Each correspond to more complex versions of the same basic resampling / granulation synthesis processes, and all are available for purchase from Howse's website (http://www.1010.co.uk/org/darkint.html). 
+
+All the files used by Howse to manufacture these circuit boards (schematics, layout, code) are available from his Github repository. The hardware documentation is provided in the form of KiCad files, while a collection of C-based ARM code with comments details the functioning of the software. It is interesting to not that on OSX, KiCad is still under development, and offers a slightly more complex operation than the commercial freeware standard EagleCAD. Some visually interesting errors can arise in the browsing of those files: 
+
+	\begin{figure}[h!]
+	  \caption{displaying the analog section of the board with missing parts}
+	  \centering
+	    \includegraphics[width=1\textwidth]{schemerror1}
+	\end{figure}
+	
+	\begin{figure}[h!]
+	  \caption{displaying the digital section of the board with missing parts}
+	  \centering
+	    \includegraphics[width=1\textwidth]{errorschem2}
+	\end{figure}
+	
+The manual provided by Howse details basic operation: 
+
+\begin{quote}
+
+The Dark Interpreter is modelled as a leaky, overlapping medieval village space within which various plague simulations run, and through which an array of villagers wanders. Audio is processed and/or generated according to the state of the village and the movements of inhabitants. Villagers (grains?) generate changes and are classified according to incoming or outgoing audio (read/write), filter, effects and hardware.
+
+The Dark Interpreter is essentially mode driven, with modes also changing the complexity of operation. Modes are selected by turning knob 5. To set parame- ters in each mode a finger must be placed on the directions and then settings can be changed with knobs 1,2,3 and 4. Finger pressure/electricity determines speed of the villager’s movements or general mode speeds and the selected/fingered direction sets direction.
+
+More advanced modes swap parameters between sets of villagers, allow for fingers to be placed right into code and parameters and finally allow for mirror- ing which sets selected parameters under the control of a selected mirror (the head/EEG board, the knobs, the fingers or the village itself).
+
+\end{quote}
+
+(A Manual for The Dark Interpreter (Towers) V0.6, Howse, 2015)
+	
+Howse's constant contextualization of technical processes within a narrative framework (here, a plague influencing the interaction of villagers as a model for granular synthesis) is a fairly clear example of what Dunne could have meant by post-optimal devices as catalysts for poetic experiences of technology. Howse's backing in literature and conceptual art seems to guarantee that his technical work is grounded in those very poetic processes. 
+
+This vision is however not contradictory with technological acuity. Looking at the source code and scehmatics (https://github.com/microresearch/dark-interpreter) shows a thorough understanding from the author of the goal and methods. On the hardware side, one might notice that the 4000 series of CMOS chips is once again present (the 4053 triple mux/demux, the 4066 quad analog switch, and the ever-ubiquitous 40106 hex schmitt trigger). The embedded digital system is based around an ARM Cortex M4 chip that implements 16 bit, 48kHz digital sampling as a basis for grain generation that can be heavily effected through undersampling. 
+
+%INCLUDE ACCURATE SCHEMATICS + BETTER ANALYSIS OF CIRCUIT? CODE? 
+
+To recapitulate, the \emph{Dark Interpreters} are important in the context of a homemade electronic music because they: 
+
+- serve as proof that a designer can effectively blend code and poetics in hardware 
+- illustrate an interpretation of Dunne's \emph{post-optimal} objects
+- demonstrate that publicly sharing source code and schematics does not necessarily take the mystery and interest away from the original designer's product
+- offer yet another link between microcomputing systems and their logical ancestors, the CMOS 4000 series
 
 %http://1010.co.uk/manual.pdf
 
-%https://github.com/microresearch/dark-interpreter
-
 %http://syntone.fr/martin-howse-une-ecologie-des-signaux/
 
-%http://www.1010.co.uk/org/darkint.html
-
 %http://disnovation.net/bordeaux.html
-
-%\section{Jessica Rylan, Flower Electronics}
-
-%Rylan's circuit design practices present a common dilemna in art-oriented technology today first presented in chapter one: how to make something new and different with the same parts and similar circuits? 
-
-%This disatisfaction with the seemingly uniform way modern electronics present audio and think of interfaces is presented as the motivation for a number of designs that wish to address this issue \citep[pp.139-155]{rodgers2010}. 
-
-%Inspecting devices sold by her company Flower Electronics over their period of operation (late 2000's to early 2010's) only imprecisely informs one of how this might have been done. Enclosures are still standard Hammond aluminum, and the underlying circuits seem to reference mostly more unusual but known synthesis classics by Buchla, Serge, etc. A clear interest in chaotic oscillators is denoted, but even in that case, it seems difficult to break out of the VCO/VCF/VCA modular mold. 
-
-%In some sense, Rylan's work is at its most compelling when it is presented in the context of her own history and musical practice. The personal synthesizer, started in 2004, is the aptly named tool she developed in this quest of alternative design. 
-
-%\subsection{the personal synth}
-
-%http://vagueterrain.net/journal19/jessica-rylan/01
-
-%https://vimeo.com/20051159
-
 
 
 \section{Sang Wook ``Sunny'' Nam: Mastering Studio}
@@ -382,17 +463,33 @@ In visiting his studio, it appears that most items in his setup fall within stan
 	
 Most of this equipment is designed, assembled and tested in collaboration with JCF audio's founder and owner, Joshua Florian \citep{florian2015}. After Nam and Florian worked together at LA's Mastering Lab, Nam came to value Florian's understanding of what they describe as ``yester-tech'' \citep{florian2015b}: older audio hardware circuit designs, usually discrete semiconductor or tube, that were used in high end recording and mastering studios along with the rise and heyday of major labels. A number of parts in Nam's current setup come from A\&R mastering studio, which he purchased when they closed down. 
 
-
-
-This section does not contain a particular product description. However, the concept of ``yester-tech'' is, perhaps understatedly, at the bottom of the discussion on open-source hardware. Open-source is mostly defined in opposition to closed-source or proprietary information, the privacy of which is legally defended by its inventors and implementors. However, mu
+This section does not contain a particular product description. However, the concept of ``yestertech'' is, perhaps understatedly, at the bottom of the discussion on open-source hardware. Open-source is mostly defined in opposition to closed-source or proprietary information, the privacy of which is legally defended by its inventors and implementors. However, mu
 
 For hardware, this information details the designs of devices, and in most technological economies, this intellectual property is legally protected by copyright, patents. Legally, these expire or have limitations allowing people today to rightfully build and sell their own version of, for example, the API 2520 that Nam mentions in his interview. 
 
 The goals of including comments stemming from my discussion with Nam were simple: prove that secretive designers are still able to succesfully build businesses out of their expertise, expose their use of open-source designs, if any, and that simply taking from publicly available designs was itself a way to perpetuate its importance. In other words, open-source hardware design is a robust practice. 
 
-\section{Design comments}
+\section{Comments}
 
-All these projects constitute a limited sample of the ideas driving innovation in the field of electronic music hardware. Through them, we've explored a significant amount of the space of possibilities defined in the first chapter by the components available. They  Primary sources range from highly formatted peer review journals to unstable forum posts, mired with dead links and noise.  
+\begin{quote}
+	
+	My favorite programming language is... solder. 
+	
+	\end{quote}
+	
+	Robert Pease (1940-2011)
+
+One case-study that was considered for this section concerned the performance practice of a small group, Live Objects. They were not included because their point, although crucial, was short: connecting engineering to performance art is more than possible, it is desirable. 
+
+In some of the case-study this chapter does include, the performative aspects of each practitioner's process or use of the devices was clear, but none merge design and musical performance as closely as Live Objects. 
+
+The technology they use is largely similar to the above case-studies, using preprogrammed microcontrollers and slowly connecting them to additional parts to derive complex musical structure from circuits small and versatile enough to be assembled as part of a standard-length performance. One of their members is Tristan Perich, who has been garnering recognition for his highly deterministic preprogrammed code-based scores, which specify a performance in ways directly indebted to western musical thinking and notation. 
+
+However, in the context of Live Objects, the group members take on a radically different approach, submitting the machinic precision of digital electronics to the whims and inconsistencies of not just humans, but also of solder, wire, batteries, etc. Acknowledging the very material reality of computing devices \emph{in real time} is still somewhat original. This can be seen as a complement to the Kittler-via-Whitelaw concept of \emph{Sheer Hardware} \citep{whitelaw2013}
+
+
+
+%All these projects constitute a limited sample of the ideas driving innovation in the field of electronic music hardware. Through them, we've explored a significant amount of the space of possibilities defined in the first chapter by the components available. They  Primary sources range from highly formatted peer review journals to unstable forum posts, mired with dead links and noise.  
 
 %Rather than trying 
 

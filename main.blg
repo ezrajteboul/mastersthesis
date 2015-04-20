@@ -7,6 +7,11 @@ Repeated entry---line 855 of file Bibliography.bib
  : @book{novak2013
  :                ,
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 941 of file Bibliography.bib
+ :   
+ :   title={A Manual for The Dark Interpreter (Towers) V0.6},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "shone"
 Warning--I didn't find a database entry for "2005"
 Warning--empty publisher in beavis2015
@@ -15,53 +20,55 @@ Warning--empty year in princetonpt
 Warning--empty publisher in diakopoulos2015
 Warning--empty publisher in florian2015
 Warning--empty publisher in florian2015b
+Warning--there's a number but no volume in kahn2014
 Warning--empty publisher in nam2015
 Warning--empty journal in padfield2014
+Warning--empty year in rylan2011
 Warning--empty publisher in satie
 Warning--empty journal in shone2004
 Warning--empty journal in shone2012
 Warning--empty journal in tudor1976
 Warning--empty journal in tudor
 Warning--empty publisher in wilson2015
-You've used 92 entries,
+You've used 96 entries,
             2773 wiz_defined-function locations,
-            1027 strings with 14904 characters,
-and the built_in function-call counts, 32310 in all, are:
-= -- 2836
-> -- 1193
-< -- 97
-+ -- 448
-- -- 354
-* -- 2001
-:= -- 5033
-add.period$ -- 277
-call.type$ -- 92
-change.case$ -- 356
-chr.to.int$ -- 90
-cite$ -- 198
-duplicate$ -- 1889
-empty$ -- 3177
-format.name$ -- 470
-if$ -- 6840
+            1045 strings with 15471 characters,
+and the built_in function-call counts, 33993 in all, are:
+= -- 2980
+> -- 1280
+< -- 101
++ -- 479
+- -- 381
+* -- 2117
+:= -- 5288
+add.period$ -- 290
+call.type$ -- 96
+change.case$ -- 376
+chr.to.int$ -- 94
+cite$ -- 208
+duplicate$ -- 1976
+empty$ -- 3326
+format.name$ -- 501
+if$ -- 7199
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 113
-newline$ -- 464
-num.names$ -- 369
-pop$ -- 953
+missing$ -- 117
+newline$ -- 485
+num.names$ -- 385
+pop$ -- 1006
 preamble$ -- 1
-purify$ -- 302
+purify$ -- 319
 quote$ -- 0
-skip$ -- 1318
+skip$ -- 1387
 stack$ -- 0
-substring$ -- 900
-swap$ -- 182
-text.length$ -- 12
+substring$ -- 940
+swap$ -- 196
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 837
-warning$ -- 14
-while$ -- 350
+type$ -- 876
+warning$ -- 16
+while$ -- 365
 width$ -- 0
-write$ -- 1140
-(There was 1 error message)
+write$ -- 1191
+(There were 2 error messages)

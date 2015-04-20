@@ -38,44 +38,50 @@
 \contentsline {chapter}{\numberline {3}Selected Recent Works & Their Authors}{48}{chapter.52}
 \contentsline {section}{\numberline {3.1}Devi Ever FX and Dwarfcraft Devices}{49}{section.53}
 \contentsline {subsection}{\numberline {3.1.1}the improbability drive (2011)}{49}{subsection.54}
-\contentsline {section}{\numberline {3.2}CMOS synthesis: modern incarnations}{51}{section.57}
-\contentsline {subsection}{\numberline {3.2.1}Dwarfcraft: the Robot Devil (2012)}{52}{subsection.58}
-\contentsline {subsection}{\numberline {3.2.2}Taylan Cihan: Porcupine (2013)}{53}{subsection.59}
-\contentsline {section}{\numberline {3.3}microcomputer systems}{57}{section.66}
-\contentsline {subsection}{\numberline {3.3.1}Tristan Shone: Author and Punisher}{58}{subsection.69}
-\contentsline {paragraph}{The Headgear system (2011)}{63}{figure.caption.73}
-\contentsline {subsection}{\numberline {3.3.2}Dan Snazelle, Snazzy FX}{65}{subsection.76}
-\contentsline {paragraph}{The Ardcore Eurorack-format module (2011, commercialized 2012)}{65}{section*.77}
-\contentsline {section}{\numberline {3.4}Sang Wook ``Sunny'' Nam: Mastering Studio}{69}{section.83}
-\contentsline {section}{\numberline {3.5}Design comments}{71}{section.85}
-\contentsline {part}{\numberline {II}Present}{72}{part.86}
-\contentsline {chapter}{\numberline {4}Interviews: highlights and analyses}{73}{chapter.87}
-\contentsline {section}{\numberline {4.1}Interviews: methodology and highlights}{74}{section.88}
-\contentsline {subsection}{\numberline {4.1.1}Tristan Shone: Author and Punisher}{75}{subsection.89}
-\contentsline {subsection}{\numberline {4.1.2}Nic Collins}{77}{subsection.90}
-\contentsline {subsection}{\numberline {4.1.3}Bonnie Jones, Techne}{79}{subsection.91}
-\contentsline {subsection}{\numberline {4.1.4}Jessica Rylan, Flower Electronics}{80}{subsection.92}
-\contentsline {subsection}{\numberline {4.1.5}Martin Howse}{81}{subsection.93}
-\contentsline {subsection}{\numberline {4.1.6}Dan Snazelle, Snazzy FX}{83}{subsection.94}
-\contentsline {paragraph}{the guitar pedal as gateway technology}{83}{section*.95}
-\contentsline {paragraph}{making things to make music to make things to}{84}{section*.95}
-\contentsline {paragraph}{on community, business and peers}{85}{section*.95}
-\contentsline {subsection}{\numberline {4.1.7}Sangwook Sunny Nam & Joshua Florian}{86}{subsection.96}
+\contentsline {section}{\numberline {3.2}Jessica Rylan, Flower Electronics}{51}{section.57}
+\contentsline {subsection}{\numberline {3.2.1}the personal synth (2005)}{52}{subsection.58}
+\contentsline {section}{\numberline {3.3}CMOS synthesis: modern incarnations}{55}{section.62}
+\contentsline {subsection}{\numberline {3.3.1}Dwarfcraft: the Robot Devil (2012)}{56}{subsection.63}
+\contentsline {subsection}{\numberline {3.3.2}Taylan Cihan: Porcupine (2013)}{57}{subsection.64}
+\contentsline {section}{\numberline {3.4}microcomputer systems}{61}{section.71}
+\contentsline {subsection}{\numberline {3.4.1}Tristan Shone: Author and Punisher}{63}{subsection.74}
+\contentsline {paragraph}{The Headgear system (2011)}{66}{figure.caption.78}
+\contentsline {subsection}{\numberline {3.4.2}Dan Snazelle, Snazzy FX}{68}{subsection.81}
+\contentsline {paragraph}{The Ardcore Eurorack-format module (2011)}{69}{section*.82}
+\contentsline {subsection}{\numberline {3.4.3}Martin Howse}{72}{subsection.88}
+\contentsline {paragraph}{the dark interpreters}{74}{figure.caption.89}
+\contentsline {subsection}{\numberline {3.4.4}Tristan Perich, Loud Objects}{76}{subsection.92}
+\contentsline {section}{\numberline {3.5}Sang Wook ``Sunny'' Nam: Mastering Studio}{77}{section.93}
+\contentsline {section}{\numberline {3.6}Design comments}{79}{section.95}
+\contentsline {part}{\numberline {II}Present}{80}{part.96}
+\contentsline {chapter}{\numberline {4}Interviews: highlights and analyses}{81}{chapter.97}
+\contentsline {section}{\numberline {4.1}Interviews: methodology and highlights}{82}{section.98}
+\contentsline {subsection}{\numberline {4.1.1}Tristan Shone: Author and Punisher}{83}{subsection.99}
+\contentsline {subsection}{\numberline {4.1.2}Louise \& Ben Hinz, Devi Ever FX and Dwarfcraft Devices}{85}{subsection.100}
+\contentsline {subsection}{\numberline {4.1.3}Nic Collins}{85}{subsection.101}
+\contentsline {subsection}{\numberline {4.1.4}Bonnie Jones, Techne}{87}{subsection.102}
+\contentsline {subsection}{\numberline {4.1.5}Jessica Rylan, Flower Electronics}{88}{subsection.103}
+\contentsline {subsection}{\numberline {4.1.6}Martin Howse}{89}{subsection.104}
+\contentsline {subsection}{\numberline {4.1.7}Dan Snazelle, Snazzy FX}{91}{subsection.105}
+\contentsline {paragraph}{The guitar pedal as gateway technology}{91}{section*.106}
+\contentsline {paragraph}{Making things to make music to make things to}{92}{section*.106}
+\contentsline {paragraph}{On community, business and peers}{93}{section*.106}
+\contentsline {subsection}{\numberline {4.1.8}Sunny Nam and Josh Florian}{93}{subsection.107}
 \addvspace {40pt}
-\contentsline {chapter}{\numberline {5}Future: Conclusion}{87}{chapter.97}
-\contentsline {section}{\numberline {5.1}Summary}{87}{section.98}
-\contentsline {section}{\numberline {5.2}afterword}{88}{section.99}
+\contentsline {chapter}{\numberline {5}Future: Conclusion}{94}{chapter.108}
+\contentsline {section}{\numberline {5.1}Summary}{94}{section.109}
+\contentsline {section}{\numberline {5.2}afterword}{95}{section.110}
 \vspace {2em}
-\contentsline {part}{\numberline {III}Appendices}{90}{part.100}
-\contentsline {chapter}{\numberline {A}Interview Transcripts}{91}{appendix.101}
-\contentsline {section}{\numberline {A.1}transcript for interview with Sang Wook Sunny Nam}{92}{section.102}
-\contentsline {section}{\numberline {A.2}transcript for interview with Nicolas Collins}{105}{section.103}
-\contentsline {section}{\numberline {A.3}transcript for interview with Dan Snazelle of Snazzy FX}{128}{section.104}
-\contentsline {section}{\numberline {A.4}transcript for interview with Tristan Shone of Author and Punisher}{145}{section.105}
-\contentsline {section}{\numberline {A.5}email exchange transcript for John Bellona}{159}{section.106}
-\contentsline {section}{\numberline {A.6}email exchange transcript for Louise and Ben Hinz of Dwarfcraft and Devi Ever FX}{163}{section.107}
-\contentsline {section}{\numberline {A.7}email exchange transcript for Bonnie Jones}{169}{section.108}
-\contentsline {section}{\numberline {A.8}email exchange transcript for Martin Howse}{175}{section.109}
-\contentsline {section}{\numberline {A.9}email exchange transcript for Jessica Rylan}{179}{section.110}
-\contentsline {chapter}{Bibliography}{188}{dummy.111}
+\contentsline {part}{\numberline {III}Appendices}{97}{part.111}
+\contentsline {chapter}{\numberline {A}Interview Transcripts}{98}{appendix.112}
+\contentsline {section}{\numberline {A.1}transcript for interview with Sang Wook Sunny Nam}{99}{section.113}
+\contentsline {section}{\numberline {A.2}transcript for interview with Nicolas Collins}{111}{section.114}
+\contentsline {section}{\numberline {A.3}transcript for interview with Dan Snazelle of Snazzy FX}{133}{section.115}
+\contentsline {section}{\numberline {A.4}transcript for interview with Tristan Shone of Author and Punisher}{150}{section.116}
+\contentsline {section}{\numberline {A.5}email exchange transcript for John Bellona}{164}{section.117}
+\contentsline {section}{\numberline {A.6}email exchange transcript for Louise and Ben Hinz of Dwarfcraft and Devi Ever FX}{168}{section.118}
+\contentsline {section}{\numberline {A.7}email exchange transcript for Bonnie Jones}{174}{section.119}
+\contentsline {section}{\numberline {A.8}email exchange transcript for Martin Howse}{180}{section.120}
+\contentsline {section}{\numberline {A.9}email exchange transcript for Jessica Rylan}{184}{section.121}
+\contentsline {chapter}{Bibliography}{193}{dummy.122}
 \contentsfinish 
