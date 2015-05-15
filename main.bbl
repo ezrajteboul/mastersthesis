@@ -1,9 +1,14 @@
-\begin{thebibliography}{96}
+\begin{thebibliography}{104}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anderton(1980)]{anderton1980}
+Craig Anderton.
+\newblock \emph{Electronic Projects for Musicians}.
+\newblock Amsco, 1980.
 
 \bibitem[Anonymous(2011)]{anonymous2011}
 Anonymous.
@@ -23,48 +28,37 @@ Newton Armstrong.
 \newblock \emph{An enactive approach to digital musical instrument design}.
 \newblock PhD thesis, Princeton University, 2006.
 
-\bibitem[Audio(retrieved 2015)]{beavis2015}
-Beavis Audio.
-\newblock \emph{http://www.beavisaudio.com/Projects/CMOS_Synthesizers/}.
-\newblock retrieved 2015.
-
 \bibitem[Barbour(1998)]{barbour1998}
 Eric Barbour.
 \newblock The cool sound of tubes [vacuum tube musical applications].
 \newblock \emph{Spectrum, IEEE}, 35\penalty0 (8):\penalty0 24--35, 1998.
 
-\bibitem[Beirer(2011)]{beirer2011}
-Ingrid Beirer, editor.
-\newblock \emph{Buried In Noise}.
-\newblock Kehrer Verlag, 2011.
+\bibitem[BeavisAudio(2012)]{beavis2015b}
+BeavisAudio.
+\newblock Schematic: Electro-harmonix muff fuzz, transistor version, 2012.
+\newblock URL
+  \url{http://www.beavisaudio.com/schematics/Electro-Harmonix-Muff-Fuzz-Transistor-Schematic.htm}.
 
-\bibitem[Blikstein(2013)]{blikstein2013}
-Paulo Blikstein.
-\newblock Digital fabrication and ‘making’in education: The democratization
-  of invention.
-\newblock \emph{FabLabs: Of Machines, Makers and Inventors}, pages 1--21, 2013.
+\bibitem[BeavisAudio(2015)]{beavis2015}
+BeavisAudio.
+\newblock Cmos synthesizers, 2015.
+\newblock URL \url{http://www.beavisaudio.com/Projects/CMOS_Synthesizers/}.
 
-\bibitem[Bowers and Archer(2005)]{bowers2005}
-John Bowers and Phil Archer.
-\newblock Not hyper, not meta, not cyber but infra-instruments.
-\newblock In \emph{Proceedings of the 2005 conference on New interfaces for
-  musical expression}, pages 5--10. New Interfaces for Musical Expression,
-  2005.
+\bibitem[B.O.L.(2015)]{data.blgs.gov2014}
+B.O.L.
+\newblock Bureau of labor statistics, 2015.
+\newblock URL \url{http://www.bls.gov/data/}.
 
-\bibitem[Braun(2000)]{braun2000}
-Hans-Joachim Braun.
-\newblock \emph{Music and technology in the twentieth century}.
-\newblock JHU Press, 2000.
+\bibitem[Cahill(1919)]{cahill1919}
+Thaddeus Cahill.
+\newblock Art of and apparatus for generating and distributing music
+  electrically., February 1919.
+\newblock US Patent 1,295,691.
 
-\bibitem[Burnham(1979)]{burnham1979}
-Jack Burnham.
-\newblock \emph{Art \& Technology, the Panacea that Failed}.
-\newblock Audio Archives of Canada, 1979.
-
-\bibitem[Cage(1961)]{cage1961}
-John Cage.
-\newblock \emph{Silence. Middletown}.
-\newblock Wesleyan University Press, 1961.
+\bibitem[Chasalow(2009)]{barron2009}
+Eric Chasalow.
+\newblock Interview with bébé barron, 2009.
+\newblock URL \url{https://www.youtube.com/watch?v=Gfz1XrV8x04}.
 
 \bibitem[Christensen et~al.(2005)Christensen, Olesen, and
   Kj{\ae}r]{christensen2005}
@@ -79,24 +73,41 @@ Irwin Chusid.
 \newblock \emph{Contemporary Music Review}, 18\penalty0 (3):\penalty0 9--14,
   1999.
 
-\bibitem[Cihan()]{cihan2015}
+\bibitem[Cihan(2015{\natexlab{a}})]{cihan2015}
 Taylan Cihan.
-\newblock Porcupine.
+\newblock Porcupine, 2015{\natexlab{a}}.
 \newblock URL \url{http://taylancihan.com/porcupine.html}.
+
+\bibitem[Cihan(2015{\natexlab{b}})]{taylan}
+Taylan Cihan.
+\newblock Taylan cihan, musician, 2015{\natexlab{b}}.
+\newblock URL \url{http://www.taylancihan.com/}.
 
 \bibitem[Cluett(2013)]{cluett2013}
 Seth~Allen Cluett.
 \newblock \emph{Loud speaker: Towards a component theory of media sound}.
-\newblock PhD thesis, PRINCETON UNIVERSITY, 2013.
+\newblock PhD thesis, Princeton University, 2013.
 
-\bibitem[Collins(2004)]{collins2004}
+\bibitem[Collins(1998)]{collins1998}
+Nicolas Collins.
+\newblock Ubiquitous electronics: Technology and live performance 1966-1996.
+\newblock \emph{Leonardo Music Journal}, pages 27--32, 1998.
+
+\bibitem[Collins(2004{\natexlab{a}})]{collins}
+Nicolas Collins.
+\newblock Original hacking manual, 2004{\natexlab{a}}.
+\newblock URL
+  \url{http://www.nicolascollins.com/texts/originalhackingmanual.pdf}.
+
+\bibitem[Collins(2004{\natexlab{b}})]{collins2004}
 Nicolas Collins.
 \newblock Composers inside electronics: Music after david tudor.
-\newblock \emph{Leonardo Music Journal}, 14\penalty0 (1):\penalty0 iv--1, 2004.
+\newblock \emph{Leonardo Music Journal}, 14\penalty0 (1):\penalty0 iv--1,
+  2004{\natexlab{b}}.
 
 \bibitem[Collins(2006)]{collins2006}
 Nicolas Collins.
-\newblock \emph{Handmade electronic music: the art of hardware hacking}.
+\newblock \emph{Handmade Electronic Music: the Art of Hardware Hacking}.
 \newblock Taylor \& Francis, 2006.
 
 \bibitem[Collins(2008)]{collins2008}
@@ -159,26 +170,6 @@ Brian Eno.
 \newblock Liner notes.
 \newblock \emph{Discreet Music}, 1975.
 
-\bibitem[Eno(1978)]{eno1978}
-Brian Eno.
-\newblock \emph{Ambient 1: Music for airports}.
-\newblock Virgin Records, 1978.
-
-\bibitem[Eno(1980)]{eno1980b}
-Brian Eno.
-\newblock \emph{Ambient 3: Day of Radiance}.
-\newblock Virgin Records, 1980.
-
-\bibitem[Eno(1982)]{eno1982}
-Brian Eno.
-\newblock \emph{Ambient 4: On Land}.
-\newblock Virgin Records, 1982.
-
-\bibitem[Eno and Budd(1980)]{eno1980}
-Brian Eno and Harold Budd.
-\newblock \emph{Ambient 2: Plateaux of Mirrors}.
-\newblock Virgin Records, 1980.
-
 \bibitem[Evens(2005)]{evens2005}
 Aden Evens.
 \newblock \emph{Sound ideas: Music, machines, and experience}, volume~27.
@@ -202,16 +193,23 @@ Joshua Florian.
 \newblock \emph{http://jcfaudio.com/latte.html}.
 \newblock retrieved 2015{\natexlab{b}}.
 
+\bibitem[freestompboxes(2012{\natexlab{a}})]{freestomp}
+freestompboxes.
+\newblock devi ever improbability drive (traced), 2012{\natexlab{a}}.
+\newblock URL
+  \url{http://freestompboxes.org/viewtopic.php?f=7&t=18157&p=249393&hilit=improbability+drive#p249393}.
+
+\bibitem[freestompboxes(2012{\natexlab{b}})]{freestomp2}
+freestompboxes.
+\newblock Dwarfcraft devices - robot devil, 2012{\natexlab{b}}.
+\newblock URL
+  \url{http://freestompboxes.org/viewtopic.php?f=7&t=18344&hilit=robot+devil}.
+
 \bibitem[Ghazala(2004)]{ghazala2004}
 Qubais~Reed Ghazala.
 \newblock The folk music of chance electronics: Circuit-bending the modern
   coconut.
 \newblock \emph{Leonardo Music Journal}, 14:\penalty0 97--104, 2004.
-
-\bibitem[Ghazala(2005)]{ghazala2005}
-Reed Ghazala.
-\newblock \emph{Circuit-bending: build your own alien instruments}.
-\newblock Wiley Pub., 2005.
 
 \bibitem[Gibb(2010)]{gibb2010}
 Alicia~M Gibb.
@@ -219,14 +217,20 @@ Alicia~M Gibb.
   tool.
 \newblock Master's thesis, Pratt Institute, 2010.
 
-\bibitem[Grosse(2011)]{grosse2011}
+\bibitem[Grosse(2011{\natexlab{a}})]{ardcode}
+Darwin Grosse.
+\newblock Code repository for ardcore module by darwin grosse,
+  2011{\natexlab{a}}.
+\newblock URL \url{https://github.com/darwingrosse/ArdCore-Code}.
+
+\bibitem[Grosse(2011{\natexlab{b}})]{grosse2011}
 Darwin Grosse.
 \newblock Development of the ardcore computation module.
-\newblock Master's thesis, University of Denver, 2011.
+\newblock Master's thesis, University of Denver, 2011{\natexlab{b}}.
 
 \bibitem[Hamm(1973)]{hamm1973}
 Russell Hamm.
-\newblock Tubes versus transistors-is there an audible difference.
+\newblock Tubes versus transistors: is there an audible difference?
 \newblock \emph{Journal of the audio engineering society}, 21\penalty0
   (4):\penalty0 267--273, 1973.
 
@@ -244,6 +248,11 @@ William Haslett.
 Paul Hegarty.
 \newblock \emph{Noise music: A history}.
 \newblock Bloomsbury Academic, 2007.
+
+\bibitem[Henry(2010)]{Henry}
+Thomas Henry.
+\newblock The 8038 audio generator project, 2010.
+\newblock URL \url{http://www.birthofasynth.com/Thomas_Henry/Pages/8038.html}.
 
 \bibitem[Hermans(2014)]{hermans2014}
 Phillip Hermans.
@@ -268,20 +277,24 @@ Thomas~B. Holmes.
   composition}.
 \newblock Psychology Press, 2002.
 
-\bibitem[Holzaepfel(1994)]{holzaepfel1994}
-John Holzaepfel.
-\newblock \emph{David Tudor and the performance of American experimental music,
-  1950-1959}.
-\newblock PhD thesis, City University of New York, 1994.
+\bibitem[Howse(2012)]{howse}
+Martin Howse.
+\newblock Radio mycelium, 2012.
+\newblock URL \url{http://libarynth.org/parn/radio_mycelium}.
 
-\bibitem[Hugill(2012)]{hugill2012}
-Andrew Hugill.
-\newblock \emph{The digital musician}.
-\newblock Routledge, 2012.
+\bibitem[Howse(2015)]{howse2015}
+Martin Howse.
+\newblock A manual for the dark interpreter (towers) v0.6, 2015.
+\newblock URL \url{http://1010.co.uk/manual.pdf}.
 
 \bibitem[Jackson(2014)]{jackson2014}
 Steven~J Jackson.
 \newblock Rethinking repair, 2014.
+
+\bibitem[Jones(2010)]{techne}
+Suzanne Jones, Bonnie &~Thorpe.
+\newblock Techne, 2010.
+\newblock URL \url{http://technesound.org/}.
 
 \bibitem[Kahn(2014)]{kahn2014}
 Douglas Kahn.
@@ -298,15 +311,15 @@ Caleb Kelly.
 \newblock \emph{Cracked media: the sound of malfunction}.
 \newblock MIT Press, 2009.
 
-\bibitem[Kelly(2011)]{kelly2011}
-Caleb~(Ed.) Kelly.
+\bibitem[Kelly~(Ed.)(2011)]{kelly2011}
+Caleb Kelly~(Ed.).
 \newblock \emph{Sound}.
 \newblock Whitechapel Gallery, 2011.
 
-\bibitem[Kettelkamp(1984)]{kettelkamp1984}
-Larry Kettelkamp.
-\newblock \emph{Electronic Musical Instruments: What They Do, how They Work}.
-\newblock W. Morrow, 1984.
+\bibitem[Kock(1978)]{kock1978}
+Winston~E Kock.
+\newblock \emph{The Creative Engineer: the Art of Inventing}.
+\newblock Plenum Publishing Corporation, 1978.
 
 \bibitem[Kuivila(2004)]{kuivila2004}
 Ron Kuivila.
@@ -314,21 +327,15 @@ Ron Kuivila.
   in the music of david tudor.
 \newblock \emph{Leonardo Music Journal}, 14:\penalty0 17--23, 2004.
 
-\bibitem[Kuivila and Behrman(1998)]{kuivila1998}
-Ron Kuivila and David Behrman.
-\newblock Composing with shifting sand: A conversation between ron kuivila and
-  david behrman on electronic music and the ephemerality of technology.
-\newblock \emph{Leonardo Music Journal}, pages 13--16, 1998.
-
 \bibitem[Lancaster and Berlin(1988)]{lancaster1988}
 Don Lancaster and Howard~M Berlin.
 \newblock \emph{CMOS cookbook}.
 \newblock Sams, 1988.
 
-\bibitem[Langford-Smith(1953)]{langford1953}
-Fritz Langford-Smith.
-\newblock \emph{Radiotron designer's handbook}.
-\newblock Wireless Press, 1953.
+\bibitem[Magnus(2011)]{ardcodeb}
+G.~Magnus.
+\newblock Third part code repository for ardcore module by, 2011.
+\newblock URL \url{https://github.com/Magnus-G/Ardcore}.
 
 \bibitem[Mellis(2011)]{mellis2011}
 David~A Mellis.
@@ -380,21 +387,16 @@ George~William Nasmyth.
 \newblock \emph{The Frequency of the Singing Arc}.
 \newblock Macmillan Company, 1908.
 
-\bibitem[Novak(2013)]{novak2013}
-David Novak.
-\newblock \emph{Japanoise: Music at the edge of circulation}.
-\newblock Duke University Press Books, 2013.
+\bibitem[Nishizawa and Terasaki(1974)]{nishizawa1974}
+Jun-ichi Nishizawa and Takeshi Terasaki.
+\newblock Field effect semiconductor device having an unsaturated triode vacuum
+  tube characteristics, august 1974.
+\newblock US Patent 3,828,230.
 
-\bibitem[Ouzounian(2010)]{ouzounian2010}
-Gascia Ouzounian.
-\newblock An interview with paul demarinis.
-\newblock \emph{Computer Music Journal}, 34\penalty0 (4):\penalty0 10--21,
-  2010.
-
-\bibitem[Padfield et~al.(2014)Padfield, Haldrup, and Hobye]{padfield2014}
-Nicolas Padfield, Michael Haldrup, and Mads Hobye.
-\newblock Empowering academia through modern fabrication practices.
-\newblock 2014.
+\bibitem[OSHWA()]{oshwa2015}
+OSHWA.
+\newblock Open source hardware association.
+\newblock URL \url{http://www.oshwa.org/}.
 
 \bibitem[Page(1837)]{page1837}
 Charles~Grafton Page.
@@ -411,6 +413,12 @@ Joseph~A Paradiso, John Heidemann, and Thomas~G Zimmerman.
 Tae~Hong Park.
 \newblock An interview with max mathews.
 \newblock \emph{Computer Music Journal}, 33\penalty0 (3):\penalty0 9--22, 2009.
+
+\bibitem[Peloušek(2014)]{pelousek2014}
+Václav Peloušek.
+\newblock Basic research in translating biological, mechanical and chemical
+  principles into electronic musical instrument language and vice-versa.
+\newblock Master's thesis, Vienna Institute of Fine Arts, 2014.
 
 \bibitem[Perner-Wilson(2011)]{perner2011}
 Hannah Hannah~Rosamonde Perner-Wilson.
@@ -435,10 +443,16 @@ Trevor~J Pinch and Frank Trocco.
 \newblock \emph{Analog days: The invention and impact of the Moog synthesizer}.
 \newblock Harvard University Press, 2009.
 
-\bibitem[Pritchett(2004)]{pritchett2004}
-James Pritchett.
-\newblock David tudor as composer/performer in cage's variations ii.
-\newblock \emph{Leonardo music journal}, 14:\penalty0 11--16, 2004.
+\bibitem[Piper and Sprott(2010)]{piper2010}
+Jessica~Rylan Piper and Julien~Clinton Sprott.
+\newblock Simple autonomous chaotic circuits.
+\newblock \emph{Circuits and Systems II: Express Briefs, IEEE Transactions on},
+  57\penalty0 (9):\penalty0 730--734, 2010.
+
+\bibitem[RadioBoulevard(2015)]{radioblvd2014}
+RadioBoulevard.
+\newblock Radioboulevard, 2015.
+\newblock URL \url{http://www.radioblvd.com/}.
 
 \bibitem[Riis(2013)]{riis2013}
 Morten Riis.
@@ -464,10 +478,10 @@ Jessica Rylan.
 Jessica Rylan.
 \newblock artist's talk at mit, 2005.
 
-\bibitem[Satie(1917)]{satie}
-Eric Satie.
-\newblock \emph{Furniture Music}.
-\newblock 1917.
+\bibitem[Schurer(2015)]{infanem}
+Ken Schurer.
+\newblock Infanem improbability drive product page, 2015.
+\newblock URL \url{http://www.infanem.com/improbability-drive/}.
 
 \bibitem[Shone(retrieved 2015{\natexlab{a}})]{shone2004}
 Tristan Shone.
@@ -485,6 +499,31 @@ Jay~S Silver.
   interactivity with trees, pencils, grandpa, even the kitchen sink.
 \newblock In \emph{Proceedings of the seventh ACM conference on Creativity and
   cognition}, pages 483--484. ACM, 2009.
+
+\bibitem[Snyder and McPherson(2012)]{snyder2012}
+Jeff Snyder and Andrew McPherson.
+\newblock The jd-1: an implementation of a hybrid keyboard/sequencer controller
+  for analog synthesizers.
+\newblock In \emph{Proceedings of the International Conference on New
+  Interfaces for Musical Expression, NIME}, volume~12, 2012.
+
+\bibitem[Team()]{factmag2015}
+Fact Team.
+\newblock Roland officialy releases aira modular.
+\newblock URL
+  \url{http://www.factmag.com/2015/04/15/roland-aira-modular-revealed-eurorack-compatible/}.
+
+\bibitem[TexasInstruments(2008)]{texasinstrument}
+TexasInstruments.
+\newblock Texas instruments introduces the first commercially available
+  transistor, 2008.
+\newblock URL
+  \url{https://www.ti.com/corp/docs/company/history/timeline/semicon/1950/docs/54commercial.htm}.
+
+\bibitem[Theremin(1928)]{theremin1928}
+Leo Theremin.
+\newblock Method of and apparatus for the generation of sounds, February 1928.
+\newblock US Patent 1,661,058.
 
 \bibitem[Thompson(1995)]{thompson1995}
 Emily Thompson.
@@ -512,11 +551,19 @@ Dominique Vinck and Eric Blanco.
 \newblock \emph{Everyday engineering: An ethnography of design and innovation}.
 \newblock MIT Press, 2003.
 
-\bibitem[von Hornbostel and Sachs(1961)]{von1961}
-Erich~M von Hornbostel and Curt Sachs.
-\newblock Classification of musical instruments: Translated from the original
-  german by anthony baines and klaus p. wachsmann.
-\newblock \emph{The Galpin Society Journal}, pages 3--29, 1961.
+\bibitem[Whitelaw(2013)]{whitelaw2013}
+Mitchell Whitelaw.
+\newblock Sheer materiality: Material computing in the work of martin howse and
+  ralph baeker.
+\newblock \emph{Scan, Journal of Media Arts Culture}, 10\penalty0 (2), 2013.
+\newblock URL
+  \url{http://www.scan.net.au/scn/journal/vol10number2/Mitchell-Whitelaw.html}.
+
+\bibitem[Wiener(1965)]{wiener1965}
+Norbert Wiener.
+\newblock \emph{Cybernetics or Control and Communication in the Animal and the
+  Machine}.
+\newblock MIT press, 1965.
 
 \bibitem[Williams et~al.(2012)Williams, Gibb, and Weekly]{williams2012}
 Amanda Williams, Alicia Gibb, and David Weekly.
@@ -524,10 +571,16 @@ Amanda Williams, Alicia Gibb, and David Weekly.
   research.
 \newblock \emph{interactions}, 19\penalty0 (2):\penalty0 14--19, 2012.
 
-\bibitem[Wilson(retrieved 2015)]{wilson2015}
+\bibitem[Wilson(2013)]{wilson2013}
 Ray Wilson.
-\newblock
-  \emph{http://www.musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=WSG2010/wsg_page1.html&CATPARTNO=WSG001}.
-\newblock retrieved 2015.
+\newblock \emph{Make: Analog Synthesizers - Make Electronic Sounds the
+  DIY-Synth Way}.
+\newblock Maker Media, Inc., 2013.
+
+\bibitem[Wilson(2015)]{wilson2015}
+Ray Wilson.
+\newblock Weird sound generator, 2015.
+\newblock URL
+  \url{http://www.musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=WSG2010/wsg_page1.html&CATPARTNO=WSG001}.
 
 \end{thebibliography}

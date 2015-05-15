@@ -11,79 +11,83 @@ p4
 ((lp5
 Vdraftwatermark
 p6
-aVsetspace
-p7
 aVlistings
+p7
+aVsetspace
 p8
-aVlipsum
+aVfloat
 p9
-aVtimes
+aVlipsum
 p10
-aVenumerate
+aVtimes
 p11
-aVnatbib
+aVenumerate
 p12
-atp13
-Rp14
+aVnatbib
+p13
+atp14
+Rp15
 sVfiles_with_guttermarks
-p15
+p16
 g4
-((lp16
+((lp17
 V/Users/ejt/Desktop/LatexThesisTemp/titlePage.tex
-p17
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/2-samplechap.tex
 p18
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/2-samplechap.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/2-samplechap.tex
 p19
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./main.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/2-samplechap.tex
 p20
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/2-samplechap.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/1-samplechap.tex
 p21
-aV/Users/ejt/Desktop/LatexThesisTemp/./Appendices/AppendixA.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/2-samplechap.tex
 p22
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Desktop/LatexThesisTemp/./Appendices/AppendixA.tex
 p23
-aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
 p24
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
+aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/1-samplepart1/1-samplechap.tex
 p25
-aS'main.tex'
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
 p26
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/0-introduction.tex
+aS'main.tex'
 p27
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/0-introduction.tex
 p28
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Appendices/AppendixA.tex
 p29
-aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/0-introduction.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/1-samplechap.tex
 p30
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Appendices/AppendixA.tex
+aV/Users/ejt/Desktop/LatexThesisTemp/./Chapters/0-introduction.tex
 p31
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/2-samplechap.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/Appendices/AppendixA.tex
 p32
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Chapters/2-samplepart2/1-samplechap.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/Chapters/1-samplepart1/2-samplechap.tex
 p33
-aV/Users/ejt/Desktop/LatexThesisTemp/./main.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./Chapters/2-samplepart2/1-samplechap.tex
 p34
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/1-samplechap.tex
+aV/Users/ejt/Desktop/LatexThesisTemp/./main.tex
 p35
-aV/Users/ejt/Desktop/LatexThesisTemp/./chapterOrdering.tex
-p36
-aV/Users/ejt/Desktop/LatexThesisTemp/./docVars.tex
-p37
-aV/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
-p38
-aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./main.aux
-p39
 aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./docVars.tex
+p36
+aV/Users/ejt/Desktop/LatexThesisTemp/./chapterOrdering.tex
+p37
+aV/Users/ejt/Desktop/LatexThesisTemp/./docVars.tex
+p38
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./main.tex
+p39
+aV/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
 p40
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./main.tex
+aV/Users/ejt/Documents/School/Dartmouth/Thesis/Final /mastersthesis/./main.aux
 p41
-aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./chapterOrdering.tex
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./Chapters/1-samplepart1/1-samplechap.tex
 p42
-atp43
-Rp44
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./main.tex
+p43
+aV/Users/ejt/Documents/MAIN/Dartmouth/Thesis/Final /mastersthesis/./chapterOrdering.tex
+p44
+atp45
+Rp46
 sVsynctex
-p45
+p47
 I01
 s.

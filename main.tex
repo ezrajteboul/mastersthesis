@@ -29,7 +29,8 @@
 
 \graphicspath{{Figures/}} % Specifies the directory where pictures are stored
 \usepackage{enumerate}% http://ctan.org/pkg/enumerate
-\usepackage[square, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage[round, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage{float} % allows the transformation of floating images into fixed images by using the H flag
 \usepackage{listings}
 \usepackage{times}
 \ifpaper
@@ -96,7 +97,7 @@
 %       ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
 
-\singlespacing
+\doublespacing
 \clearpage
 \thispagestyle{plain}
 \pagestyle{plain}
@@ -193,7 +194,7 @@
 % Constant Name & Symbol & = & Constant Value (with units) \\
 %}
 
-%----------------------------------------------------------------------------------------
+%---------------------------------------------------------------------------------------
 %       SYMBOLS
 %----------------------------------------------------------------------------------------
 
@@ -254,3 +255,14 @@
 \bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
 
 \end{document}  
+
+\title{\title{}
+\author{}
+\date{\today}
+\abstract{}
+\maketitle
+}
+\author{}
+\date{\today}
+\abstract{}
+\maketitle

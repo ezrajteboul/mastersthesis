@@ -2,61 +2,72 @@
 \addvspace {10\p@ }
 \ttl@tocsep 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces schematic of tube preamplifier designed by the author\relax }}{12}{figure.caption.15}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces bill of materials for that preamplifier\relax }}{13}{figure.caption.16}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces one of Edison's ``Tone Tests'', 1918 \cite {thompson1995}\relax }}{14}{figure.caption.19}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Gray's Electro Harmonic Telegraph patent\relax }}{16}{figure.caption.21}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Illustration of the singing arc\relax }}{17}{figure.caption.22}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Some of the Tellharmonium's tonewheels\relax }}{18}{figure.caption.23}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces advertisement for the Freshman radio kit\relax }}{19}{figure.caption.25}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Front cover of Radio Shack's 1939 catalog\relax }}{20}{figure.caption.26}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces the RCA Mk.II with its inventors\relax }}{21}{figure.caption.27}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Le Caine's Electronic Sackbut\relax }}{22}{figure.caption.28}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Mark Mothersbaugh bought the only electronium from Motown and is restoring it\relax }}{23}{figure.caption.29}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Louis and B\IeC {\'e}b\IeC {\'e} Barron in the studio\relax }}{25}{figure.caption.30}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces An instance of setting the score for Cage's \emph {variations II}\relax }}{26}{figure.caption.33}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Tudor performing Variations II\relax }}{27}{figure.caption.34}
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Performing amidst electronics for \emph {Bandoneon!}\relax }}{29}{figure.caption.35}
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Tudor's diagram for his \emph {Rainforest IV} in effect describes the piece\relax }}{30}{figure.caption.36}
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Tudor's score for \emph {Untitled}\relax }}{30}{figure.caption.37}
-\contentsline {figure}{\numberline {2.18}{\ignorespaces A schematic for the minimoog's VCO circuit, along with a rough circuit board layout\relax }}{33}{figure.caption.39}
-\contentsline {figure}{\numberline {2.19}{\ignorespaces Klaus Schulze's moog-based system, mid 1970's\relax }}{34}{figure.caption.40}
-\contentsline {figure}{\numberline {2.20}{\ignorespaces Carlos and her Moog 55 system\relax }}{35}{figure.caption.41}
-\contentsline {figure}{\numberline {2.21}{\ignorespaces Buchla's distinctive arbitrary function generator (recent model)\relax }}{36}{figure.caption.42}
-\contentsline {figure}{\numberline {2.22}{\ignorespaces Operational Diagram for Discreet music\relax }}{37}{figure.caption.44}
-\contentsline {figure}{\numberline {2.23}{\ignorespaces Schematic for \emph {Pygmy Gamelan} \cite [p.107]{beirer2011}\relax }}{39}{figure.caption.47}
-\contentsline {figure}{\numberline {2.24}{\ignorespaces Collins' Light Controlled Mixer circuit\relax }}{41}{figure.caption.50}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The Theremin's complete schematic \citep [p.6 of 17]{theremin1928}\relax }}{10}{figure.caption.13}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The Telharmonium's tone generating electro-mechanical circuit \citep [p.4 of 141]{cahill1919}\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The Electronic Sackbut by Hugh LeCaine\relax }}{13}{figure.caption.16}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The Electronium by Raymond Scott, with Mark Mothersbaugh, its current owner, 1993\relax }}{14}{figure.caption.17}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Louis and B\IeC {\'e}b\IeC {\'e} Barron in the studio\relax }}{15}{figure.caption.18}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces The first functional transistor, Bell Laboratories, 1947 (replica)\relax }}{16}{figure.caption.20}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces The Big Moog Modular System with Klaus Schulze, mid 1970's\relax }}{18}{figure.caption.22}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The Moog 55 system customized for Wendy Carlos\relax }}{19}{figure.caption.23}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces The Arbitrary Function Generator, Buchla's distinctive aleatory module\relax }}{20}{figure.caption.24}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Variations II, performed by Tudor\relax }}{21}{figure.caption.26}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces The score for \emph {Rainforest IV} by David Tudor\relax }}{22}{figure.caption.27}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces The score for \emph {Untitled} by David Tudor\relax }}{22}{figure.caption.28}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces The Operational Diagram for Discreet Music\citep {eno1975}\relax }}{24}{figure.caption.29}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces The Improbability Drive, traced from a second version board (courtesy of Ken Schurer)\relax }}{50}{figure.caption.55}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces The Improbability Drive, layed out by storyboardist for proto-board and PCB\relax }}{50}{figure.caption.56}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Jessica Rylan performing with the personal synth\relax }}{53}{figure.caption.59}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces The Personal Synth, close up view\relax }}{53}{figure.caption.60}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces The Personal Synth, inside view\relax }}{55}{figure.caption.61}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Cihan's \emph {Porcupine}, front view\relax }}{58}{figure.caption.65}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Cihan's \emph {Porcupine}, circuit board view\relax }}{58}{figure.caption.66}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Nic Collins' 4049 Low Pass Resonating filter from \emph {Handmade Electronic Music}\relax }}{59}{figure.caption.67}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Nic Collins' 4049 Low Pass Resonating filter from \emph {Hardware Hacking}\relax }}{59}{figure.caption.68}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces PT2399 stock circuit, from the application note by Princeton Technologies\relax }}{59}{figure.caption.69}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Beavis Audio Muff Fuzz\relax }}{60}{figure.caption.70}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces the PT2399 internal block diagram from the Princeton datasheet\relax }}{61}{figure.caption.72}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces the AVR system block diagram for the ATMega328, from Atmel - included in the recent Arduino packages\relax }}{62}{figure.caption.73}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Shone's live setup around the release of the \emph {Drone Machines} album\relax }}{63}{figure.caption.75}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces the \emph {Linear Actuator}\relax }}{64}{figure.caption.76}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces the \emph {Bellows}\relax }}{65}{figure.caption.77}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces a technical diagram for the \emph {Bellows} instrument\relax }}{66}{figure.caption.78}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces the Headgear device, wired for operation\relax }}{67}{figure.caption.79}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces The schematic for each microphone wiring, from the MAKE article\relax }}{68}{figure.caption.80}
-\contentsline {figure}{\numberline {3.20}{\ignorespaces the first version circuit board, with an arduino nano\relax }}{70}{figure.caption.83}
-\contentsline {figure}{\numberline {3.21}{\ignorespaces the first version synthesizer module, by Darwin Grosse\relax }}{70}{figure.caption.84}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces the currently available ardcore, by Snazzy FX\relax }}{70}{figure.caption.85}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces The schematic for the DAC section of the Ardcore, based around a TLC7524\relax }}{71}{figure.caption.86}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces The circuit board layout for the first version Ardcore, by Darwin Grosse\relax }}{71}{figure.caption.87}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Martin Howse in a performance using soil, chemicals, various electronics\relax }}{74}{figure.caption.89}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces displaying the analog section of the board with missing parts\relax }}{75}{figure.caption.90}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces displaying the digital section of the board with missing parts\relax }}{75}{figure.caption.91}
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Jacob's Well mastering desk\relax }}{78}{figure.caption.94}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The Improbability Drive, traced from a second version board, courtesy of Ken Schurer\relax }}{30}{figure.caption.34}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The Improbability Drive, adapted for commercial production \citep {infanem}\relax }}{31}{figure.caption.35}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The Improbability Drive circuit layouts for PCB or prototype board, courtesy of storyboardist\relax }}{31}{figure.caption.36}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces a screenshot of the Freestompboxes.org page describing the \textit {Improbability Drive} \citep {freestomp}\relax }}{32}{figure.caption.37}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Jessica Rylan performing with the personal synth\relax }}{34}{figure.caption.40}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces The Personal Synth, close up view\relax }}{35}{figure.caption.41}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The 8038 oscillator functional diagram, courtesy of Intersil\relax }}{35}{figure.caption.42}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The original 8038 oscillator schematic by Thomas Henry\citep {Henry}\relax }}{36}{figure.caption.43}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Rylan's version of the 8038 \citep {rylan2011}. In red is the voltage controlled wave-shaper\relax }}{37}{figure.caption.44}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces The \textit {Personal Synth}'s unique zener bridge VCA design. In red is the diode bridge for the VCA\relax }}{38}{figure.caption.45}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces The functional diagram for the \textit {Personal Synth} \citep {rylan2011}\relax }}{39}{figure.caption.46}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces The adapted functional diagram for the \textit {Personal Synth}\relax }}{40}{figure.caption.47}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces The \textit {Personal Synth}, inside view\relax }}{40}{figure.caption.48}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Two stage distortion schematic by Collins \citep [p.155]{collins2006}\relax }}{41}{figure.caption.51}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces A ``tube sound fuzz schematic'' by Anderton \citep [p173]{anderton1980}\relax }}{42}{figure.caption.52}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces The \textit {Robot Devil} schematic, as traced by user Nocentelli \citep {freestomp2}\relax }}{42}{figure.caption.53}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces The \textit {Low Rider} schematic by Collins \citep [p.159]{collins2006}\relax }}{43}{figure.caption.54}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces The \textit {Octave Multiplexer} schematic by \textit {Electro-Harmonix} \citep {}\relax }}{44}{figure.caption.55}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces The annotated version of the\textit {Robot Devil} schematic by \textit {Nocentelli}\relax }}{45}{figure.caption.56}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Cihan's \emph {Porcupine}, front view\relax }}{47}{figure.caption.59}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Cihan's \emph {Porcupine}, circuit board view\relax }}{47}{figure.caption.60}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Nicolas Collins' 4049 Low Pass Resonating filter from \emph {Handmade Electronic Music}\relax }}{48}{figure.caption.61}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Nicolas Collins' 4049 Low Pass Resonating filter from \emph {Hardware Hacking}\relax }}{48}{figure.caption.62}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces PT2399 stock circuit, from the application note by Princeton Technologies\relax }}{48}{figure.caption.63}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Beavis Audio Muff Fuzz\relax }}{49}{figure.caption.64}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces the PT2399 internal block diagram from the Princeton datasheet\relax }}{50}{figure.caption.65}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces the AVR system block diagram for the ATMega328, from Atmel - included in the recent Arduino packages\relax }}{52}{figure.caption.67}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Shone's live setup around the release of the \emph {Drone Machines} album\relax }}{53}{figure.caption.68}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces the \emph {Linear Actuator}\relax }}{54}{figure.caption.69}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces the \emph {Bellows}\relax }}{54}{figure.caption.70}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces a technical diagram for the \emph {Bellows} instrument\relax }}{55}{figure.caption.71}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces the Headgear device, wired for operation\relax }}{56}{figure.caption.73}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces The schematic for each microphone wiring, from the MAKE article\relax }}{57}{figure.caption.74}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces the first version circuit board, with an Arduino nano\relax }}{59}{figure.caption.77}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces the first version synthesizer module, by Darwin Grosse\relax }}{67}{figure.caption.78}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces the currently available ardcore, by Snazzy FX\relax }}{68}{figure.caption.79}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces The schematic for the DAC section of the Ardcore, based around a TLC7524\relax }}{69}{figure.caption.80}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces The circuit board layout for the first version Ardcore, by Darwin Grosse\relax }}{69}{figure.caption.81}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces The schematic for the \textit {Mater Tenebraum}'s analog circuitry\relax }}{70}{figure.caption.84}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces The schematic for the \textit {Mater Tenebraum}'s digital circuitry\relax }}{71}{figure.caption.85}
+\contentsline {figure}{\numberline {3.41}{\ignorespaces the \textit {Mater Tenebraum}, with its copper pad interface and irregular shape. courtesy of Martin Howse\relax }}{72}{figure.caption.86}
+\contentsline {figure}{\numberline {3.42}{\ignorespaces A screenshot of the main.c file embedded in the \textit {Mater Tenebraum} courtesy of Martin Howse.\relax }}{73}{figure.caption.87}
+\contentsline {figure}{\numberline {3.43}{\ignorespaces A screenshot of the CA.C embedded in the \textit {Mater Tenebraum} courtesy of Martin Howse.\relax }}{74}{figure.caption.88}
+\contentsline {figure}{\numberline {3.44}{\ignorespaces the \textit {Mater Tenebraum}, with its copper pad interface and irregular shape. courtesy of Martin Howse\relax }}{75}{figure.caption.89}
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Jacob's Well mastering desk\relax }}{76}{figure.caption.91}
 \ttl@tocsep 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Bonnie Jones performing with a live circuit bending setup. courtesy of simple geometry records\relax }}{82}{figure.caption.98}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The Detektor system, courtesy of detektor.org\relax }}{96}{figure.caption.104}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The Earthboot board, courtesy of \citep {whitelaw2013}\relax }}{97}{figure.caption.105}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Martin Howse performing with soil, chemicals, various electronics. Courtesy of Art\IeC {\'e} T\IeC {\'e}l\IeC {\'e}vision.\relax }}{97}{figure.caption.106}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces The FM needle, a hybrid of turntable needle and FM transmitter. courtesy of 1010.co.uk\relax }}{99}{figure.caption.107}
 \addvspace {10\p@ }
 \ttl@tocsep 
 \addvspace {10\p@ }

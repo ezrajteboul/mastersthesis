@@ -1,74 +1,72 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ./main.aux
+Case mismatch error between cite keys henry and Henry
+---line 167 of file ./main.aux
+ : \citation{rylan2011,henry
+ :                          }
+I'm skipping whatever remains of this command
 The style file: plainnat.bst
 Database file #1: Bibliography.bib
-Repeated entry---line 855 of file Bibliography.bib
- : @book{novak2013
- :                ,
+"{" immediately follows a field name---line 1126 of file Bibliography.bib
+ :   publisher
+ :            {self-published}
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 941 of file Bibliography.bib
- :   
- :   title={A Manual for The Dark Interpreter (Towers) V0.6},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "shone"
 Warning--I didn't find a database entry for "2005"
-Warning--empty publisher in beavis2015
-Warning--empty year in cihan2015
 Warning--empty year in princetonpt
 Warning--empty publisher in diakopoulos2015
 Warning--empty publisher in florian2015
 Warning--empty publisher in florian2015b
 Warning--there's a number but no volume in kahn2014
 Warning--empty publisher in nam2015
-Warning--empty journal in padfield2014
+Warning--empty year in oshwa2015
 Warning--empty year in rylan2011
-Warning--empty publisher in satie
 Warning--empty journal in shone2004
 Warning--empty journal in shone2012
+Warning--empty year in factmag2015
 Warning--empty journal in tudor1976
 Warning--empty journal in tudor
-Warning--empty publisher in wilson2015
-You've used 96 entries,
+You've used 104 entries,
             2773 wiz_defined-function locations,
-            1045 strings with 15471 characters,
-and the built_in function-call counts, 33993 in all, are:
-= -- 2980
-> -- 1280
-< -- 101
-+ -- 479
-- -- 381
-* -- 2117
-:= -- 5288
-add.period$ -- 290
-call.type$ -- 96
-change.case$ -- 376
-chr.to.int$ -- 94
-cite$ -- 208
-duplicate$ -- 1976
-empty$ -- 3326
-format.name$ -- 501
-if$ -- 7199
-int.to.chr$ -- 3
+            1081 strings with 16924 characters,
+and the built_in function-call counts, 35854 in all, are:
+= -- 3169
+> -- 1328
+< -- 108
++ -- 506
+- -- 396
+* -- 2194
+:= -- 5535
+add.period$ -- 314
+call.type$ -- 104
+change.case$ -- 418
+chr.to.int$ -- 98
+cite$ -- 221
+duplicate$ -- 2002
+empty$ -- 3550
+format.name$ -- 522
+if$ -- 7612
+int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 117
-newline$ -- 485
-num.names$ -- 385
-pop$ -- 1006
+missing$ -- 91
+newline$ -- 526
+num.names$ -- 416
+pop$ -- 1105
 preamble$ -- 1
-purify$ -- 319
+purify$ -- 340
 quote$ -- 0
-skip$ -- 1387
+skip$ -- 1488
 stack$ -- 0
-substring$ -- 940
-swap$ -- 196
-text.length$ -- 13
+substring$ -- 886
+swap$ -- 201
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 876
-warning$ -- 16
-while$ -- 365
+type$ -- 1024
+warning$ -- 13
+while$ -- 378
 width$ -- 0
-write$ -- 1191
+write$ -- 1289
 (There were 2 error messages)
